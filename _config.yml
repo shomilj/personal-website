@@ -1,34 +1,32 @@
 # Site settings
-title: Klise Theme
+title: Shomil Jain
 description: >-
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  UC Berkeley | Electrical Engineering and Computer Science | Class of 2022
 lang: en-US
-timezone: Asia/Jakarta
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/mahendrata.now.sh
-mode: dark # default theme "dark" | "light"
+timezone: America/Pacific
+# image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/shomilj/personal-website
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Klisé Theme
+  name: Shomil Jain
   bio: >-
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username
-  email: your-email@email.com
-  avatar: /assets/img/avatar.jpg
+    Hello! I'm a student at UC Berkeley studying Electrical Engineering and Computer Science. This is my personal website!
+  username: shomil
+  email: shomil@berkeley.edu
+  avatar: /assets/img/shomil.png
 
 # Url settings
-url: "https://klise.now.sh"
-baseurl:
+url: "https://shomil.me"
+baseurl: 
 permalink: /:title/
-google_analytics:
+google_analytics: G-VDVC2KZQV2
 fb_appid:
 
 # Collection setting
 collections:
-  posts:
+  notes:
     output: true
 
 # Markdown settings
