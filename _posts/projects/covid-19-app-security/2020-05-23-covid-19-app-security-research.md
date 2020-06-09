@@ -2,7 +2,7 @@
 title: A brief security analysis of COVID-19 informational & contact tracing apps
 date: 2020-05-23 00:00:00 +00:00
 modified: 2020-05-23 00:00:00 +00:00
-tags: [articles]
+tags: [projects]
 description: See title.
 
 ---
