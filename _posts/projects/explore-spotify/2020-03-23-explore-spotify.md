@@ -3,8 +3,7 @@ title: Explore Spotify - a data-driven analysis of my Spotify Streaming History
 date: 2020-03-23 00:00:00 +00:00
 modified: 2020-03-23 00:00:00 +00:00
 tags: [projects]
-description: See title.  
-
+description: See title.
 ---
 
 > This project is part of the Explore series: a mega-project that I've been working on for several months in which I analyze my day-to-day habits through data.
@@ -17,7 +16,7 @@ I've released my code on [GitHub]( https://github.com/shomilj/Explore-Spotify) �
 
 #### File Overview
 
-Here's a summary of the interesting files from this dataset.
+Here's a summary of the interesting files from this dataset. 
 
 | data             | description                                                  |
 | ---------------- | ------------------------------------------------------------ |
@@ -25,19 +24,27 @@ Here's a summary of the interesting files from this dataset.
 | SearchQueries    | Spotify saves every single search query I've ever entered – as well as the time/platform of the query and what I clicked on after I hit search. |
 | StreamingHistory | Every single song I've streamed over the past year, as well as the `endTime`, `artistName`, `trackName`, and `msPlayed`. |
 
-<br/>
+Spotify's data download also includes other information, like a list of tracks you've added to your library and playlists you've created. 
+
+*A brief aside: it's pretty easy to scrape information from your friends' public playlists through Spotify's unofficial Web API. If your friends make most of their playlists public, you can throw all of the data into a network graph and create some pretty interesting visualizations based on artist/track overlap. You can also pretty easily make playlists curated to your overlap in music taste!* 
 
 #### Streaming History over the Past 12 Months
 
-<img src="image-20200608172521585.png" alt="image-20200608172521585" style="border-style: dotted; border-width: 1px; border-color: #ebeff0" />
+Ok, back to analyzing my own data. To start, I took a look at my streaming over time – from March of last year to the present day. It appears I've mostly stayed pretty constant, with a few spikes in **June** (increased biking & working out during Summer break), **December** (probably due to long flights), and **March** (due to shelter-in-place & working from home). 
+
+In **April** and **September**, the end & start of the school year, I typically more time with people than alone – habits which were reflected in the dip in streaming during those periods. 
+
+<img src="image-20200608172521585.png" alt="image-20200608172521585" style="border-style: dotted; border-width: 2px; border-color: #ebeff0" />
 
 #### Aggregated Daily Streaming History
 
-<img src="image-20200608172620689.png" alt="image-20200608172620689" style="border-style: dotted; border-width: 1px; border-color: #ebeff0;" />
+My day-to-day habits were pretty as-expected. My streaming gradually increases throughout the day, peaking at 10 AM, 4 PM, and 8 PM – the times I'm most likely studying on my own in a library or cafe. 
 
-<br/>
+<img src="image-20200608172620689.png" alt="image-20200608172620689" style="border-style: dotted; border-width: 2px; border-color: #ebeff0;" />
 
 #### Most Popular Tracks and Artists
+
+Not much here, other than some aggregated statistics about my top tracks & artists. For reference, <u>13954157 milliseconds is equal to just under 4 hours.</u> 
 
 | Track Name                                                   | ms played |
 | :----------------------------------------------------------- | --------: |
@@ -50,7 +57,7 @@ Here's a summary of the interesting files from this dataset.
 | Wake Me Up                                                   |   8766125 |
 | Beautiful Creatures (feat. MAX)                              |   8254825 |
 
-
+In the past 12 months, I listened to over 21 hours of Lauv, followed by a distant 12 hours of Alan Silvestri. 
 
 | ARTIST Name                                                  | ms played |
 | :----------------------------------------------------------- | --------: |
@@ -63,29 +70,37 @@ Here's a summary of the interesting files from this dataset.
 | Hans Zimmer                                                  |  31516690 |
 | Maroon 5                                                     |  31172415 |
 
-<br/>
-
 #### Artists over Time – Cumulative & Monthly
 
-<img src="image-20200608173211134.png" alt="image-20200608173211134" style="border-style: dotted; border-width: 1px; border-color: #ebeff0;" />
+These graphs are pretty interesting. The first one is a cumulative/incremental perspective, whereas the second one is a monthly perspective.
 
-<img src="image-20200608173227547.png" alt="image-20200608173227547" style="border-style: dotted; border-width: 1px; border-color: #ebeff0;" />
+<img src="image-20200608173211134.png" alt="image-20200608173211134" style="border-style: dotted; border-width: 2px; border-color: #ebeff0;" />
+
+<img src="image-20200608173227547.png" alt="image-20200608173227547" style="border-style: dotted; border-width: 2px; border-color: #ebeff0;" />
 
 #### Tracks Over Time – Cumulative & Monthly
 
-<img src="image-20200608173330428.png" alt="image-20200608173330428" style="border-style: dotted; border-width: 1px; border-color: #ebeff0;" />
+These are in the same format as the ones above, but these are for tracks (the ones above were for artists). Note how some tracks consistently increase (i.e. You & Me, by James TW) whereas other tracks shoot up towards the end (i.e. Feelings, by Lauv).
 
-<img src="image-20200608173341709.png" alt="image-20200608173341709" style="border-style: dotted; border-width: 1px; border-color: #ebeff0;" />
+<img src="image-20200608173330428.png" alt="image-20200608173330428" style="border-style: dotted; border-width: 2px; border-color: #ebeff0;" />
 
-#### Heartbeat Correlation
+This monthly perspective is much more useful at identifying songs that I listened to consistently during particular months. Example: Illenium's Beautiful Creatures – over 6M milliseconds in May 2019 alone!
 
-In this section, I explore the correlations between my Apple Watch-collected heartbeat data and my Spotify Streaming History. 
+<img src="image-20200608173341709.png" alt="image-20200608173341709" style="border-style: dotted; border-width: 2px; border-color: #ebeff0;" />
 
-<img src="image-20200608173454696.png" alt="image-20200608173454696" style="border-style: dotted; border-width: 1px; border-color: #ebeff0;" />
+# EXTRA: Heartbeat Correlation
 
-<img src="image-20200608173501778.png" alt="image-20200608173501778" style="border-style: dotted; border-width: 1px; border-color: #ebeff0;" />
+My work on Paz (read more here) inspired me to look for connections between music & heart rate. In other words, I wanted to connect my passively and actively collected heart rate information from my Apple Watch – and the music I was listening to during those time periods. 
 
+To extract my Apple Watch heart rate data, I exported all health records from my iPhone – then wrote a quick parser to extract that information & create time blocks in which my watch had a heart rate measurement for. I then isolated periods of time where I was listening to music and had a heart rate measurement for, and created some quick visualizations from the merged dataset.
 
+This information could be used to predictively queue up music that I tend to listen to while performing different activities. For example, when I'm running or biking – and my heart rate is higher than normal (say, > 160 BPM) – I listen to more intense and/or upbeat artists like Alan Silvestri, The Vamps, and Panic! At the Disco. When I'm studying, I listen to James TW & other more chill artists. 
+
+<img src="image-20200608173454696.png" alt="image-20200608173454696" style="border-style: dotted; border-width: 2px; border-color: #ebeff0;" />
+
+<img src="image-20200608173501778.png" alt="image-20200608173501778" style="border-style: dotted; border-width: 2px; border-color: #ebeff0;" />
+
+One key issue with this approach: BPM is heavily skewed by the number of times I listened to a particular artist and/or track. For example, songs that I listen to a lot may have lower average heartbeats since my overall average heartbeat is probably around a resting heart rate of 60-65. 
 
 | track                                                        | average heartbeat |
 | ------------------------------------------------------------ | ----------------: |
@@ -110,4 +125,6 @@ In this section, I explore the correlations between my Apple Watch-collected hea
 | Mumford & Sons                                               |                61 |
 | Tones And I                                                  |                61 |
 |                                                              |                   |
+
+Ultimately, this isn't the best correlation of this information to draw actionable insights from – but nevertheless, it's still pretty cool to combine two completely isolated data sources in a meaningful way!
 
