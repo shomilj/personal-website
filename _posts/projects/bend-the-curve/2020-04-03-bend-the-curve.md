@@ -1,7 +1,7 @@
 ---
 title: Bend the Curve - a Robinhood-Esque COVID-19 Statistics App
-date: 2020-03-23 00:00:00 +00:00
-modified: 2020-03-23 00:00:00 +00:00
+date: 2020-04-03 00:00:00 +00:00
+modified: 2020-04-03 00:00:00 +00:00
 tags: [projects]
 description: An app to track worldwide and local cases of COVID-19. All data from JHU.
 
