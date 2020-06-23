@@ -26,3 +26,19 @@ Photo-based location extraction is, perhaps, even more accurate than some of the
 After doing some brief reseach on the vulnerability, it seems that it's been around since [2017](https://openradar.appspot.com/34610699), and Apple hasn't done anything to fix it. Thus, any app that's requesting full access to users' photo library could potentially be scraping location data & selling that information to third parties.
 
 It's important to note that this doesn't apply to instances where developers choose to use the built-in `UIImagePickerController` - a pop-up screen managed by native iOS interfacing with apps that prompt users to select individual or multiple images. However, many apps – Facebook Messenger, Instagram, and others – choose to implement their own custom image pickers, at which point they have access to the photo metadata described above.
+
+### UPDATE [iOS 14, released 6/22/2020]
+
+In an early version of the iOS 14 beta, it appears that Apple has made the sharing of location metadata slightly more explicit (see the footer in privacy settings).
+
+
+
+<img src="IMG_FDC858E0BCCE-1.jpeg" alt="IMG_FDC858E0BCCE-1" style="zoom:33%;" />
+
+
+
+Moreover, Apple now provides the ability to select particular photos whenever apps request full access – even when they traditionally rely on custom in-app photo pickers. This way, users don't have to give up access to their entire photo library, even if developers didn't explicitly use the `UIImagePickerController` method described earlier.
+
+<img src="image-20200622220959374.png" alt="image-20200622220959374" style="zoom:33%;" />
+
+Even with these changes, most consumers will likely provide access to all photos regardless – so this is, by far, a resolved issue.
