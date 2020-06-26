@@ -1,5 +1,5 @@
 ---
-title: Artificially-Generated Resumes - exploring Markov-Chain sentence generation trained on 75K resume bullet points
+title: AI-Generated Resumes
 date: 2019-10-26 12:00:00 +00:00
 modified: 2020-10-26 12:00:00 +00:00
 tags: [projects]
