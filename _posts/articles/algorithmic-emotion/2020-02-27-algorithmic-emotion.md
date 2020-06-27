@@ -6,7 +6,7 @@ tags: [articles]
 description: See title.
 ---
 
-*The following is a journal article that I wrote for UGBA 107: The Social, Political, and Ethical Environment of Business. Opinions expressed below are entirely my own and may have changed since the time this article was written.*
+*The following is a journal article that I wrote for UGBA 107: The Social, Political, and Ethical Environment of Business. The opinions below were written in an academic context and may or may not reflect my actual opinions on the subject matter.*
 
 The incredible rise in computing power coupled with the explosion of personal computing have resulted in a society in which corporations and governments alike compete to buy, barter, and collect data – data that’s then run through models to make predictions about actions and events in the future. Although supporters of a data-driven criminal justice system assert that using algorithms reduce human bias, an analysis of the probabilistic structures behind these models combined with a comparison to other applications of the technology suggest that the removal of emotion in the decision making process of these often emotionally-driven cases results in fallacious conclusions. 
 

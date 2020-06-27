@@ -6,7 +6,7 @@ tags: [articles]
 description: An article analyzing the shortcomings of Zoom's rise to popular dominance.
 ---
 
-*The following is a journal article that I wrote for UGBA 107: The Social, Political, and Ethical Environment of Business. Opinions expressed below are entirely my own and may have changed since the time this article was written.*
+*The following is a journal article that I wrote for UGBA 107: The Social, Political, and Ethical Environment of Business. The opinions below were written in an academic context and may or may not reflect my actual opinions on the subject matter.*
 
 In the midst of the COVID-19 pandemic, a small technology firm has seen an explosion in users: Zoom Video Communications. Zoom’s exponential growth combined with an expansion into consumer and education markets has resulted in the discovery of a wide variety of security vulnerabilities. Zoom’s historic rise and subsequent security implosion highlights the importance of building security & privacy into products from day zero; sacrificing these principles in favor of rapid growth is unethical and a clear violation of corporate-social responsibility.
 

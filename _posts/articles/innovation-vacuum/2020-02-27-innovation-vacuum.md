@@ -4,10 +4,9 @@ date: 2020-02-27 00:00:00 +00:00
 modified: 2020-02-27 00:00:00 +00:00
 tags: [articles]
 description: See title.
-
 ---
 
-*The following is a journal article that I wrote for UGBA 107: The Social, Political, and Ethical Environment of Business. Opinions expressed below are entirely my own and may have changed since the time this article was written.*
+*The following is a journal article that I wrote for UGBA 107: The Social, Political, and Ethical Environment of Business. The opinions below were written in an academic context and may or may not reflect my actual opinions on the subject matter.*
 
 In early February, the FTC announced an inquiry into Big Tech’s purchase history: specifically, an analysis of the acquisitions large corporations have made over the past ten years. Supporters of the inquiry assert that companies like Google, Facebook, and Microsoft are stifling competitors by acquiring early-stage companies that may prove to be a threat to their business models. These practices result in a startup ecosystem focused on satisfying Big Tech’s needs, rather than solving larger global issues.
 
