@@ -73,4 +73,4 @@ Scrapes & returns the current day's menu from [Sliver](https://www.sliverpizzeri
 
 ## The Actual Bot
 
-![image-20200715121458342](/Users/shomil/Documents/GitHub/Website/personal-website/_posts/projects/discord-bot/image-20200715121458342.png)
+![image-20200715121458342](discord.png)
