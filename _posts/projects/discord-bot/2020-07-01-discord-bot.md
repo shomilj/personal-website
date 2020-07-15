@@ -1,7 +1,7 @@
 ---
 title: Building MDBot - an intelligent Discord bot for MDB
-date: 2020-06-10 12:00:00 +07:00
-modified: 2020-06-10 12:00:00 +07:00
+date: 2020-07-01 12:00:00 +07:00
+modified: 2020-07-01 12:00:00 +07:00
 tags: [projects]
 description: In this article, I describe the process of creating and deploying a Discord Bot.
 ---
