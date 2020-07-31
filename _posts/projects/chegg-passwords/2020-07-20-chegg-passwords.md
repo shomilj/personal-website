@@ -6,7 +6,7 @@ tags: [projects]
 description: An analysis of 35,000 leaked passwords from the Chegg Data Breach affecting thousands of UC Berkeley students.
 ---
 
-In Fall 2018, [TechCrunch](https://techcrunch.com/2018/09/26/chegg-resets-40-million-user-passwords-after-data-breach/) reported that Chegg confirmed a data breach affecting nearly 40 million customers, where hackers gained access to an internal database containing user emails and passwords. Earlier this year, a link was posted to numerous Berkeley-related websites (Reddit, Facebook Pages) containing a file of 35,000 UC Berkeley emails and passwords, reportedly sourced from the Chegg breach. In an effort to analyze the habits of UC Berkeley students through the lens of password security, I downloaded & stripped the database of usernames, leaving behind 35,000 anonymized passwords created by Cal students.
+In Fall 2018, [TechCrunch](https://techcrunch.com/2018/09/26/chegg-resets-40-million-user-passwords-after-data-breach/) reported that Chegg confirmed a data breach affecting nearly 40 million customers, where hackers gained access to an internal database containing user emails and passwords. Earlier this year, a link was posted to numerous Berkeley-related websites (Reddit, Facebook Pages) containing a file of 35,000 UC Berkeley emails and passwords, reportedly sourced from the Chegg breach. In an effort to analyze the habits of UC Berkeley students through the lens of password security, I downloaded, anonymized, and analyzed the list of passwords.
 
 View this project on [GitHub](https://github.com/shomilj/chegg-password-analysis).
 
