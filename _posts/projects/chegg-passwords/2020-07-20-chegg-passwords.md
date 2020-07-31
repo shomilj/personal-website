@@ -30,7 +30,7 @@ To avoid this, companies usually generate a large random string (typically refer
 
 In the case of Chegg, given the scale of the password leak, it's a reasonable assumption that the company chose the basic implementation over the secure implementation – and an attacker was able to use a dictionary attack on a leaked database of accounts to recover plaintext passwords.
 
-***
+
 
 ### Statistics
 
