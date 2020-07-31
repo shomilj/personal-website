@@ -10,7 +10,7 @@ In Fall 2018, [TechCrunch](https://techcrunch.com/2018/09/26/chegg-resets-40-mil
 
 View this project on [GitHub](https://github.com/shomilj/chegg-password-analysis).
 
-### How This Happened
+## How This Happened
 
 When storing passwords, apps and websites typically use a [cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function) (ex: SHA-512) to store a hashed version of the password, rather than the password itself. As a result, if any developer or third party were able to access a database of these passwords, they wouldn't be able to decipher the hash due to the one-way property of cryptographic hashes.
 
@@ -20,19 +20,15 @@ For example, the password `gobears` hashes to `c6685d07f089a532755ccfe3b35f6d42`
 
 To avoid this, companies usually generate a large random string (typically referred to as a `salt`) and append it to the plaintext password before generating the hash. Assuming the salt is randomly generated, this implementation prevents dictionary attacks from occurring, as the salt adds a component of randomness to each password hash, effectively making each hash unique. 
 
-```python
-# Basic Implementation
-(hash(password))
+**Basic:** `hash(password)`
 
-# Secure Against Dictionary Attacks
-(salt, hash(password + salt))
-```
+**Secure:** `(salt, hash(password + salt))`
 
 In the case of Chegg, given the scale of the password leak, it's a reasonable assumption that the company chose the basic implementation over the secure implementation – and an attacker was able to use a dictionary attack on a leaked database of accounts to recover plaintext passwords.
 
 
 
-### Statistics
+## Statistics
 
 | Statistic                                                    | Value |
 | ------------------------------------------------------------ | ----- |
@@ -58,7 +54,7 @@ In the case of Chegg, given the scale of the password leak, it's a reasonable as
 | zinch      | 17    |
 | soccer     | 15    |
 
-### Histograms
+## Histograms
 
 **Password Length**
 
@@ -69,7 +65,7 @@ In the case of Chegg, given the scale of the password leak, it's a reasonable as
 ![image-20200730171955855](image-20200730171955855.png)
 
 
-### Identifying Common Structures
+## Identifying Common Structures
 
 A common password structure involves appending the name of the website to a password base that's shared across a number of websites. For example, a user with a base password of `albert17!!pw` may use `albert17!!pwCG` for Chegg and `albert17!!pwGM` for Gmail. Identifying passwords that follow these structures could be useful for identifying access points across a number of different websites users may have accounts for.
 
