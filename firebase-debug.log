@@ -1,0 +1,61 @@
+[debug] [2020-08-01T21:07:03.709Z] ----------------------------------------------------------------------
+[debug] [2020-08-01T21:07:03.711Z] Command:       /usr/local/bin/firebase /Users/shomil/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase deploy --debug
+[debug] [2020-08-01T21:07:03.711Z] CLI Version:   8.4.3
+[debug] [2020-08-01T21:07:03.712Z] Platform:      darwin
+[debug] [2020-08-01T21:07:03.712Z] Node Version:  v12.16.1
+[debug] [2020-08-01T21:07:03.718Z] Time:          Sat Aug 01 2020 14:07:03 GMT-0700 (Pacific Daylight Time)
+[debug] [2020-08-01T21:07:03.718Z] ----------------------------------------------------------------------
+[debug] [2020-08-01T21:07:03.718Z] 
+[debug] [2020-08-01T21:07:03.728Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-08-01T21:07:03.730Z] > authorizing via signed-in user
+[debug] [2020-08-01T21:07:03.730Z] [iam] checking project shomil for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2020-08-01T21:07:03.734Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/shomil:testIamPermissions  
+ {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2020-08-01T21:07:03.926Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Sat, 01 Aug 2020 21:07:03 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=82","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-08-01T21:07:03.928Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/shomil  
+ 
+[debug] [2020-08-01T21:07:04.107Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Sat, 01 Aug 2020 21:07:04 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+[info] === Deploying to 'shomil'...
+[info] 
+[info] i  deploying hosting 
+[debug] [2020-08-01T21:07:04.120Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/shomil/versions  
+ {"config":{},"labels":{"deployment-tool":"cli-firebase"}}
+[debug] [2020-08-01T21:07:04.814Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Sat, 01 Aug 2020 21:07:04 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] i  hosting[shomil]: beginning deploy... 
+[info] i  hosting[shomil]: found 112 files in _site 
+[debug] [2020-08-01T21:07:04.912Z] [hosting] hash cache [X3NpdGU] stored for 112 files
+[debug] [2020-08-01T21:07:04.912Z] [hosting][hash queue][FINAL] {"max":40,"min":0,"avg":9.348405213562915,"active":0,"complete":112,"success":112,"errored":0,"retried":0,"total":112,"elapsed":47}
+[debug] [2020-08-01T21:07:04.913Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/shomil/versions/7ec89913752ff711:populateFiles  
+ <request body omitted>
+[debug] [2020-08-01T21:07:05.516Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Sat, 01 Aug 2020 21:07:05 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-08-01T21:07:05.553Z] [hosting][populate queue][FINAL] {"max":608,"min":608,"avg":608,"active":0,"complete":1,"success":1,"errored":0,"retried":0,"total":1,"elapsed":642}
+[debug] [2020-08-01T21:07:05.553Z] [hosting] uploads queued: 28
+[debug] [2020-08-01T21:07:06.830Z] [hosting][upload queue][FINAL] {"max":1311,"min":1044,"avg":1134.75,"active":0,"complete":28,"success":28,"errored":0,"retried":0,"total":28,"elapsed":1312}
+[info] ✔  hosting[shomil]: file upload complete 
+[debug] [2020-08-01T21:07:06.831Z] [hosting] deploy completed after 2016ms
+[debug] [2020-08-01T21:07:06.832Z] [
+  {
+    "config": {
+      "public": "_site",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "site": "shomil"
+    },
+    "site": "shomil",
+    "version": "sites/shomil/versions/7ec89913752ff711"
+  }
+]
+[info] i  hosting[shomil]: finalizing version... 
+[debug] [2020-08-01T21:07:06.833Z] >>> HTTP REQUEST PATCH https://firebasehosting.googleapis.com/v1beta1/sites/shomil/versions/7ec89913752ff711?updateMask=status  
+ {"status":"FINALIZED"}
+[debug] [2020-08-01T21:07:07.573Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Sat, 01 Aug 2020 21:07:07 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-08-01T21:07:07.575Z] [hosting] finalized version for shomil: {"name":"sites/shomil/versions/7ec89913752ff711","status":"FINALIZED","config":{},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2020-08-01T21:07:04.485308Z","createUser":{"email":"shomil@berkeley.edu"},"finalizeTime":"2020-08-01T21:07:07.534128Z","finalizeUser":{"email":"shomil@berkeley.edu"}}
+[info] ✔  hosting[shomil]: version finalized 
+[info] i  hosting[shomil]: releasing new version... 
+[debug] [2020-08-01T21:07:07.579Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/shomil/releases?version_name=sites/shomil/versions/7ec89913752ff711  
+ {"message":null}
+[debug] [2020-08-01T21:07:08.303Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Sat, 01 Aug 2020 21:07:08 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}

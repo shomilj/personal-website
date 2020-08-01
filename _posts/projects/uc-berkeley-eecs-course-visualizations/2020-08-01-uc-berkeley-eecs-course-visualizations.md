@@ -12,7 +12,18 @@ This article contains a variety of different visualizations of enrollment & GPA 
 
 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/plots/eecs_fall_2019_enrollment.html" height="800" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/plots/eecs_fall_2019_enrollment.html" height="650" width="100%"></iframe>
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/plots/eecs_spring_2020_enrollment.html" height="800" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/plots/eecs_spring_2020_enrollment.html" height="650" width="100%"></iframe>
+
+
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/plots/historical_eecs_ld_fall_enrollment.html" height="450" width="100%"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/plots/historical_eecs_ld_spring_enrollment.html" height="450" width="100%"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/plots/historical_eecs_ud_fall_enrollment.html" height="450" width="100%"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/plots/historical_eecs_ud_spring_enrollment.html" height="450" width="100%"></iframe>
+
 
