@@ -6,7 +6,7 @@ tags: [projects]
 description: Visualize enrollment and GPA for courses in the Electrical Engineering & Computer Science department at UC Berkeley.
 ---
 
-This article contains a variety of different visualizations of enrollment & GPA statistics in the Electrical Engineering and Computer Science department at UC Berkeley. All for the following visualizations was sourced from [Cal Answers](https://calanswers.berkeley.edu).
+This article contains a variety of different visualizations of enrollment & GPA statistics in the Electrical Engineering and Computer Science department at UC Berkeley.
 
 
 
