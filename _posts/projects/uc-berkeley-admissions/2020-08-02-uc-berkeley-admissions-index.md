@@ -14,7 +14,7 @@ The following visualizations are filtered to **students who have SIR'ed // commi
 
 Pay close attention to the red/blue scale on the right side, and the populations that fall into both extremes. 
 
-#### Demographic Overview
+##### Demographic Overview
 
 These two visuals contain a full demographic overview of the class of 2024.
 
@@ -22,7 +22,7 @@ These two visuals contain a full demographic overview of the class of 2024.
 
 [Full Class of 2024 Demographic Breakdown (Colored by Admission Rates)](../../../assets/html/admissions/uc_berkeley_class_of_2024__full_funnel__color_by_admission_rate_.html)
 
-#### Specific Breakdowns
+##### Specific Breakdowns
 
 [Gender Diversity](../../../assets/html/admissions/uc_berkeley_class_of_2024__eecs_cs_gender_diversity.html) - The incoming class is ~71% Male and ~25% Female.
 
@@ -36,13 +36,13 @@ These two visuals contain a full demographic overview of the class of 2024.
 
 [High School Background (Public vs. Private) and Ethnicity Breakdown](../../../assets/html/admissions/uc_berkeley_class_of_2024__ethnic_high_school_type_breakdown.html) - Note how some ethnicities have sizeable amounts of individuals coming from private schools (ex: South Asian), whereas other demographics have very, very few (or none) coming from private school backgrounds.
 
-#### EECS vs. L&S - Gender Diversity
+##### EECS vs. L&S - Gender Diversity
 
 [Comparing EECS vs. L&S Gender Diversity](../../../assets/html/admissions/uc_berkeley_class_of_2024__eecs_vs._l&s_gender_diversity.html) - Think about this in the context of the rush to declare & stigmas around engineering in general. 
 
 
 
-# Historical Comparision (Applicant Pool)
+# All Majors & Applicants: A Historical Comparision
 
 Note the demopgrahic shifts (and how particular majors have shifted to be more impacted than others) from the year 2000 to this latest application cycle!
 
@@ -54,7 +54,7 @@ Note the demopgrahic shifts (and how particular majors have shifted to be more i
 
 [Gender/Major Breakdown, 2020-21](/assets/html/admissions/uc_berkeley_undergraduate_applications__gender_major__2020-21_.html)
 
-# Class of 2024 (Applicant Pool)
+# All Majors & Applicants: Class of 2024
 
 [Most Popular Majors](/assets/html/admissions/uc_berkeley_undergraduate_applications__major_popularity__2020-21_.html)
 
