@@ -12,7 +12,17 @@ This article contains a variety of different visualizations of admissions at UC 
 
 The following visualizations are filtered to **students who have SIR'ed // committed to UC Berkeley** – in other words, this Fall's freshman class. All visualizations except the first one treat L&S and EECS as one group.
 
-[Comparing EECS vs. L&S Gender Diversity](../../../assets/html/admissions/uc_berkeley_class_of_2024__eecs_vs._l&s_gender_diversity.html) - Think about this in the context of the rush to declare & stigmas around engineering in general. 
+Pay close attention to the red/blue scale on the right side, and the populations that fall into both extremes. 
+
+#### Demographic Overview
+
+These two visuals contain a full demographic overview of the class of 2024.
+
+[Full Class of 2024 Demographic Breakdown (Colored by Counts)](../../../assets/html/admissions/uc_berkeley_class_of_2024__full_funnel__color_by_count_.html)
+
+[Full Class of 2024 Demographic Breakdown (Colored by Admission Rates)](../../../assets/html/admissions/uc_berkeley_class_of_2024__full_funnel__color_by_admission_rate_.html)
+
+#### Specific Breakdowns
 
 [Gender Diversity](../../../assets/html/admissions/uc_berkeley_class_of_2024__eecs_cs_gender_diversity.html) - The incoming class is ~71% Male and ~25% Female.
 
@@ -26,13 +36,11 @@ The following visualizations are filtered to **students who have SIR'ed // commi
 
 [High School Background (Public vs. Private) and Ethnicity Breakdown](../../../assets/html/admissions/uc_berkeley_class_of_2024__ethnic_high_school_type_breakdown.html) - Note how some ethnicities have sizeable amounts of individuals coming from private schools (ex: South Asian), whereas other demographics have very, very few (or none) coming from private school backgrounds.
 
-***
+#### EECS vs. L&S - Gender Diversity
 
-I found the two visuals below – visuals that represent the full demographic funnel – the most interesting out of all of the ones above! **Pay close attention to the red/blue scale on the right side, and the populations that fall into both extremes.** 
+[Comparing EECS vs. L&S Gender Diversity](../../../assets/html/admissions/uc_berkeley_class_of_2024__eecs_vs._l&s_gender_diversity.html) - Think about this in the context of the rush to declare & stigmas around engineering in general. 
 
-[Full Class of 2024 Demographic Breakdown (Colored by Counts)](../../../assets/html/admissions/uc_berkeley_class_of_2024__full_funnel__color_by_count_.html)
 
-[Full Class of 2024 Demographic Breakdown (Colored by Admission Rates)](../../../assets/html/admissions/uc_berkeley_class_of_2024__full_funnel__color_by_admission_rate_.html)
 
 # Historical Comparision (Applicant Pool)
 
