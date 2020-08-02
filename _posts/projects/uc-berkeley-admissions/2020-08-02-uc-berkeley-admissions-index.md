@@ -16,7 +16,7 @@ Pay close attention to the red/blue scale on the right side, and the populations
 
 ##### Demographic Overview
 
-These two visuals contain a full demographic overview of the class of 2024.
+These two visuals contain a full demographic overview of the class of 2024. The breakdown is ordered as follows: Resident Status, Gender, Ethnicity, Reported Family Income, and First Generation College Student (Yes or No).
 
 [Full Class of 2024 Demographic Breakdown (Colored by Counts)](../../../assets/html/admissions/uc_berkeley_class_of_2024__full_funnel__color_by_count_.html)
 
