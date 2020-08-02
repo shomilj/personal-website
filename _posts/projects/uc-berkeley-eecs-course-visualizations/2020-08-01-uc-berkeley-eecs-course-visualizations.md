@@ -6,7 +6,7 @@ tags: [projects]
 description: Visualize course enrollment in the Electrical Engineering & Computer Science department at UC Berkeley.
 ---
 
-This article contains a variety of different visualizations of enrollment statistics in the Electrical Engineering and Computer Science department at UC Berkeley.
+This article contains a variety of different visualizations of enrollment statistics in the Electrical Engineering and Computer Science department at UC Berkeley. Try clicking on various levels (i.e. lower division) to see a detailed breakdown!
 
 
 
