@@ -3,7 +3,7 @@ title: UC Berkeley Admissions
 date: 2020-08-02 00:00:00 +00:00
 modified: 2020-08-02 00:00:00 +00:00
 tags: [projects]
-description: A variety of data visualizations related to admissions at UC Berkeley.
+description: A visual analysis of admissions at UC Berkeley.
 ---
 
 This article contains a variety of different visualizations of admissions at UC Berkeley. All of these visualizations are interactive, so feel free to click around! Note that this project is in progress, so some of these links might stop working and new links may be added at any time.
