@@ -14,11 +14,11 @@ When viewing visualizations, pay close attention to the red/blue color scale on 
 
 These two visuals contain a full demographic overview of the class of 2024. The breakdown is ordered as follows: Resident Status, Gender, Ethnicity, Reported Family Income, and First Generation College Student (Yes or No).
 
-[EECS/CS Class of 2024 Complete Demographic Breakdown (Colored by Counts)](../../../assets/html/admissions/uc_berkeley_class_of_2024_eecs_l&s_cs__full_funnel__colored_by_application_counts_.html)
+[Demographic Breakdown (Colored by Counts)](../../../assets/html/admissions/uc_berkeley_class_of_2024_eecs_l&s_cs__full_funnel__colored_by_application_counts_.html)
 
-[EECS/CS Class of 2024 Complete Demographic Breakdown (Colored by Admission Rates)](../../../assets/html/admissions/uc_berkeley_class_of_2024_eecs_cs__full_funnel__colored_by_admission_rates_.html)
+[Demographic Breakdown (Colored by Admission Rates)](../../../assets/html/admissions/uc_berkeley_class_of_2024_eecs_cs__full_funnel__colored_by_admission_rates_.html)
 
-##### Specific Breakdowns in the EECS/CS Class of 2024
+##### Gender & Ethnic Diversity
 
 [Gender Diversity](../../../assets/html/admissions/uc_berkeley_class_of_2024__eecs_cs_gender_diversity.html) - The incoming class is ~71% Male and ~25% Female.
 
@@ -27,6 +27,8 @@ These two visuals contain a full demographic overview of the class of 2024. The 
 [Joint Gender/Ethnic Diversity - Colored by Counts](../../../assets/html/admissions/uc_berkeley_class_of_2024__eecs_cs_ethnic_gender_diversity.html) - The largest demographic in the incoming class is Asian males at ~37%, and the smallest is African American females at 1.16%.
 
 [Joint Gender/Ethnic Diversity - Colored by Admission Rates](../../../assets/html/admissions/uc_berkeley_class_of_2024__eecs_cs_ethnic_gender_diversity_-_admission_rates.html) - This is the same graph as above, but colored in a slightly different way. The shading here represents admission rates; notice the inverse relationship in box size & admission rate. 
+
+##### Family Income & High School Type (Public vs. Private)
 
 [Income/Ethnic Breakdown](../../../assets/html/admissions/uc_berkeley_class_of_2024__eecs_cs_income_ethnic_breakdown.html) - The relationships between income and ethnicity here mirror larger societal inequalities in the State of California and country/world in general. 
 
