@@ -14,9 +14,9 @@ When viewing visualizations, pay close attention to the red/blue color scale on 
 
 These two visuals contain a full demographic overview of the class of 2024. The breakdown is ordered as follows: Resident Status, Gender, Ethnicity, Reported Family Income, and First Generation College Student (Yes or No).
 
-[Demographic Breakdown (Colored by Counts)](../../../assets/html/admissions/uc_berkeley_class_of_2024_eecs_l&s_cs__full_funnel__colored_by_application_counts_.html)
+[Demographic Breakdown (Colored by Counts)](../../../assets/html/admissions/uc_berkeley_class_of_2024_eecs_cs__residency_gender_ethnicity_income_first_generation__fg___colored_by_application_counts_.html)
 
-[Demographic Breakdown (Colored by Admission Rates)](../../../assets/html/admissions/uc_berkeley_class_of_2024_eecs_cs__full_funnel__colored_by_admission_rates_.html)
+[Demographic Breakdown (Colored by Admission Rates)](../../../assets/html/admissions/uc_berkeley_class_of_2024_eecs_cs__residency_gender_ethnicity_income_first_generation__fg___colored_by_admit_rate_.html)
 
 ##### Gender & Ethnic Diversity
 
