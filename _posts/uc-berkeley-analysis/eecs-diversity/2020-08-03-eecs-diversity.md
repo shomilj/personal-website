@@ -8,7 +8,7 @@ description: An analysis of diversity in EECS at UC Berkeley.
 image: /assets/html/eecs-diversity/social.png
 ---
 
-<meta name="viewport" content="width=1024">
+<meta name="viewport" content="width=700">
 
 At UC Berkeley, the EECS department has struggled with issues of diversity, equity, and inclusion for decades. The Daily Cal has been reporting on diversity initiatives since [2012](https://www.dailycal.org/2012/11/13/female-students-still-struggling-to-find-foothold-in-computer-science/), with a number of articles published since then highlighting [small fraction of female graduates](https://www.dailycal.org/2013/11/15/gender-disparity-eecs-persists/) in computer science (2013), projects studying [gender breakdowns by major](http://projects.dailycal.org/cs-gender/) (2016), columns discussing the [toxic stress culture](https://www.dailycal.org/2019/02/27/toxic-stress-culture/) perpetuated by a homogenous student body, and Op-Eds urging students and faculty to [uplift women in tech](https://www.dailycal.org/2019/04/05/campus-must-uplift-women-in-tech/) (2019).
 
