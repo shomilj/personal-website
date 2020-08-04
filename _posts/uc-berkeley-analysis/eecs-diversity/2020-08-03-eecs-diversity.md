@@ -36,21 +36,9 @@ SIR's (Statement of Intent to Register) may be informally referred to students w
 
 Let's see how the gender ratio has progressed over time. 
 
-***
-
 
 
 <iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph2.html" height="400" width="100%"></iframe>
-
-Table 1: Gender Diversity in the 2021 Application Season
-
-| Gender  | Applied (Count) | Applied (%) | Admitted (Count) | Admitted (%) | SIR'ed (Count) | SIR'ed (%) |
-| :------ | --------------: | ----------: | ---------------- | ------------ | -------------- | ---------- |
-| Decline |             320 |       2.75% | 59               | 3.8%         | 33             | 3.84%      |
-| Female  |            2727 |      23.47% | 471              | 30.33%       | 210            | 24.45%     |
-| Male    |            8570 |      73.77% | 1023             | 65.87%       | 616            | 71.71%     |
-
-***
 
 A couple of interesting takeaways:
 
@@ -72,12 +60,6 @@ UC Berkeley provides [three different categories](https://wikihub.berkeley.edu/d
 
 <iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph4.html" height="400" width="100%"></iframe>
 
-[Table 2: Ethnic Breakdowns for the 2021 Application Season (Level 2)](/assets/html/eecs-diversity/table2.txt)
-
-[Table 3: Ethnic Breakdowns for the 2021 Application Season (Level 2)](/assets/html/eecs-diversity/table3.txt)
-
-[Table 4: Ethnic Breakdowns for the 2021 Application Season (Level 3)](/assets/html/eecs-diversity/table4.txt)
-
 ***
 
 Some observations from these graphs:
@@ -97,8 +79,6 @@ Applicants report parental income in five different segments ranging from $0-25K
 <iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph5.html" height="400" width="100%"></iframe>
 
 <iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph6.html" height="400" width="100%"></iframe>
-
-[Table 5: Family Income Breakdowns for the 2021 Application Season](/assets/html/eecs-diversity/table5.txt)
 
 ***
 
@@ -174,6 +154,13 @@ Below is a list of groups that support minorities in STEM at UC Berkeley. **Plea
 
 
 
+# Appendix
+
+- [Table 1: Gender Breakdowns for the 2021 Application Season](/assets/html/eecs-diversity/table1.txt)
+- [Table 2: Ethnic Breakdowns for the 2021 Application Season (Level 1)](/assets/html/eecs-diversity/table2.txt)
+- [Table 3: Ethnic Breakdowns for the 2021 Application Season (Level 2)](/assets/html/eecs-diversity/table3.txt)
+- [Table 4: Ethnic Breakdowns for the 2021 Application Season (Level 3)](/assets/html/eecs-diversity/table4.txt)
+- [Table 5: Family Income Breakdowns for the 2021 Application Season](/assets/html/eecs-diversity/table5.txt)
 
 
 > If you notice any corrections and/or typos – or want to ask questions or have comments about this analysis, please reach out to me! My Berkeley email is shomil@[...] edu.  
