@@ -131,7 +131,7 @@ In this map, first-generation college students represent individuals who don't h
 
 # The Most Important Visual of All: The Effect of Stacked Demographic Inequalities
 
-This visual contains arguably the most important takeaway from this entire analysis. What's contained below is a four-dimensional representation of student demographics: gender, ethnicity, income, and first-generation. **The sharp differences in color represent the effect of stacked inequalities in this semester's freshman class: demographic classes that are dark blue inherently start out in a significantly different position than demographic classes that are dark red.** These inequalities represent why organizations that help strengthen the communities of minorities in Computer Science are more important than ever.
+This visual contains arguably the most important takeaway from this entire analysis. What's contained below is a four-dimensional representation of student demographics: gender, ethnicity, income, and first-generation. The sharp differences in color represent the effect of stacked inequalities in this semester's freshman class: demographic classes that are dark blue inherently start out in a significantly different position than demographic classes that are dark red. **These inequalities represent why organizations that help support minorities in Computer Science are more important than ever.**
 
 
 
