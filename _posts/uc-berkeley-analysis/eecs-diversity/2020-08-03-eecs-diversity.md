@@ -95,7 +95,7 @@ Let's now take a visual look at what the demographic breakdown of this incoming 
 
 A tree map consists of rectangular boxes that, in this case, correspond to the number of applicants that fall into a particular demographic class. The coloring of the rectangular boxes varies by map: some maps are shaded by Admit Rate, whereas others are shaded by just the number of applicants in the class. 
 
-Hover over the boxes to view statistics about a particular classes.
+Hover over the boxes to view statistics about a particular class.
 
 *To view a tree map in full screen, right click the map and select Open Frame in New Tab.*
 
@@ -105,7 +105,7 @@ Below are two maps representing the same data, with different shading. These map
 
 <iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph7.html" height="650" width="100%"></iframe>
 
-In the map above, note the dominant demographic classes in terms of population density: Chinese and South Asian male-identifying students dominate the population, with 119 South Asian and 133 Chinese male-identifying students. On the other hand, there are only 10 African American female-identifying students. However, these numbers must be analyzed relative to admission rates; the map is shaded by **admit rate**, which indicates what fraction of the demographic class was admitted. The inverse relationship between population size and admit rate is quite evident: due to the demographic distribution of the applicant pool, it's significantly more difficult for individuals in demographic classes that dominate to be admitted to Berkeley.
+In the map above, note the dominant demographic classes in terms of population density: Chinese and South Asian male-identifying students dominate the population, with 119 South Asian and 133 Chinese male-identifying students. On the other hand, there are only 10 African American female-identifying students. However, these numbers must be analyzed relative to admission rates; the map is shaded by **admit rate**, which indicates what fraction of the demographic class was admitted. Note the inverse relationship between population size and admit rate.
 
 <iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph8.html" height="650" width="100%"></iframe>
 
@@ -123,7 +123,7 @@ However, the inverse relationship that was so evident in the previous map (Gende
 
 ### Comparing Ethnicity & First-Generation College Students
 
-In this map, first-generation college students represent individuals who don't have a parent who's been to college. In the graph below, "NFG" stands for **Not First-Generation** and "FG" stands for **First-Generation**. Note the differences in what demographics have larger first-generation student populations (ex: Mexican American/Chicano students) and those that have much smaller first-generation populations (ex: South Asian/International). Again, note the inverse relationship between particular demographics and admit rate (lighter shaded/blue colors indicate higher admit rates).
+In this map, first-generation college students represent individuals who don't have a parent who's been to college. In the graph below, "NFG" stands for **Not First-Generation** and "FG" stands for **First-Generation**. Note the differences in what demographics have larger first-generation student populations (ex: Mexican American/Chicano students) and those that have much smaller first-generation populations (ex: South Asian/International). Again, note the relationships between particular demographics and admit rate.
 
 <iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph11.html" height="650" width="100%"></iframe>
 
