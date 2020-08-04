@@ -105,7 +105,7 @@ Hover over the boxes to view statistics about a particular class.
 
 ### Identifying Majority and Minority Demographic Classes: Ethnicity & Gender
 
-Below are two maps representing the same data, with different shading. These maps represent the incoming class grouped by Ethnicity and Gender (in that order). Note the **first is shaded by headcount**, where dark reds illustrate small populations and dark blues represent large proportions. **The second is shaded by admit rate**, where dark reds illustrate populations with lower admit rates (aka impacted demographics) and dark blues represent populations with higher admit rates.
+Below are two maps representing the same data, with different shading. These maps represent the incoming class grouped by Ethnicity and Gender (in that order). Note the **first is shaded by headcount**, where dark greens illustrate large populations and light greens represent small populations. **The second is shaded by admit rate**, where dark reds illustrate populations with higher admit rates and lighter reds/oranges represent populations with lower admit rates (e.g. impacted populations).
 
 <iframe width="100%" height="650" frameborder="0" scrolling="no" src="//plotly.com/~shomil/18.embed?showlink=false"></iframe>
 
@@ -115,8 +115,7 @@ In the map above, note the dominant demographic classes in terms of population d
 
 ### Identifying Majority and Minority Demographic Classes: Family Income & Race
 
-The following map truly symbolizes the demographic inequalities present in this year's class; these trends mirror larger societal inequalities present in California and across the country. Pay close at
-tention to the levels here – students are first split by family income, and then ethnicity. **The dominance of the $150K+ South Asian demographic is striking.**
+The following map truly symbolizes the demographic inequalities present in this year's class; these trends mirror larger societal inequalities present in California and across the country. Pay close attention to the levels here – students are first split by family income, and then ethnicity. **The dominance of the $150K+ South Asian demographic is striking.**
 
 <iframe width="100%" height="650" frameborder="0" scrolling="no" src="//plotly.com/~shomil/22.embed?showlink=false"></iframe>
 
@@ -134,7 +133,7 @@ In this map, first-generation college students represent students who don't have
 
 # The Most Important Visual of All: The Effect of Stacked Demographic Inequalities
 
-This visual contains arguably the most important takeaway from this entire analysis. What's contained below is a four-dimensional representation of student demographics: gender, ethnicity, income, and first-generation. The sharp differences in color represent the effect of stacked inequalities in this semester's freshman class: demographic classes that are dark blue inherently start out in a significantly different position than demographic classes that are dark red. **These inequalities represent why organizations that help support minorities in Computer Science are more important than ever.**
+This visual contains arguably the most important takeaway from this entire analysis. What's contained below is a four-dimensional representation of student demographics: gender, ethnicity, income, and first-generation. The sharp differences in color represent the effect of stacked inequalities in this semester's freshman class: demographic classes that are dark green inherently start out in a significantly different position than demographic classes that are light green. **These inequalities represent why organizations that help support minorities in Computer Science are more important than ever.**
 
 
 
