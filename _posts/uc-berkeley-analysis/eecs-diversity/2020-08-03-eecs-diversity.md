@@ -6,7 +6,7 @@ tags: [projects]
 description: An analysis of diversity in EECS at UC Berkeley.
 ---
 
-At UC Berkeley, the EECS department has struggled with issues of diversity, equity, and inclusion for decades. The Daily Cal has been reporting on diversity initiatives since [2012](https://www.dailycal.org/2012/11/13/female-students-still-struggling-to-find-foothold-in-computer-science/), with a number of articles published since then that highlight the [small fraction of female graduates](https://www.dailycal.org/2013/11/15/gender-disparity-eecs-persists/) in computer science (2013), projects studying [gender breakdowns by major](http://projects.dailycal.org/cs-gender/) (2016), columns discussing the [toxic stress culture](https://www.dailycal.org/2019/02/27/toxic-stress-culture/) perpetuated by a homogenous student body, and Op-Eds urging students and faculty to [uplift women in tech](https://www.dailycal.org/2019/04/05/campus-must-uplift-women-in-tech/) (2019).
+At UC Berkeley, the EECS department has struggled with issues of diversity, equity, and inclusion for decades. The Daily Cal has been reporting on diversity initiatives since [2012](https://www.dailycal.org/2012/11/13/female-students-still-struggling-to-find-foothold-in-computer-science/), with a number of articles published since then highlighting [small fraction of female graduates](https://www.dailycal.org/2013/11/15/gender-disparity-eecs-persists/) in computer science (2013), projects studying [gender breakdowns by major](http://projects.dailycal.org/cs-gender/) (2016), columns discussing the [toxic stress culture](https://www.dailycal.org/2019/02/27/toxic-stress-culture/) perpetuated by a homogenous student body, and Op-Eds urging students and faculty to [uplift women in tech](https://www.dailycal.org/2019/04/05/campus-must-uplift-women-in-tech/) (2019).
 
 Over the past few years, the EECS department has taken strides towards addressing these complex issues – a [multi-page website](https://eecs.berkeley.edu/about/diversity) highlights some of the initiatives taken by the department. In a 2018 Berkeley Engineering [newsletter](https://engineering.berkeley.edu/news/2018/06/tsu-jae-king-liu-named-new-dean-of-berkeley-engineering/), Dean Tsu-Jae Liu wrote:
 
@@ -14,9 +14,9 @@ Over the past few years, the EECS department has taken strides towards addressin
 >
 > Dean Tsu-Jae Liu
 
-Despite these efforts, transparency around applications, admissions, and student demographics in the department have been lacking over the past few years; the department's [By the Numbers](https://eecs.berkeley.edu/about/by-the-numbers) focuses more on statistics concerning the overall number of undergraduates and awarded degrees, rather than identifying concrete data regarding demographic backgrounds in the department. Without transparency around these fundamental data points, it's difficult to know where we've come from, where we currently lie, and where we should focus our efforts on in the future.
+Despite these efforts, transparency around applications, admissions, and student demographics in the department has been lacking over the past few years; the department's [By the Numbers](https://eecs.berkeley.edu/about/by-the-numbers) focuses more on statistics concerning the overall number of undergraduates and awarded degrees, rather than identifying concrete data regarding demographic backgrounds in the department. Without transparency around these fundamental data points, it's difficult to know where we've come from, where we currently lie, and where we should focus our efforts on in the future.
 
-In this article, I present a variety of different insights into data surrounding diversity in computer science at Berkeley. This is a two-part series; this article contains an analysis of Undergraduate Applications data, filtered to **all freshman intending to begin in Fall with an intended major of EECS or L&S CS**, spanning freshman entering the 2000-01 academic year to upcoming term (2020-21). The second article will contain an analysis of departmental census data.
+In this article, I present a variety of different insights into both historical and present-day surrounding diversity in computer science at Berkeley. This is a two-part series; this article contains an analysis of Undergraduate Applications data for freshman applying into EECS or L&S CS, spanning from 2000 to the upcoming academic year (2020-21). The second article will contain an analysis of departmental census data.
 
 All data for this analysis comes from [Cal Answers](https://calanswers.berkeley.edu/home). To view any visualizations in full screen, right click the graph and select "Open Frame in New Tab/Window."
 
@@ -26,7 +26,7 @@ All data for this analysis comes from [Cal Answers](https://calanswers.berkeley.
 
 # A Historical Perspective
 
-To begin, let's take a look at how applications, admissions, and SIR's have changed over the past 20 years. 
+To begin, let's take a look at how EECS/CS applications, admissions, and SIR's have changed over the past 20 years. 
 
 <iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph1.html" height="400" width="100%"></iframe>
 
@@ -52,7 +52,7 @@ A couple of interesting takeaways:
 
 #### Ethnicity
 
-UC Berkeley provides [three different categories](https://wikihub.berkeley.edu/display/calanswers/Student+Applicants%3A+Data+Dictionary) for ethnicity, broken down by different granularities. In these plots, we use the most broad categorization – otherwise, the number of lines becomes overwhelming to analyze. Note that unlike the graph above, the applications are separated from the admitted and SIR'ed students.
+UC Berkeley provides [three different categories](https://wikihub.berkeley.edu/display/calanswers/Student+Applicants%3A+Data+Dictionary) for ethnicity, broken down by different levels of precision. In these plots, we use the most broad categorization – otherwise, the number of lines becomes overwhelming to analyze. Note that unlike the graph above, the applications are separated from the admitted and SIR'ed students.
 
 *Note: double-clicking on a category in the legend will isolate only that category.*
 
@@ -68,7 +68,7 @@ Some observations from these graphs:
 
 - The **fraction of Asian applicants has always dominated**. In particular, it's been on the upswing since 2017 (a seven-point increase from 2017-2020).
 - The **fraction of White/Other applicants has been decreasing** steadily since around 2007 (time of the financial crisis?) – whereas the proportion of International, and even Underrepresented Minorities (URM's), have been gradually increasing.
-- **Though the proportion of URM's that applied this year decreased slightly (~1 percent), the fraction of URM's that were admitted and SIR'ed was significantly larger this year (~10 percent increase in both admitted/SIR'ed).** This may or may not have been due to decisions made by the university in anticipation of yield rates in the midst of the COVID-19 pandemic. 
+- **Though the proportion of URM's that applied this year decreased slightly (~1 percent), the fraction of URM's that were admitted and SIR'ed was much larger this year (~10 percent increase in both admitted/SIR'ed).** This may or may not have been due to decisions made by the university in anticipation of yield rates in the midst of the COVID-19 pandemic. 
 
 
 
@@ -103,7 +103,7 @@ Hover over the boxes to view statistics about a particular class.
 
 ### Identifying Majority and Minority Demographic Classes: Ethnicity & Gender
 
-Below are two maps representing the same data, with different shading. These maps represent the incoming class grouped by Ethnicity and Gender (in that order). Note the **first is shaded by headcount**, where dark reds illustrate small populations and dark blues represent large proportions. **The second is shaded by admit rate**, where dark reds illustrate populations with lower admit rates (aka impacted, highly-competitive demographics) and dark blues represent populations with higher admit rates.
+Below are two maps representing the same data, with different shading. These maps represent the incoming class grouped by Ethnicity and Gender (in that order). Note the **first is shaded by headcount**, where dark reds illustrate small populations and dark blues represent large proportions. **The second is shaded by admit rate**, where dark reds illustrate populations with lower admit rates (aka impacted demographics) and dark blues represent populations with higher admit rates.
 
 <iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph7.html" height="650" width="100%"></iframe>
 
@@ -113,7 +113,8 @@ In the map above, note the dominant demographic classes in terms of population d
 
 ### Identifying Majority and Minority Demographic Classes: Family Income & Race
 
-The following map truly symbolizes the demographic inequalities present in this year's class; these trends mirror larger societal inequalities present in California and across the country. Pay close attention to the levels here – students are first split by family income, and then ethnicity. **The dominance of the $150K+ South Asian demographic is striking.**
+The following map truly symbolizes the demographic inequalities present in this year's class; these trends mirror larger societal inequalities present in California and across the country. Pay close at
+tention to the levels here – students are first split by family income, and then ethnicity. **The dominance of the $150K+ South Asian demographic is striking.**
 
 <iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph9.html" height="650" width="100%"></iframe>
 
@@ -125,7 +126,7 @@ However, the inverse relationship that was so evident in the previous map (Gende
 
 ### Comparing Ethnicity & First-Generation College Students
 
-In this map, first-generation college students represent individuals who don't have a parent who's been to college. In the graph below, "NFG" stands for **Not First-Generation** and "FG" stands for **First-Generation**. Note the differences in what demographics have larger first-generation student populations (ex: Mexican American/Chicano students) and those that have much smaller first-generation populations (ex: South Asian/International). Again, note the relationships between particular demographics and admit rate.
+In this map, first-generation college students represent students who don't have a parent who's been to college. In the graph below, "NFG" stands for **Not First-Generation** and "FG" stands for **First-Generation**. Note the differences in what demographics have larger first-generation student populations (ex: Mexican American/Chicano students) and those that have much smaller first-generation populations (ex: South Asian/International). Again, note the relationships between particular demographics and admit rate.
 
 <iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph11.html" height="650" width="100%"></iframe>
 
