@@ -20,6 +20,8 @@ In this article, I present a variety of different insights into data surrounding
 
 All data for this analysis comes from [Cal Answers](https://calanswers.berkeley.edu/home). To view any visualizations in full screen, right click the graph and select "Open Frame in New Tab/Window."
 
+
+
 ***
 
 # A Historical Perspective
