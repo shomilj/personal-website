@@ -1,5 +1,5 @@
 ---
-title: Diversity in EECS at UC Berkeley - Part 1
+title: Diversity in EECS at UC Berkeley
 date: 2020-08-03 12:00:00 +00:00
 modified: 2020-08-03 12:00:00 +00:00
 tags: [projects]
