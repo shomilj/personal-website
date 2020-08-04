@@ -1,0 +1,48 @@
+Ethnic Breakdowns (L2) for the 2020-2021 Applicant Pool
+
+
+
+----------------------------------------------------------------------
+APPLIED
+----------------------------------------------------------------------
+    Ethnicity L2                     Headcount    Percentage
+--  -----------------------------  -----------  ------------
+ 0  African American                       436      3.75312
+ 1  Asian                                 5497     47.3186
+ 2  Chicano/Latino                        1305     11.2335
+ 3  Decline to State                       575      4.94964
+ 4  International                         2016     17.3539
+ 5  Native American/Alaska Native           23      0.197986
+ 6  Pacific Islander                        18      0.154945
+ 7  White                                 1747     15.0383
+
+
+
+----------------------------------------------------------------------
+ADMITTED
+----------------------------------------------------------------------
+    Ethnicity L2                     Headcount    Percentage
+--  -----------------------------  -----------  ------------
+ 0  African American                        67     4.31423
+ 1  Asian                                  782    50.3542
+ 2  Chicano/Latino                         278    17.9008
+ 3  Decline to State                       120     7.72698
+ 4  International                          145     9.33677
+ 5  Native American/Alaska Native            5     0.321958
+ 6  Pacific Islander                         1     0.0643915
+ 7  White                                  155     9.98068
+
+
+
+----------------------------------------------------------------------
+SIR'ED
+----------------------------------------------------------------------
+    Ethnicity L2        Headcount    Percentage
+--  ----------------  -----------  ------------
+ 0  African American           26      3.02678
+ 1  Asian                     435     50.6403
+ 2  Chicano/Latino            140     16.298
+ 3  Decline to State           61      7.10128
+ 4  International             103     11.9907
+ 5  Pacific Islander            1      0.116414
+ 6  White                      93     10.8265

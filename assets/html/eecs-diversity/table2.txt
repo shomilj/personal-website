@@ -1,0 +1,37 @@
+Ethnic Breakdowns (L1) for the 2020-2021 Applicant Pool
+
+
+
+----------------------------------------------------------------------
+APPLIED
+----------------------------------------------------------------------
+    Ethnicity L1                 Headcount    Percentage
+--  -------------------------  -----------  ------------
+ 0  Asian/Pacific Islander            5515       47.4735
+ 1  International                     2016       17.3539
+ 2  Underrepresented Minority         1764       15.1846
+ 3  White/Other                       2322       19.9879
+
+
+
+----------------------------------------------------------------------
+ADMITTED
+----------------------------------------------------------------------
+    Ethnicity L1                 Headcount    Percentage
+--  -------------------------  -----------  ------------
+ 0  Asian/Pacific Islander             783      50.4185
+ 1  International                      145       9.33677
+ 2  Underrepresented Minority          350      22.537
+ 3  White/Other                        275      17.7077
+
+
+
+----------------------------------------------------------------------
+SIR'ED
+----------------------------------------------------------------------
+    Ethnicity L1                 Headcount    Percentage
+--  -------------------------  -----------  ------------
+ 0  Asian/Pacific Islander             436       50.7567
+ 1  International                      103       11.9907
+ 2  Underrepresented Minority          166       19.3248
+ 3  White/Other                        154       17.9278
