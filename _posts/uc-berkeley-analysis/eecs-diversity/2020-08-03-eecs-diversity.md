@@ -16,7 +16,7 @@ Over the past few years, the EECS department has taken strides towards addressin
 
 Despite these efforts, transparency around applications, admissions, and student demographics in the department has been lacking over the past few years; the department's [By the Numbers](https://eecs.berkeley.edu/about/by-the-numbers) focuses more on statistics concerning the overall number of undergraduates and awarded degrees, rather than identifying concrete data regarding demographic backgrounds in the department. Without transparency around these fundamental data points, it's difficult to know where we've come from, where we currently lie, and where we should focus our efforts on in the future.
 
-In this article, I present a variety of different insights into both historical and present-day surrounding diversity in computer science at Berkeley. This is a two-part series; this article contains an analysis of Undergraduate Applications data for freshman applying into EECS or L&S CS, spanning from 2000 to the upcoming academic year (2020-21). The second article will contain an analysis of departmental census data.
+In this article, I present a variety of different insights into both historical and present-day surrounding diversity in computer science at Berkeley. This is a two-part series. This article contains an analysis of Undergraduate Applications data for freshman applying into EECS or L&S CS, spanning from 2000 to the upcoming academic year (2020-21). The second article will contain an analysis of departmental census data.
 
 All data for this analysis comes from [Cal Answers](https://calanswers.berkeley.edu/home). To view any visualizations in full screen, right click the graph and select "Open Frame in New Tab/Window."
 
