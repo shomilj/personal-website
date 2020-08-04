@@ -86,7 +86,7 @@ Some observations from these graphs:
 - The **fraction of White/Other applicants has been decreasing** steadily since around 2007 (time of the financial crisis?) – whereas the proportion of International, and even Underrepresented Minorities (URM's), have been gradually increasing.
 - **Though the proportion of URM's that applied this year decreased slightly (~1 percent), the fraction of URM's that were admitted and SIR'ed was significantly larger this year (~10 percent increase in both admitted/SIR'ed).** This may or may not have been due to decisions made by the university in anticipation of yield rates in the midst of the COVID-19 pandemic. 
 
-***
+
 
 #### Family Income
 
@@ -151,7 +151,8 @@ In this map, first-generation college students represent individuals who don't h
 
 # The Most Important Visual of All: The Effect of Stacked Demographic Inequalities
 
-This visual contains arguably the most important takeaway from this entire analysis. What's contained below is a four-dimensional representation of student demographics: gender, ethnicity, income, and first-generation. **The sharp differences in color represent the effect of stacked inequalities in this semester's freshman class: demographic classes that are dark blue inherently start out in a significantly different position than demographic classes that are dark red. **These inequalities represent why organizations that help strengthen the communities of minorities in Computer Science are more important than ever.
+This visual contains arguably the most important takeaway from this entire analysis. What's contained below is a four-dimensional representation of student demographics: gender, ethnicity, income, and first-generation. **The sharp differences in color represent the effect of stacked inequalities in this semester's freshman class: demographic classes that are dark blue inherently start out in a significantly different position than demographic classes that are dark red.** These inequalities represent why organizations that help strengthen the communities of minorities in Computer Science are more important than ever.
+
 
 
 
@@ -168,6 +169,10 @@ Below is a list of groups that support minorities in STEM at UC Berkeley. **Plea
 - [CS KickStart (CSK)](http://cs-kickstart.berkeley.edu/)
 - [Hispanic Engineers and Scientists (HES)](http://hes.berkeley.edu/)
 - [Society of Women Engineers (SWE)](http://swe.berkeley.edu/)
+
+
+
+
 
 
 
