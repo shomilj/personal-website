@@ -4,6 +4,7 @@ date: 2020-08-03 12:00:00 +00:00
 modified: 2020-08-03 12:00:00 +00:00
 tags: [projects]
 description: An analysis of diversity in EECS at UC Berkeley.
+image: /assets/html/eecs-diversity/social.png
 ---
 
 At UC Berkeley, the EECS department has struggled with issues of diversity, equity, and inclusion for decades. The Daily Cal has been reporting on diversity initiatives since [2012](https://www.dailycal.org/2012/11/13/female-students-still-struggling-to-find-foothold-in-computer-science/), with a number of articles published since then highlighting [small fraction of female graduates](https://www.dailycal.org/2013/11/15/gender-disparity-eecs-persists/) in computer science (2013), projects studying [gender breakdowns by major](http://projects.dailycal.org/cs-gender/) (2016), columns discussing the [toxic stress culture](https://www.dailycal.org/2019/02/27/toxic-stress-culture/) perpetuated by a homogenous student body, and Op-Eds urging students and faculty to [uplift women in tech](https://www.dailycal.org/2019/04/05/campus-must-uplift-women-in-tech/) (2019).
@@ -28,7 +29,7 @@ All data for this analysis comes from [Cal Answers](https://calanswers.berkeley.
 
 To begin, let's take a look at how EECS/CS applications, admissions, and SIR's have changed over the past 20 years. 
 
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph1.html" height="400" width="100%"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~shomil/3.embed?showlink=false"></iframe>
 
 SIR's (Statement of Intent to Register) may be informally referred to students who have "committed" to UC Berkeley. Notice the dip in applications around the dot-com bust (2002-2005) and the upward trend in applications beginning around 2010. 
 
@@ -38,9 +39,7 @@ SIR's (Statement of Intent to Register) may be informally referred to students w
 
 Let's see how the gender ratio has progressed over time. 
 
-
-
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph2.html" height="400" width="100%"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~shomil/6.embed?showlink=false"></iframe>
 
 A couple of interesting takeaways:
 
@@ -58,9 +57,9 @@ UC Berkeley provides [three different categories](https://wikihub.berkeley.edu/d
 
 ***
 
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph3.html" height="400" width="100%"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~shomil/12.embed?showlink=false"></iframe>
 
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph4.html" height="400" width="100%"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~shomil/10.embed?showlink=false"></iframe>
 
 ***
 
@@ -78,9 +77,9 @@ Applicants report parental income in five different segments ranging from $0-25K
 
 ***
 
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph5.html" height="400" width="100%"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~shomil/14.embed?showlink=false"></iframe>
 
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph6.html" height="400" width="100%"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~shomil/16.embed?showlink=false"></iframe>
 
 ***
 
@@ -105,31 +104,29 @@ Hover over the boxes to view statistics about a particular class.
 
 Below are two maps representing the same data, with different shading. These maps represent the incoming class grouped by Ethnicity and Gender (in that order). Note the **first is shaded by headcount**, where dark reds illustrate small populations and dark blues represent large proportions. **The second is shaded by admit rate**, where dark reds illustrate populations with lower admit rates (aka impacted demographics) and dark blues represent populations with higher admit rates.
 
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph7.html" height="650" width="100%"></iframe>
+<iframe width="100%" height="650" frameborder="0" scrolling="no" src="//plotly.com/~shomil/18.embed?showlink=false"></iframe>
 
 In the map above, note the dominant demographic classes in terms of population density: Chinese and South Asian male-identifying students dominate the population, with 119 South Asian and 133 Chinese male-identifying students. On the other hand, there are only 10 African American female-identifying students. However, these numbers must be analyzed relative to admission rates; the map below is shaded by **admit rate**, which indicates what fraction of the demographic class was admitted. Note the inverse relationship between population size and admit rate.
 
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph8.html" height="650" width="100%"></iframe>
+<iframe width="100%" height="650" frameborder="0" scrolling="no" src="//plotly.com/~shomil/20.embed?showlink=false"></iframe>
 
 ### Identifying Majority and Minority Demographic Classes: Family Income & Race
 
 The following map truly symbolizes the demographic inequalities present in this year's class; these trends mirror larger societal inequalities present in California and across the country. Pay close at
 tention to the levels here – students are first split by family income, and then ethnicity. **The dominance of the $150K+ South Asian demographic is striking.**
 
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph9.html" height="650" width="100%"></iframe>
+<iframe width="100%" height="650" frameborder="0" scrolling="no" src="//plotly.com/~shomil/22.embed?showlink=false"></iframe>
 
 However, the inverse relationship that was so evident in the previous map (Gender/Ethnicity) isn't as clear-cut here: White and International students in the $150K+ and Income Not Reported categories have a slightly lower admit rate than South Asians, despite encompassing a smaller overall population. Moreover, the $60-80K demographic has a slightly higher admit rate than the $0-25K demographic; however, more analysis is necessary to reach a conclusion from that observation.
 
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph10.html" height="650" width="100%"></iframe>
-
+<iframe width="100%" height="650" frameborder="0" scrolling="no" src="//plotly.com/~shomil/24.embed?showlink=false"></iframe>
 
 
 ### Comparing Ethnicity & First-Generation College Students
 
 In this map, first-generation college students represent students who don't have a parent who's been to college. In the graph below, "NFG" stands for **Not First-Generation** and "FG" stands for **First-Generation**. Note the differences in what demographics have larger first-generation student populations (ex: Mexican American/Chicano students) and those that have much smaller first-generation populations (ex: South Asian/International). Again, note the relationships between particular demographics and admit rate.
 
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph11.html" height="650" width="100%"></iframe>
-
+<iframe width="100%" height="650" frameborder="0" scrolling="no" src="//plotly.com/~shomil/29.embed?showlink=false"></iframe>
 
 
 # The Most Important Visual of All: The Effect of Stacked Demographic Inequalities
@@ -138,14 +135,13 @@ This visual contains arguably the most important takeaway from this entire analy
 
 
 
-
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="../../../assets/html/eecs-diversity/graph12.html" height="650" width="100%"></iframe>
+<iframe width="100%" height="650" frameborder="0" scrolling="no" src="//plotly.com/~shomil/26.embed?showlink=false"></iframe>
 
 
 
 # Support Minorities in STEM
 
-Below is a list of groups that support minorities in STEM at UC Berkeley. **Please, please check out the work that they're doing: given the demographic split in the map above, it's more important than ever to help bring equity to the forefront of a computer science education at UC Berkeley!**
+**As a final note, please check out the work that these groups are doing: given the demographic split in the map above, it's more important than ever to help bring equity to the forefront of a computer science education at UC Berkeley!**
 
 - [Association of Women in EE & CS (AWE)](http://awe.berkeley.edu/) 
 - [Black Engineering and Science Students Association (BESSA)](http://ucberkeleybessa.com/)
