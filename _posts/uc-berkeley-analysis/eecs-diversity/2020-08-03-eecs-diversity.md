@@ -22,9 +22,7 @@ Despite these efforts, transparency around applications, admissions, and student
 
 In this article, I present a variety of different insights into both historical and present-day surrounding diversity in computer science at Berkeley. This is a two-part series. This article contains an analysis of Undergraduate Applications data for freshman applying into EECS or L&S CS, spanning from 2000 to the upcoming academic year (2020-21). The second article will contain an analysis of departmental census data.
 
-All data for this analysis comes from [Cal Answers](https://calanswers.berkeley.edu/home). To view any visualizations in full screen, right click the graph and select "Open Frame in New Tab/Window." The source code for this project is available at [GitHub](https://github.com/shomilj/cal-answers).
-
-
+All data for this analysis comes from [Cal Answers](https://calanswers.berkeley.edu/home). To view any visualizations in full screen, right click the graph and select "Open Frame in New Tab/Window." The source code for this project is available at [GitHub](https://github.com/shomilj/cal-answers). A supplementary analysis tool is available at [admissions.shomil.me](http://admissions.shomil.me).
 
 ***
 
