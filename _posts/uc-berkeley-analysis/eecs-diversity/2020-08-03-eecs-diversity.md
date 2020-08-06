@@ -134,7 +134,7 @@ This visual contains arguably the most important takeaway from this entire analy
 
 
 
-<iframe width="100%" height="700" frameborder="0" scrolling="no" src="//plotly.com/~shomil/26.embed?showlink=false"></iframe>
+<iframe width="100%" height="650" frameborder="0" scrolling="no" src="//plotly.com/~shomil/26.embed?showlink=false"></iframe>
 
 
 
