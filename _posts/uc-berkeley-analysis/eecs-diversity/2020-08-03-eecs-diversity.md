@@ -131,17 +131,17 @@ In this map, first-generation college students represent students who don't have
 
 # The Most Important Visual of All: The Effect of Stacked Demographic Inequalities
 
-This visual contains arguably the most important takeaway from this entire analysis. What's contained below is a four-dimensional representation of student demographics: gender, ethnicity, income, and first-generation. The sharp differences in color represent the effect of stacked inequalities in this semester's freshman class: demographic classes that are dark green inherently start out in a significantly different position than demographic classes that are light green. **These inequalities represent why organizations that help support minorities in Computer Science are more important than ever.**
+This visual contains arguably the most important takeaway from this entire analysis. What's contained below is a four-dimensional representation of student demographics: gender, ethnicity, income, and first-generation. The sharp differences in color represent the effect of stacked inequalities in this semester's freshman class: demographic classes that are dark green inherently start out in a significantly different position than demographic classes that are light green. **These inequalities demonstrate why organizations that help support minorities in Computer Science are necessary and important.**
 
 
 
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="//plotly.com/~shomil/26.embed?showlink=false"></iframe>
+<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~shomil/26.embed?showlink=false"></iframe>
 
 
 
 # Support Minorities in STEM
 
-**As a final note, please check out the work that these groups are doing: given the demographic split in the map above, it's more important than ever to help bring equity to the forefront of a computer science education at UC Berkeley!**
+**As a final note, please check out the work that these groups are doing: given the demographic split in the map above, these groups are an essential part of bringing equity to the forefront of a computer science education at UC Berkeley!**
 
 - [Association of Women in EE & CS (AWE)](http://awe.berkeley.edu/) 
 - [Black Engineering and Science Students Association (BESSA)](http://ucberkeleybessa.com/)
