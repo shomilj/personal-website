@@ -2,7 +2,7 @@
 title: Extracting 10K locations through an iOS Security Vulnerability
 date: 2020-01-24 00:00:00 +00:00
 modified: 2020-01-24 00:00:00 +00:00
-tags: [projects]
+tags: [projects, security]
 description: A glaring security flaw that allows developers access to everywhere you've been.
 ---
 

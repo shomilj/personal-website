@@ -2,7 +2,7 @@
 title: Move fast & break things (including privacy)
 date: 2020-04-10 11:58:47 +07:00
 modified: 2020-04-10 16:49:47 +07:00
-tags: [articles]
+tags: [articles, security]
 description: An article analyzing the shortcomings of Zoom's rise to popular dominance.
 ---
 

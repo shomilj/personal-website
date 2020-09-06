@@ -2,7 +2,7 @@
 title: An analysis of 35,000 leaked passwords from UC Berkeley students
 date: 2020-07-20 00:00:00 +00:00
 modified: 2020-07-20 00:00:00 +00:00
-tags: [projects]
+tags: [projects, security]
 description: An analysis of 35,000 leaked passwords from the Chegg Data Breach affecting thousands of UC Berkeley students.
 ---
 
