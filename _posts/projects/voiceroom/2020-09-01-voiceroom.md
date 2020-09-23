@@ -6,13 +6,9 @@ tags: [projects]
 description: A spatially-aware voice chat platform.
 ---
 
-*This project is in progress, so this post may be updated with more information & updates over the coming months!*
+>  This project is in progress, so this post may be updated with more information & updates over the coming months!
 
-Earlier this summer, a friend and I built Voiceroom (https://voiceroom.us/) – a spatially-aware voice chat application, built using WebRTC and React. 
-
-We launched on [Producthunt](https://www.producthunt.com/posts/voiceroom) - and made it to the front page! We were also featured in the [Product Hunt Newsletter](https://www.producthunt.com/newsletter/6231), which goes out to thousands of readers daily.
-
-Voiceroom was also mentioned in the [Wall Street Journal](https://www.wsj.com/articles/remember-office-banter-audio-apps-want-to-bring-that-back-11598439617), in an article focusing on the rise in audio-first experiences.
+Earlier this summer, a friend and I built Voiceroom (https://voiceroom.us/) – a spatially-aware voice chat application, built using WebRTC and React. We launched on [Product Hunt](https://www.producthunt.com/posts/voiceroom) - and made it to the front page! We were also featured in the [Product Hunt Newsletter](https://www.producthunt.com/newsletter/6231), which goes out to thousands of readers daily. Voiceroom was also mentioned in the [Wall Street Journal](https://www.wsj.com/articles/remember-office-banter-audio-apps-want-to-bring-that-back-11598439617), in an article focusing on the rise in audio-first experiences.
 
 ---
 
