@@ -26,4 +26,4 @@ Earlier this summer, a friend and I built Voiceroom (https://voiceroom.us/) – 
 
 *Anmol & Shomil*  
 
-*Update: try the demo at https://www.voiceroom.us/demo to see this in action without making an actual room!*
+*Update: try the demo at [https://www.voiceroom.us/demo](https://www.voiceroom.us/demo) to see this in action without making an actual room!*
