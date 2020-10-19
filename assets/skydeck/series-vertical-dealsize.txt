@@ -1,154 +1,729 @@
 ----------------------------------------------------------------------------------------------------
-Series A
+Accelerator/Incubator
 ----------------------------------------------------------------------------------------------------
 
 3D Printing - Rank = 4
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford         5              10.31
-MIT             10              10.09
-Harvard          3               7.97
-Berkeley         2               5.00
+MIT              9               0.08
+Stanford         1               0.08
+Harvard          2               0.07
+Berkeley         3               0.00
 
 
-AdTech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        16               7.51
-Harvard         10               6.67
-MIT             10               4.76
-Berkeley         7               4.47
-
-
-Advanced Manufacturing - Rank = 4
+AdTech - Rank = 3
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford        18              18.50
-MIT             12              12.69
-Harvard          4               8.13
-Berkeley         6               7.22
+Stanford         5               0.62
+MIT              3               0.07
+Berkeley         6               0.02
+Harvard          5               0.00
 
 
-AgTech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              6              14.65
-Harvard          7              14.51
-Stanford        21              10.68
-Berkeley         5               9.31
-
-
-Artificial Intelligence & Machine Learning - Rank = 4
+Advanced Manufacturing - Rank = 3
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford       182              12.37
-Harvard         96              11.77
-MIT            108              10.38
-Berkeley       100               9.81
+MIT             13               0.06
+Harvard          4               0.04
+Berkeley         5               0.02
+Stanford         7               0.02
 
 
-AudioTech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              10.00
-Berkeley         5               9.55
-Stanford         6               8.09
-MIT              4               6.50
-
-
-Augmented Reality - Rank = 2
+AgTech - Rank = 1
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford         7              23.18
-Berkeley         5              13.74
-MIT             10               6.96
-Harvard          7               6.48
+Berkeley         7               0.07
+MIT             10               0.03
+Stanford        27               0.03
+Harvard          5               0.02
 
 
-Autonomous cars - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        13              22.90
-MIT              5              18.36
-Harvard          2              13.72
-Berkeley         5              11.67
-
-
-B2B Payments - Rank = 4
+Artificial Intelligence & Machine Learning - Rank = 3
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Harvard          3              16.83
-Stanford         3              16.08
-MIT              2               9.31
-Berkeley         2               7.50
+Harvard         96               0.05
+MIT            136               0.05
+Berkeley       106               0.03
+Stanford       172               0.03
 
 
-Beauty - Rank = 1
+AudioTech - Rank = 1
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Berkeley         3              30.15
-Stanford         3              29.58
-Harvard          7              15.33
-MIT              2               9.98
+Berkeley         3               0.08
+Stanford         1               0.00
+
+
+Augmented Reality - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         1               0.15
+Harvard          9               0.04
+MIT              7               0.03
+Stanford         1               0.00
+
+
+Autonomous cars - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             15               0.02
+Stanford        11               0.01
+Berkeley         1               0.00
+Harvard          3               0.00
+
+
+B2B Payments - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         3               0.05
+Berkeley         4               0.01
+Harvard          3               0.00
+
+
+Beauty - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              1               0.12
+Harvard          2               0.06
+Berkeley         6               0.03
 
 
 Big Data - Rank = 4
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford       119              13.01
-Harvard         80              10.41
-MIT             70              10.37
-Berkeley        75               8.18
+Harvard         61               0.06
+MIT             82               0.05
+Stanford        89               0.05
+Berkeley        71               0.03
 
 
-Cannabis - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         3              15.00
-MIT              2              11.44
-Harvard          3               6.61
-Stanford         4               6.08
-
-
-Car-Sharing - Rank = 3
+Cannabis - Rank = NA
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Harvard          1              56.40
-MIT              1              56.40
-Berkeley         1               8.95
+Harvard          3               0.16
+MIT              2               0.07
+Stanford         2               0.06
 
 
-CleanTech - Rank = 3
+Car-Sharing - Rank = NA
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford        43              11.94
-MIT             36               8.54
-Berkeley        32               7.66
-Harvard         25               7.50
+Harvard          2               0.21
+MIT              1               0.00
+
+
+CleanTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         23               0.08
+Stanford        56               0.05
+MIT             46               0.03
+Berkeley        44               0.03
 
 
 CloudTech & DevOps - Rank = 4
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford        20              11.23
-MIT             13              10.54
-Harvard         11               7.83
-Berkeley        16               7.69
+MIT              4               0.07
+Stanford         4               0.06
+Harvard          3               0.04
+Berkeley         6               0.02
+
+
+Construction Technology - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         5               0.11
+Harvard          2               0.10
+Stanford         2               0.02
+MIT              5               0.00
+
+
+Cryptocurrency/Blockchain - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         20               0.08
+MIT             17               0.06
+Berkeley        14               0.06
+Stanford        17               0.02
+
+
+Cybersecurity - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         10               0.10
+Stanford         8               0.03
+Berkeley        12               0.01
+MIT              7               0.01
+
+
+Digital Health - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        22               0.04
+Berkeley        13               0.04
+Harvard         30               0.04
+MIT             30               0.03
+
+
+E-Commerce - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        17               0.17
+Harvard         16               0.11
+Berkeley        17               0.06
+MIT             17               0.06
+
+
+EdTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        29               0.13
+MIT             10               0.03
+Harvard         21               0.03
+Berkeley         6               0.00
+
+
+Ephemeral Content - Rank = NA
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         2               0.03
+
+
+FemTech - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         9               0.05
+Stanford         5               0.05
+MIT             13               0.02
+Harvard          6               0.00
+
+
+FinTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        84               0.05
+MIT             75               0.05
+Harvard         72               0.05
+Berkeley        43               0.04
+
+
+FoodTech - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              9               0.14
+Berkeley        17               0.10
+Stanford         9               0.09
+Harvard         10               0.04
+
+
+Gaming - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         3               0.12
+Harvard          7               0.11
+MIT              2               0.00
+Stanford         3               0.00
+
+
+HR Tech - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             14               0.06
+Berkeley         8               0.04
+Stanford        19               0.03
+Harvard         20               0.03
+
+
+HealthTech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         65               0.04
+Stanford        68               0.04
+Berkeley        49               0.03
+MIT             63               0.03
+
+
+Impact Investing - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              4               0.15
+Stanford         4               0.04
+Berkeley         4               0.00
+
+
+Industrials - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        52               0.08
+Harvard         29               0.05
+Berkeley        29               0.05
+MIT             34               0.04
+
+
+Infrastructure - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         6               0.00
+Harvard          6               0.00
+Stanford         2               0.00
+
+
+InsurTech - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         5               0.08
+Berkeley         2               0.07
+MIT             22               0.06
+Harvard          5               0.05
+
+
+Internet of Things - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        40               0.05
+MIT             30               0.04
+Harvard         27               0.03
+Berkeley        25               0.01
+
+
+LOHAS & Wellness - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        35               0.07
+Berkeley        22               0.05
+MIT             38               0.05
+Harvard         25               0.03
+
+
+Legal Tech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         11               0.03
+MIT              3               0.01
+Berkeley         4               0.01
+Stanford         5               0.00
+
+
+Life Sciences - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        80               0.04
+Stanford        65               0.04
+Harvard         78               0.03
+MIT             58               0.03
+
+
+Manufacturing - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         18               0.12
+Stanford        26               0.09
+Berkeley        11               0.03
+MIT             29               0.03
+
+
+Marketing Tech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             15               0.06
+Stanford        10               0.05
+Berkeley         9               0.04
+Harvard         15               0.03
+
+
+Micro-Mobility - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         4               0.04
+Berkeley         7               0.04
+Harvard          2               0.00
+
+
+Mobile - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       134               0.07
+MIT             84               0.06
+Harvard         96               0.06
+Berkeley        93               0.05
+
+
+Mobile Commerce - Rank = NA
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         7               0.07
+MIT              4               0.04
+Harvard          6               0.03
+
+
+Mobility Tech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        30               0.16
+Harvard         19               0.11
+MIT             27               0.04
+Berkeley        21               0.03
+
+
+Mortgage Tech - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         1               0.13
+Stanford         1               0.00
+
+
+Nanotechnology - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        11               0.09
+Stanford         3               0.02
+Harvard          2               0.01
+MIT              6               0.00
+
+
+Oil & Gas - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          1               0.12
+Stanford        13               0.07
+MIT              6               0.04
+Berkeley         6               0.02
+
+
+Oncology - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        23               0.05
+Stanford        22               0.05
+Harvard         30               0.03
+MIT             14               0.03
+
+
+Pet Technology - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         1               0.10
+MIT              1               0.05
+Stanford         3               0.02
+Harvard          1               0.00
+
+
+Real Estate Technology - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         4               0.10
+Stanford        15               0.07
+Harvard         11               0.05
+MIT              5               0.04
+
+
+Restaurant Technology - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         3               0.09
+Harvard          3               0.07
+Stanford         1               0.00
+
+
+Ridesharing - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         8               0.41
+MIT              1               0.14
+Harvard          4               0.10
+Berkeley         4               0.01
+
+
+Robotics and Drones - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             19               0.10
+Harvard         11               0.04
+Berkeley         9               0.04
+Stanford        18               0.02
+
+
+SaaS - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       139               0.06
+Harvard        107               0.04
+MIT            102               0.04
+Berkeley        84               0.04
+
+
+Space Technology - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          5               0.07
+Stanford         5               0.05
+Berkeley         4               0.03
+MIT              5               0.02
+
+
+Supply Chain Tech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          7               0.21
+Stanford        14               0.15
+MIT              8               0.05
+Berkeley         5               0.03
+
+
+TMT - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       377               0.06
+Harvard        314               0.05
+MIT            287               0.05
+Berkeley       248               0.04
+
+
+Virtual Reality - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              6               0.04
+Berkeley         6               0.01
+Stanford        10               0.01
+Harvard          6               0.00
+
+
+Wearables & Quantified Self - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         17               0.05
+Berkeley         9               0.03
+MIT             24               0.03
+Stanford        12               0.03
+
+
+eSports - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          2               0.13
+Berkeley         3               0.12
+MIT              6               0.01
+
+
+nan - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             28               0.10
+Berkeley        37               0.08
+Harvard         32               0.07
+Stanford        24               0.06
+
+
+----------------------------------------------------------------------------------------------------
+Early Stage VC
+----------------------------------------------------------------------------------------------------
+
+3D Printing - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             19              13.26
+Harvard          8              12.51
+Stanford        10              12.33
+Berkeley         5               2.34
+
+
+AdTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             10              77.42
+Stanford        23              12.04
+Harvard          9               9.33
+Berkeley         5               3.78
+
+
+Advanced Manufacturing - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        41              31.82
+MIT             26              18.96
+Harvard         12              12.60
+Berkeley        12               8.11
+
+
+AgTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         10              25.66
+MIT             12              22.20
+Stanford        30              18.56
+Berkeley         8               9.14
+
+
+Artificial Intelligence & Machine Learning - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       309              17.68
+MIT            169              15.36
+Berkeley       157              12.12
+Harvard        204              11.51
+
+
+AudioTech - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         7               6.82
+Stanford        10               6.45
+Harvard          4               2.22
+MIT              2               2.00
+
+
+Augmented Reality - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        15              30.09
+Berkeley        10              13.41
+Harvard         14               6.47
+MIT             17               6.05
+
+
+Autonomous cars - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        24              56.98
+Berkeley         7              21.41
+MIT             13              18.41
+Harvard          4              16.86
+
+
+B2B Payments - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         4              37.50
+Harvard          5               8.56
+Berkeley         6               6.49
+
+
+Beauty - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         6              21.83
+MIT              4               6.44
+Harvard         16               2.71
+Berkeley         5               2.41
+
+
+Big Data - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             97              21.27
+Stanford       220              20.67
+Harvard        146              14.23
+Berkeley       113              11.23
+
+
+Cannabis - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         9              22.02
+Harvard         10              19.83
+MIT              6              10.65
+Stanford        11               4.93
+
+
+Car-Sharing - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              3             102.47
+Berkeley         7              80.54
+Harvard          5              62.78
+
+
+CleanTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         34              21.63
+MIT             46              16.39
+Stanford        57              11.22
+Berkeley        47               9.19
+
+
+CloudTech & DevOps - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        19              15.93
+Stanford        19              11.46
+MIT             22              11.37
+Harvard         15              10.65
 
 
 Construction Technology - Rank = 4
@@ -156,2356 +731,1562 @@ Construction Technology - Rank = 4
 college      count    averageDealSize
 ---------  -------  -----------------
 Harvard          1              23.00
-MIT              2              11.73
-Stanford         5               9.94
-Berkeley         4               7.27
+MIT              4              10.83
+Stanford        13               7.77
+Berkeley         6               5.53
 
 
-Cryptocurrency/Blockchain - Rank = 4
+Cryptocurrency/Blockchain - Rank = 2
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford        18              16.76
-MIT             10              13.98
-Harvard          9              12.03
-Berkeley         4               8.99
+Stanford        51              11.80
+Berkeley        20               8.48
+MIT             39               7.16
+Harvard         31               5.04
 
 
 Cybersecurity - Rank = 3
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Harvard         16              13.42
-Stanford        27              10.88
-Berkeley        12              10.74
-MIT             15               8.83
+Harvard         35              21.16
+Stanford        45              17.04
+Berkeley        16              13.21
+MIT             20              11.03
 
 
 Digital Health - Rank = 2
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford        45               9.34
-Berkeley        21               9.25
-Harvard         50               7.67
-MIT             28               5.93
-
-
-E-Commerce - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley        26              11.17
-Harvard         65              10.78
-Stanford        65               8.64
-MIT             16               8.62
-
-
-EdTech - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley        17               7.14
-Stanford        37               6.44
-MIT             14               6.34
-Harvard         33               5.03
-
-
-FemTech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         6              10.08
-Harvard          3               8.93
-MIT              2               6.70
-
-
-FinTech - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley        45              15.44
-Stanford       101              11.77
-Harvard        103               9.72
-MIT             53               9.05
-
-
-FoodTech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              9              12.98
-Harvard          8              11.38
-Berkeley         7              10.26
-Stanford        23               9.30
-
-
-Gaming - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         9              12.96
-MIT              2              12.00
-Harvard         14              10.99
-Stanford        10               6.94
-
-
-HR Tech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         14              11.46
-MIT              8              10.92
-Berkeley        18               6.99
-Stanford        19               6.59
-
-
-HealthTech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        83              10.23
-Harvard        105               9.29
-MIT             52               9.09
-Berkeley        48               7.79
-
-
-Impact Investing - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         13               9.48
-Berkeley         6               7.41
-MIT              8               5.30
-Stanford         8               3.46
-
-
-Industrials - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley        35               8.97
-Stanford        60               8.51
-MIT             47               7.84
-Harvard         34               7.63
-
-
-Infrastructure - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              1              22.00
-Berkeley         3              10.67
-Harvard          2               9.71
-Stanford         1               1.00
-
-
-InsurTech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         20              15.00
-Berkeley         8              12.53
-MIT             16              11.78
-Stanford        17              10.85
-
-
-Internet of Things - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             23              10.62
-Stanford        31              10.21
-Harvard         16               7.45
-Berkeley        30               6.56
-
-
-LOHAS & Wellness - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        47              10.65
-Harvard         47              10.17
-MIT             26               6.75
-Berkeley        24               6.49
-
-
-Legal Tech - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         6               9.99
-Harvard          8               6.44
-MIT              2               6.40
-Stanford         6               5.57
-
-
-Life Sciences - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard        150              19.94
-Berkeley        78              18.70
-MIT            112              17.20
-Stanford       103              17.18
-
-
-Manufacturing - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        38              11.55
-MIT             23               9.55
-Harvard         26               8.71
-Berkeley        13               7.59
-
-
-Marketing Tech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        43               8.43
-Berkeley        17               6.85
-MIT             23               5.55
-Harvard         40               5.35
-
-
-Micro-Mobility - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         1              36.50
-Berkeley         4              14.07
-Harvard          2               0.08
-
-
-Mobile - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             68               9.04
-Stanford       161               8.36
-Berkeley        80               8.04
-Harvard        124               7.79
-
-
-Mobile Commerce - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              4              12.23
-Harvard          7               7.70
-Stanford        12               6.82
-
-
-Mobility Tech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        51              14.27
-Berkeley        28              13.12
-MIT             33              12.05
-Harvard         28              11.55
-
-
-Mortgage Tech - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         3              86.67
-Stanford         6              18.65
-Harvard          2               3.15
-MIT              1               2.35
-
-
-Nanotechnology - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         7               7.35
-MIT              6               4.06
-Harvard          3               2.02
-Berkeley         4               1.21
-
-
-Oil & Gas - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              2              44.35
-Stanford        12              21.24
-Berkeley         4               3.67
-Harvard          4               3.56
-
-
-Oncology - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             38              22.68
-Harvard         62              21.64
-Berkeley        23              20.41
-Stanford        42              20.10
-
-
-Pet Technology - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          3               6.73
-Berkeley         3               6.43
-Stanford         2               4.75
-
-
-Real Estate Technology - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley        13              27.01
-Stanford        24              11.70
-Harvard         31               9.42
-MIT              8               7.08
-
-
-Restaurant Technology - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         5              20.83
-Stanford         9               8.97
-MIT              5               4.08
-Harvard          3               3.60
-
-
-Ridesharing - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              2              31.70
-Harvard          5              13.77
-Berkeley         2               7.25
-Stanford         7               5.94
-
-
-Robotics and Drones - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        26              19.40
-Harvard         15               9.54
-Berkeley        14               9.35
-MIT             21               9.10
-
-
-SaaS - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford       217               9.14
-Berkeley       138               8.42
-Harvard        151               7.85
-MIT            136               7.84
-
-
-Space Technology - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          4              10.20
-Berkeley         5               9.58
-Stanford         4               9.27
-MIT              3               6.79
-
-
-Supply Chain Tech - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         9              17.72
-MIT             15              13.36
-Stanford        22              12.18
-Harvard         15               9.87
-
-
-TMT - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford       591               9.45
-Berkeley       306               8.95
-MIT            316               8.86
-Harvard        460               8.29
-
-
-Virtual Reality - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              5              10.20
-Stanford        10               9.18
-Berkeley         7               7.51
-Harvard          4               7.12
-
-
-Wearables & Quantified Self - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        15               8.35
-Harvard         11               7.55
-Berkeley         9               6.78
-MIT             11               6.69
-
-
-eSports - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2              17.95
-MIT              1              17.00
-Stanford         1              17.00
-Harvard          3               5.57
-
-
-nan - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             32              10.66
-Harvard         38               9.96
-Stanford        48               8.28
-Berkeley        28               7.38
-
-
-----------------------------------------------------------------------------------------------------
-Series B
-----------------------------------------------------------------------------------------------------
-
-3D Printing - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              7              23.07
-Stanford         3              21.00
-Harvard          4              20.84
-
-
-AdTech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              9              68.11
-Stanford        13              19.69
-Harvard          6              16.81
-Berkeley         5               9.41
-
-
-Advanced Manufacturing - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        12              66.69
-MIT              9              34.35
-Harvard          6              14.00
-Berkeley         4              12.50
-
-
-AgTech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         4              80.96
-Harvard          3              63.49
-MIT              6              30.96
-Berkeley         6              22.15
-
-
-Artificial Intelligence & Machine Learning - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford       100              36.89
-MIT             50              29.47
-Berkeley        53              24.46
-Harvard         47              22.89
-
-
-AudioTech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              31.50
-Stanford         2              25.45
-MIT              2              11.00
-
-
-Augmented Reality - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         3              90.33
-Berkeley         3              86.00
-MIT              2              19.98
-Harvard          2               9.50
-
-
-Autonomous cars - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         8             128.08
-MIT              3              40.67
-Harvard          1              40.00
-Berkeley         4              29.46
-
-
-B2B Payments - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          3              35.00
-Stanford         4              29.88
-MIT              1              20.00
-
-
-Beauty - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         1             100.00
-Harvard          6               6.03
-Berkeley         1               5.91
-
-
-Big Data - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        69              39.73
-MIT             34              35.74
-Harvard         48              25.43
-Berkeley        48              20.28
-
-
-Cannabis - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2              69.00
-Stanford         1              19.80
-MIT              3              15.92
-Harvard          2               6.75
-
-
-Car-Sharing - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2             223.65
-Harvard          2             125.50
-MIT              2             125.50
-
-
-CleanTech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        21              36.99
-Harvard         12              34.18
-Berkeley        18              27.31
-MIT             36              23.12
-
-
-CloudTech & DevOps - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              6              19.42
-Berkeley        14              17.93
-Stanford        10              17.73
-Harvard          7              14.02
-
-
-Construction Technology - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2              21.00
-MIT              1              15.90
-Stanford         4              13.64
-
-
-Cryptocurrency/Blockchain - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         3              51.17
-MIT              2              19.24
-Berkeley         1              15.00
-
-
-Cybersecurity - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         13              27.27
-Stanford        17              19.88
-MIT              9              19.08
-Berkeley        10              15.70
-
-
-Digital Health - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        25              31.96
-Berkeley         8              31.45
-Harvard         27              18.84
-MIT             15              15.19
-
-
-E-Commerce - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              5              33.62
-Stanford        34              29.11
-Harvard         44              26.83
-Berkeley        18              22.48
-
-
-EdTech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              7              73.00
-Berkeley         5              21.77
-Stanford        18              16.14
-Harvard         19              14.58
-
-
-FemTech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         2              46.59
-Berkeley         1              13.60
-Harvard          1               7.58
-
-
-FinTech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             26              36.87
-Stanford        69              27.88
-Berkeley        21              22.02
-Harvard         56              21.08
-
-
-FoodTech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          7              51.74
-Stanford        12              48.65
-Berkeley         4              21.86
-MIT              3              12.67
-
-
-Gaming - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         3              84.67
-Harvard          5              38.52
-Stanford         5              11.54
-
-
-HR Tech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          7              38.40
-Stanford         7              24.58
-MIT              5              22.92
-Berkeley         7              13.65
-
-
-HealthTech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             32              37.04
-Harvard         50              30.28
-Stanford        57              26.52
-Berkeley        26              24.68
-
-
-Impact Investing - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         4              20.27
-MIT              9              13.21
-Stanford         4              12.38
-Harvard          7              10.79
-
-
-Industrials - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        34              28.03
-MIT             34              20.62
-Berkeley        17              20.36
-Harvard         28              18.64
-
-
-Infrastructure - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1              69.00
-
-
-InsurTech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         13              40.57
-MIT              7              28.53
-Berkeley         4              28.32
-Stanford        15              23.86
-
-
-Internet of Things - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             13              57.41
-Stanford        24              32.00
-Harvard         13              21.54
-Berkeley        11              12.68
-
-
-LOHAS & Wellness - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         24              32.36
-Berkeley        13              28.65
-Stanford        27              26.68
-MIT             20              14.32
-
-
-Legal Tech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          3              25.82
-MIT              1              23.00
-Berkeley         3              15.77
-Stanford         3              10.92
-
-
-Life Sciences - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         79              54.65
-Stanford        60              37.37
-Berkeley        51              37.14
-MIT             60              29.03
-
-
-Manufacturing - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        34              26.50
-Berkeley         7              24.43
-MIT             24              18.92
-Harvard         17              15.95
-
-
-Marketing Tech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             14              55.80
-Stanford        13              24.92
-Harvard         20              19.83
-Berkeley        13              16.35
-
-
-Micro-Mobility - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1             120.00
-
-
-Mobile - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley        48              24.53
-Harvard         88              22.68
-Stanford       108              22.18
-MIT             42              21.27
-
-
-Mobile Commerce - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        12              23.20
-MIT              2              18.00
-Harvard          5              16.60
-Berkeley         3              11.43
-
-
-Mobility Tech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        36              60.14
-Berkeley        22              56.13
-Harvard         21              44.17
-MIT             23              33.89
-
-
-Mortgage Tech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              79.60
-Stanford         5              51.76
-Berkeley         2              34.00
-
-
-Nanotechnology - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         4              22.93
-Harvard          2              14.04
-MIT              4               7.06
-Berkeley         2               3.81
-
-
-Oil & Gas - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              2              21.66
-Stanford         1              19.00
-Berkeley         2              12.79
-Harvard          1               7.65
-
-
-Oncology - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         35              68.06
-Stanford        25              39.76
-Berkeley        19              37.14
-MIT             26              29.93
-
-
-Pet Technology - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1              39.00
-Stanford         2              32.50
-Harvard          1              15.00
-
-
-Real Estate Technology - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        15              51.80
-Harvard         16              44.10
-MIT              3              26.22
-Berkeley         9              23.72
-
-
-Restaurant Technology - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         3              32.00
-Stanford         5              20.70
-Harvard          2              13.75
-MIT              5              12.45
-
-
-Ridesharing - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              2             125.50
-Harvard          3              88.67
-Berkeley         2              65.00
-Stanford         4              16.95
-
-
-Robotics and Drones - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        15              37.10
-MIT              8              21.56
-Harvard          8              20.85
-Berkeley         6              17.56
-
-
-SaaS - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             70              27.78
-Stanford       130              23.91
-Harvard        104              19.25
-Berkeley        82              19.03
-
-
-Space Technology - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2              23.92
-Harvard          5              18.30
-Stanford         3              13.48
-MIT              3              10.83
-
-
-Supply Chain Tech - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         9              44.17
-Harvard         15              43.51
-Stanford        27              42.77
-MIT              9              38.81
-
-
-TMT - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford       353              27.08
-MIT            185              24.29
-Berkeley       179              21.57
-Harvard        280              19.41
-
-
-Virtual Reality - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         7              23.77
-Harvard          2              16.00
-MIT              2              12.26
-
-
-Wearables & Quantified Self - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         3              37.67
-Stanford         8              28.59
-Harvard          9              14.49
-MIT              6               8.97
-
-
-eSports - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1              46.00
-Harvard          1              15.10
-
-
-nan - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        21              16.09
-MIT             11              13.11
-Berkeley        13              12.43
-Harvard         20              12.29
-
-
-----------------------------------------------------------------------------------------------------
-Series C
-----------------------------------------------------------------------------------------------------
-
-3D Printing - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              3              35.00
-Stanford         1              33.00
-
-
-AdTech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              6             130.67
-Harvard          4              64.25
-Stanford         7              32.42
-Berkeley         1              15.00
-
-
-Advanced Manufacturing - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         5              61.20
-MIT              5              24.68
-Harvard          3              15.28
-
-
-AgTech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         1             175.00
-Berkeley         4              49.68
-MIT              1              15.16
-
-
-Artificial Intelligence & Machine Learning - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             27              68.40
-Stanford        39              58.80
-Berkeley        26              47.96
-Harvard         24              37.07
-
-
-AudioTech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              22.00
-Stanford         1               6.90
-
-
-Augmented Reality - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2             172.50
-MIT              2              40.00
-Harvard          1               7.50
-
-
-Autonomous cars - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         1             108.00
-Berkeley         3              33.33
-Harvard          1              19.96
-
-
-B2B Payments - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         3             158.33
-MIT              2              40.14
-Harvard          3              38.50
-
-
-Beauty - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          2               7.50
-Berkeley         1               4.81
-
-
-Big Data - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             22              54.65
-Stanford        26              49.03
-Harvard         24              38.47
-Berkeley        21              29.41
-
-
-Cannabis - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          3              34.23
-
-
-CleanTech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        15              78.46
-Berkeley         8              40.72
-Harvard          5              27.17
-MIT             24              22.27
-
-
-CloudTech & DevOps - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              2              57.00
-Berkeley         6              44.03
-Stanford         5              32.55
-Harvard          3              22.87
-
-
-Construction Technology - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1              64.08
-Stanford         2              31.75
-
-
-Cryptocurrency/Blockchain - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         2             151.50
-Harvard          1               8.98
-MIT              1               4.50
-
-
-Cybersecurity - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          8              44.55
-Stanford        11              34.82
-MIT              5              29.07
-Berkeley        10              25.11
-
-
-Digital Health - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         13              45.73
-Stanford        13              44.95
-MIT              6              37.36
-Berkeley         3              35.33
+Stanford        61              18.08
+Berkeley        31              11.16
+Harvard         70               9.66
+MIT             31               8.32
 
 
 E-Commerce - Rank = 3
 
 college      count    averageDealSize
 ---------  -------  -----------------
-MIT              2             137.41
-Stanford        14              80.25
-Berkeley         9              66.56
-Harvard         27              30.46
-
-
-EdTech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              5             138.60
-Stanford        10              39.42
-Harvard         10              30.30
-Berkeley         2              21.00
-
-
-FinTech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             10              89.06
-Berkeley         9              82.80
-Stanford        34              78.06
-Harvard         30              46.27
-
-
-FoodTech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          2             155.86
-Stanford         3             122.33
-Berkeley         3              67.64
-MIT              2              38.97
-
-
-Gaming - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2             311.00
-Harvard          2              22.20
-Stanford         1              20.00
-
-
-HR Tech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         2              96.54
-Harvard          3              29.42
-Berkeley         2              27.60
-MIT              1              22.25
-
-
-HealthTech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             11              80.95
-Stanford        27              48.58
-Harvard         22              32.71
-Berkeley         8              28.56
-
-
-Impact Investing - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         2              38.50
-Berkeley         2              33.40
-MIT              3              26.93
-Harvard          1              25.00
-
-
-Industrials - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        17              53.37
-Berkeley         6              29.26
-MIT             19              25.61
-Harvard         17              20.16
-
-
-InsurTech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         5              69.33
-Harvard          7              39.72
-MIT              2              35.00
-
-
-Internet of Things - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             10              79.64
-Stanford         9              55.32
-Berkeley         6              32.43
-Harvard          4              27.64
-
-
-LOHAS & Wellness - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         6              49.52
-Stanford        13              35.94
-Harvard         12              34.50
-MIT              9              30.56
-
-
-Legal Tech - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1              78.00
-MIT              1              48.49
-Harvard          2              48.28
-Stanford         1              18.57
-
-
-Life Sciences - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             28              61.16
-Stanford        27              61.06
-Berkeley        21              56.52
-Harvard         32              44.16
-
-
-Manufacturing - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        23             107.77
-Harvard          6              35.28
-Berkeley         5              30.42
-MIT             15              22.08
-
-
-Marketing Tech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              9              95.45
-Stanford        13              34.57
-Harvard         16              29.38
-Berkeley        11              27.12
-
-
-Micro-Mobility - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1             335.10
-
-
-Mobile - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley        20              83.24
-Stanford        50              55.42
-MIT             21              42.04
-Harvard         39              39.42
-
-
-Mobile Commerce - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         4              54.60
-Harvard          2              54.00
-MIT              2              43.68
-Berkeley         1              16.06
-
-
-Mobility Tech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        20              99.79
-Berkeley        14              73.54
-Harvard         10              62.93
-MIT             13              41.15
-
-
-Mortgage Tech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              79.99
-Stanford         4              58.20
-
-
-Nanotechnology - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         4              32.28
-MIT              3               4.64
-
-
-Oil & Gas - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1              25.00
-
-
-Oncology - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         15              59.61
-MIT              9              55.71
-Berkeley         7              45.58
-Stanford         9              45.58
-
-
-Real Estate Technology - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         12             110.73
-Stanford         7              60.01
-MIT              1              45.65
-Berkeley         4              39.04
-
-
-Restaurant Technology - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2              88.50
-Stanford         2              67.50
-MIT              4              44.73
-Harvard          1              35.00
-
-
-Ridesharing - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2             217.55
-Stanford         4              91.00
-Harvard          1              65.00
-
-
-Robotics and Drones - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         6              76.32
-MIT              2              56.62
-Stanford         4              39.20
-Harvard          4              32.23
-
-
-SaaS - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             41              45.28
-Stanford        58              36.79
-Harvard         65              30.84
-Berkeley        45              29.88
-
-
-Space Technology - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          2              52.75
-MIT              1              35.50
-Stanford         1               9.00
-
-
-Supply Chain Tech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              4              98.80
-Berkeley         3              81.43
-Harvard          8              76.94
-Stanford        12              67.16
-
-
-TMT - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley        89              46.28
-Stanford       173              45.41
-MIT             97              39.52
-Harvard        148              33.44
-
-
-Virtual Reality - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         2              54.99
-MIT              1              10.00
-
-
-Wearables & Quantified Self - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2              52.77
-Stanford         3              46.84
-Harvard          5              46.31
-MIT              1              18.15
-
-
-eSports - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              16.40
-
-
-nan - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         8              26.10
-Harvard         11              25.26
-Stanford         9              21.00
-MIT              7              18.57
-
-
-----------------------------------------------------------------------------------------------------
-Series D
-----------------------------------------------------------------------------------------------------
-
-3D Printing - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              3              70.67
-
-
-AdTech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              2             510.00
-Stanford         3              53.32
-Harvard          7              31.11
-Berkeley         2              11.00
-
-
-Advanced Manufacturing - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              3              82.33
-Harvard          1              55.00
-Stanford         2              50.67
-
-
-AgTech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         1             140.00
-MIT              1              23.00
-Berkeley         1              19.28
-
-
-Artificial Intelligence & Machine Learning - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             11             140.79
-Stanford        16              84.00
-Berkeley        10              77.30
-Harvard          9              32.84
-
-
-AudioTech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         1              12.00
-
-
-Autonomous cars - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              18.41
-
-
-B2B Payments - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          3              80.17
-MIT              2              80.00
-
-
-Beauty - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1               5.00
-
-
-Big Data - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              9             155.87
-Stanford         9              44.02
-Berkeley        12              43.94
-Harvard          7              35.81
-
-
-CleanTech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         7              59.14
-Berkeley         7              50.82
-MIT             13              40.62
-
-
-CloudTech & DevOps - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              75.00
-Berkeley         6              50.87
-Stanford         3              42.33
-MIT              1              35.00
-
-
-Construction Technology - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1              53.00
-Stanford         1              48.00
-
-
-Cybersecurity - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         7              57.86
-MIT              3              56.67
-Berkeley         5              44.95
-Harvard          3              44.67
-
-
-Digital Health - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              3             106.60
-Harvard          5              51.48
-Berkeley         1              50.00
-Stanford         4              37.60
-
-
-E-Commerce - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard         15              71.85
-Stanford         5              70.39
-Berkeley         5              56.00
-MIT              1               0.00
-
-
-EdTech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              3             379.17
-Stanford         4              75.12
-Harvard          3              61.55
-
-
-FinTech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              4             315.00
-Stanford        16             100.23
-Harvard         17              61.96
-Berkeley         3              51.53
-
-
-FoodTech - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1             535.00
-Stanford         2             337.50
-MIT              1             100.00
-Harvard          1              15.00
-
-
-Gaming - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1             330.02
-Harvard          5              17.78
-
-
-HR Tech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         2             109.34
-Harvard          1              41.00
-MIT              1              41.00
-Berkeley         1              20.02
-
-
-HealthTech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              5             224.16
-Stanford        11              58.65
-Berkeley         1              50.00
-Harvard          8              44.66
-
-
-Impact Investing - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2              80.00
-MIT              3              66.00
-Stanford         2              43.49
-Harvard          1              26.98
-
-
-Industrials - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        11             149.84
-Berkeley         3              62.13
-MIT              9              51.11
-Harvard          4              31.60
-
-
-InsurTech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         4              99.89
-Harvard          3              66.87
-MIT              1              60.00
-
-
-Internet of Things - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              4             279.52
-Stanford         5             195.20
-Berkeley         4              26.93
-
-
-LOHAS & Wellness - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         7              55.33
-Berkeley         4              44.05
-MIT              3              39.43
-Harvard          4              18.87
-
-
-Legal Tech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              20.00
-Stanford         1              20.00
-
-
-Life Sciences - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         4             104.83
-Harvard          6              87.80
-Stanford        15              80.75
-MIT             19              74.18
-
-
-Manufacturing - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        11             101.98
-Berkeley         4              63.88
-MIT              8              35.32
-Harvard          1              17.62
-
-
-Marketing Tech - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              3             356.67
-Stanford         6              67.97
-Harvard          6              40.45
-Berkeley         7              31.59
-
-
-Micro-Mobility - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1             310.00
-
-
-Mobile - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley        10             161.71
-Stanford        26             125.93
-MIT              9              86.51
-Harvard         18              63.25
-
-
-Mobile Commerce - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              1             150.00
-Harvard          2              97.50
-Stanford         2              46.05
-Berkeley         1              12.10
-
-
-Mobility Tech - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         7             307.64
-Stanford        10             179.63
-Harvard          7             118.34
-MIT              7              88.36
-
-
-Mortgage Tech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         2             107.50
-
-
-Nanotechnology - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         1              21.00
-Harvard          1              17.62
-
-
-Oil & Gas - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1              20.00
-
-
-Oncology - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          5             104.35
-Stanford         6              59.38
-MIT              8              57.25
-Berkeley         2              52.50
-
-
-Real Estate Technology - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          4             153.75
-Stanford         5             134.60
-Berkeley         2              75.00
-MIT              1              60.00
-
-
-Restaurant Technology - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2             293.75
-Stanford         2             274.00
-MIT              2             107.50
-Harvard          1              15.00
-
-
-Ridesharing - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         2             255.00
-Harvard          1             250.00
-Stanford         3             183.33
-
-
-Robotics and Drones - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1             190.00
-Stanford         3              81.26
-MIT              1              72.00
-Berkeley         1              53.00
-
-
-SaaS - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT             17             106.98
-Berkeley        27              79.33
-Stanford        31              56.35
-Harvard         33              44.13
-
-
-Space Technology - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              40.00
-
-
-Supply Chain Tech - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         4             387.16
-MIT              1             250.00
-Stanford         5             219.01
-Harvard          3              86.67
-
-
-TMT - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford        84              81.25
-MIT             48              68.57
-Berkeley        46              62.47
-Harvard         68              54.96
-
-
-Virtual Reality - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         1              48.00
-
-
-Wearables & Quantified Self - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1              51.25
-Stanford         1              51.25
-Harvard          3              34.96
-MIT              1              19.81
-
-
-eSports - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              23.20
-
-
-nan - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              5              61.08
-Harvard          5              28.00
-Berkeley         2              14.40
-Stanford         4              12.67
-
-
-----------------------------------------------------------------------------------------------------
-Series E
-----------------------------------------------------------------------------------------------------
-
-3D Printing - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              1             160.00
-
-
-AdTech - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              1             100.00
-Berkeley         1              23.00
-Harvard          1              13.00
-
-
-Advanced Manufacturing - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              2             130.00
-Stanford         2              84.85
-Harvard          1              75.00
-Berkeley         1               8.00
-
-
-AgTech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              1              20.39
-
-
-Artificial Intelligence & Machine Learning - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         8             106.13
-Berkeley         6              92.08
-Harvard          3              72.68
-MIT              5              66.70
-
-
-AudioTech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         1              16.64
-
-
-B2B Payments - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              3             166.00
-Harvard          2             141.50
-Stanford         1              46.00
-
-
-Big Data - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         6              98.09
-Harvard          3              74.35
-Stanford         6              64.30
-MIT              6              54.41
-
-
-Cannabis - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              14.00
-
-
-CleanTech - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         4              67.18
-MIT              6              64.20
-Berkeley         3              39.62
-
-
-CloudTech & DevOps - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              1              50.00
-Berkeley         2              35.00
-Stanford         1              21.10
-
-
-Cybersecurity - Rank = 3
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              1             165.00
-Stanford         3              71.67
-Berkeley         4              61.50
-Harvard          1              23.50
-
-
-Digital Health - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              1              40.00
-Harvard          2              30.05
-Stanford         1              20.10
-
-
-E-Commerce - Rank = 2
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         3              94.14
-Berkeley         4              84.38
-Harvard          7              46.58
+Stanford       112              13.00
+Harvard        130              12.07
+Berkeley        41              10.68
+MIT             40               8.48
 
 
 EdTech - Rank = 3
 
 college      count    averageDealSize
 ---------  -------  -----------------
-MIT              1             250.00
-Stanford         3              38.25
-Berkeley         1               2.59
+MIT             20              36.13
+Stanford        53               5.97
+Berkeley        19               5.72
+Harvard         42               4.86
+
+
+FemTech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        10               6.93
+Harvard          5               6.00
+Berkeley         4               3.95
+MIT              5               2.98
 
 
 FinTech - Rank = 4
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford        15             178.54
-MIT              3             166.00
-Harvard         10             110.51
-Berkeley         2              17.35
+Stanford       187              15.28
+Harvard        212              14.92
+MIT            117              14.54
+Berkeley        83              14.30
 
 
-FoodTech - Rank = 2
+FoodTech - Rank = 4
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford         1             250.00
-Berkeley         2             135.00
-Harvard          1              80.00
+Stanford        37              19.83
+Harvard         30              15.98
+MIT             14              11.12
+Berkeley        20               9.12
 
 
 Gaming - Rank = 1
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Berkeley         1              25.00
-Stanford         1              25.00
+Berkeley        11              12.98
+Stanford        20               7.68
+MIT              7               7.19
+Harvard         12               7.08
 
 
-HR Tech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1              35.00
-MIT              1              35.00
-
-
-HealthTech - Rank = NA
+HR Tech - Rank = 3
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford         5             118.02
-MIT              5              30.20
-Harvard          2              30.05
+MIT             15              12.66
+Stanford        37               9.83
+Berkeley        28               7.09
+Harvard         31               5.31
 
 
-Impact Investing - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-MIT              1              88.00
-
-
-Industrials - Rank = 3
+HealthTech - Rank = 4
 
 college      count    averageDealSize
 ---------  -------  -----------------
-MIT              3             108.26
-Stanford         8             105.51
-Berkeley         1              71.00
-Harvard          3              46.68
+Harvard        141              20.30
+MIT             90              19.42
+Stanford       127              14.97
+Berkeley        65              10.26
 
 
-InsurTech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         1             210.00
-
-
-Internet of Things - Rank = 3
+Impact Investing - Rank = 1
 
 college      count    averageDealSize
 ---------  -------  -----------------
-MIT              2              53.00
-Stanford         4              37.51
-Berkeley         3              14.03
+Berkeley         9              13.30
+Harvard         16              12.00
+MIT             12               6.51
+Stanford         8               5.78
+
+
+Industrials - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        98              15.50
+MIT             54              12.98
+Harvard         51              10.04
+Berkeley        38               9.83
+
+
+Infrastructure - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         3              33.33
+Harvard          4               4.86
+
+
+InsurTech - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         41              35.40
+Berkeley        16              18.86
+Stanford        37              16.99
+MIT             26              12.52
+
+
+Internet of Things - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             45              29.44
+Stanford        59              18.28
+Harvard         44               9.62
+Berkeley        38               7.13
 
 
 LOHAS & Wellness - Rank = 3
 
 college      count    averageDealSize
 ---------  -------  -----------------
-MIT              1             218.78
-Stanford         4              64.74
-Berkeley         2              61.44
-Harvard          1              12.00
+Harvard         81              14.57
+Stanford        73              11.39
+Berkeley        45              10.59
+MIT             35              10.54
 
 
-Life Sciences - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Stanford         8             112.50
-MIT              6              95.50
-Harvard          5              29.95
-
-
-Manufacturing - Rank = 2
+Legal Tech - Rank = 2
 
 college      count    averageDealSize
 ---------  -------  -----------------
-MIT              4              72.77
-Berkeley         3              40.96
-Stanford         7              32.38
-Harvard          1              31.53
+Harvard         12              12.19
+Berkeley         8               7.98
+MIT              7               6.75
+Stanford         6               6.29
+
+
+Life Sciences - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard        237              29.08
+Stanford       146              25.33
+Berkeley       125              22.58
+MIT            166              19.78
+
+
+Manufacturing - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        45              18.54
+MIT             42              14.38
+Harvard         30              12.52
+Berkeley        17               7.61
 
 
 Marketing Tech - Rank = 4
 
 college      count    averageDealSize
 ---------  -------  -----------------
-MIT              2              90.00
-Harvard          1              80.00
-Stanford         1              73.82
-Berkeley         4              47.14
+MIT             32              27.24
+Stanford        49               8.98
+Harvard         50               8.75
+Berkeley        21               7.92
+
+
+Micro-Mobility - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        11              17.48
+Stanford         3              12.17
+MIT              2               2.46
+Harvard          4               1.23
 
 
 Mobile - Rank = 4
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford        14             206.65
-Harvard         10             131.37
-MIT              3             112.02
-Berkeley         6              78.70
+Stanford       259              13.04
+Harvard        208              11.23
+MIT            113               9.71
+Berkeley       152               9.49
 
 
-Mobile Commerce - Rank = 4
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1             245.00
-MIT              1             245.00
-Stanford         4              47.36
-Berkeley         2              17.35
-
-
-Mobility Tech - Rank = 4
+Mobile Commerce - Rank = 3
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford         6             166.41
-Harvard          4             119.00
-MIT              3             114.59
-Berkeley         3              98.33
+Harvard          7              17.81
+Stanford        18              11.83
+Berkeley         1               7.00
+MIT              6               6.20
 
 
-Mortgage Tech - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1             213.03
-Stanford         2             171.51
-
-
-Nanotechnology - Rank = 1
+Mobility Tech - Rank = 2
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Berkeley         1              38.37
-Harvard          2              34.95
-Stanford         1               5.61
+Stanford        97              31.38
+Berkeley        51              27.81
+Harvard         53              21.33
+MIT             46              21.13
 
 
-Oil & Gas - Rank = 1
-
-college      count    averageDealSize
----------  -------  -----------------
-Berkeley         1               0.00
-
-
-Oncology - Rank = NA
+Mortgage Tech - Rank = 1
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford         2              39.05
-Harvard          3              24.28
+Berkeley         4              63.75
+Stanford         7              35.95
+Harvard          5               5.14
+MIT              3               1.78
 
 
-Real Estate Technology - Rank = NA
+Nanotechnology - Rank = 4
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Harvard          2             807.46
-Stanford         1             725.00
+Stanford         9              12.16
+Harvard          6               5.83
+MIT             12               4.94
+Berkeley         4               4.04
+
+
+Oil & Gas - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              7              21.88
+Stanford        16              12.21
+Berkeley         6               2.78
+Harvard          4               2.77
+
+
+Oncology - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard        104              33.85
+Stanford        59              26.58
+Berkeley        40              25.03
+MIT             69              24.23
+
+
+Pet Technology - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         6              13.59
+Berkeley         5              12.06
+Harvard          4               8.35
+MIT              2               0.17
+
+
+Real Estate Technology - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        51              19.15
+Berkeley        32              17.34
+Harvard         63              17.05
+MIT             17               4.34
 
 
 Restaurant Technology - Rank = 1
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Berkeley         1             250.00
-MIT              1             250.00
-Stanford         1             250.00
-Harvard          1              80.00
+Berkeley        11              17.61
+Stanford         9              16.05
+MIT              7               8.71
+Harvard          5               8.05
 
 
-Ridesharing - Rank = NA
-
-college      count    averageDealSize
----------  -------  -----------------
-Harvard          1             350.00
-Stanford         2             180.00
-
-
-Robotics and Drones - Rank = NA
+Ridesharing - Rank = 3
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Stanford         1              36.02
+MIT              9              38.95
+Harvard         10              33.41
+Berkeley         4              33.00
+Stanford        12               8.08
+
+
+Robotics and Drones - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        45              19.69
+Harvard         29              12.87
+MIT             38              10.81
+Berkeley        22               8.83
 
 
 SaaS - Rank = 3
 
 college      count    averageDealSize
 ---------  -------  -----------------
-MIT              9              79.20
-Stanford        15              73.85
-Berkeley        13              72.60
-Harvard         14              53.78
+MIT            190              12.27
+Stanford       331              12.25
+Berkeley       163              11.46
+Harvard        235              10.40
+
+
+Space Technology - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         10              13.04
+Berkeley        12              10.92
+Stanford        16               8.84
+MIT              5               8.08
 
 
 Supply Chain Tech - Rank = 1
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Berkeley         2             127.53
-Stanford         3             121.90
-Harvard          2              77.50
+Berkeley        11              34.68
+Stanford        39              27.08
+Harvard         34              22.09
+MIT             22              18.51
 
 
 TMT - Rank = 4
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Harvard         28             106.27
-MIT             23              78.47
-Stanford        46              77.82
-Berkeley        25              55.18
+Stanford       893              14.36
+MIT            482              12.54
+Harvard        739              10.84
+Berkeley       456              10.69
+
+
+Virtual Reality - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         10              10.91
+MIT             18               8.58
+Stanford        23               8.18
+Berkeley        11               5.04
+
+
+Wearables & Quantified Self - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        22              12.20
+Berkeley        22               9.34
+Harvard         18               7.65
+MIT             16               4.66
+
+
+eSports - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         3              25.75
+MIT              7               8.66
+Stanford         7               8.66
+Harvard          5               5.68
+
+
+nan - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             47               9.67
+Stanford        96               8.14
+Harvard         88               6.90
+Berkeley        54               6.51
+
+
+----------------------------------------------------------------------------------------------------
+Later Stage VC
+----------------------------------------------------------------------------------------------------
+
+3D Printing - Rank = NA
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             12              46.23
+Stanford         3              16.83
+Harvard          2               6.84
+
+
+AdTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             15             178.57
+Stanford        16              22.54
+Harvard         21              14.26
+Berkeley        10               9.71
+
+
+Advanced Manufacturing - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        14              94.33
+MIT             17              82.90
+Harvard         11              20.21
+Berkeley         7               4.50
+
+
+AgTech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         9              40.59
+Harvard          2              35.24
+Berkeley        16              24.97
+MIT              8               9.72
+
+
+Artificial Intelligence & Machine Learning - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT            102              54.44
+Stanford       161              45.50
+Berkeley        91              38.13
+Harvard         80              25.83
+
+
+AudioTech - Rank = NA
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        13              23.09
+Harvard          3              19.50
+MIT              5               7.40
+
+
+Augmented Reality - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         4             149.00
+Stanford         2              34.25
+MIT             15              10.36
+Harvard          1               7.50
+
+
+Autonomous cars - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        12              42.62
+Harvard          1              31.44
+Berkeley         5              19.96
+MIT              1               3.00
+
+
+B2B Payments - Rank = NA
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             13             198.15
+Harvard         12             149.13
+Stanford        10              72.10
+
+
+Beauty - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         2              42.88
+Harvard          6              33.05
+Berkeley         4              23.93
+
+
+Big Data - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             79              48.85
+Stanford       107              31.58
+Berkeley        88              29.04
+Harvard         76              26.67
+
+
+Cannabis - Rank = NA
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          4              29.18
+MIT              2              12.50
+
+
+CleanTech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         35              58.67
+Stanford        74              40.34
+Berkeley        47              31.71
+MIT             93              20.38
+
+
+CloudTech & DevOps - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        28              30.52
+Harvard          8              19.01
+MIT             14              18.41
+Stanford        24              18.40
+
+
+Construction Technology - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         6              30.63
+Berkeley         6              23.04
+MIT              1               4.32
+
+
+Cryptocurrency/Blockchain - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        11              31.25
+Berkeley         2              23.50
+MIT              3              12.81
+Harvard          3               4.33
+
+
+Cybersecurity - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        24              77.09
+Stanford        27              56.67
+Harvard         23              45.27
+MIT             18              30.48
+
+
+Digital Health - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        43              27.59
+Berkeley        12              26.83
+MIT             27              26.17
+Harvard         50              23.53
+
+
+E-Commerce - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         86             123.94
+Berkeley        31              53.70
+MIT              7              53.68
+Stanford        58              37.73
+
+
+EdTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             18             152.56
+Stanford        30              31.05
+Harvard         43              15.80
+Berkeley        19              11.97
+
+
+FemTech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         4              26.20
+Harvard          1               7.58
+Berkeley         1               3.10
+
+
+FinTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       132             104.59
+MIT             58              96.33
+Harvard        113              88.40
+Berkeley        33              39.16
+
+
+FoodTech - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         13             204.10
+Berkeley        17             155.34
+Stanford        23             128.62
+MIT             12              39.89
+
+
+Gaming - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        10             112.48
+Stanford         8              44.06
+Harvard         18              22.62
+MIT              1              20.00
+
+
+HR Tech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        11              39.90
+Harvard         17              26.49
+MIT              4              25.56
+Berkeley        14              14.30
+
+
+HealthTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             75              48.06
+Stanford        97              32.86
+Harvard        114              25.18
+Berkeley        51              16.61
+
+
+Impact Investing - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         9              54.87
+MIT             18              41.54
+Stanford        12              17.76
+Harvard         13               7.50
+
+
+Industrials - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        79              56.31
+Harvard         55              30.86
+MIT             76              27.05
+Berkeley        50              23.94
+
+
+Infrastructure - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              4               6.66
+Harvard          1               6.57
+Berkeley         1               1.00
+Stanford         1               1.00
+
+
+InsurTech - Rank = NA
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         16              78.11
+Stanford        18              57.16
+MIT              8              26.04
+
+
+Internet of Things - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             32             111.94
+Stanford        45              65.68
+Harvard         19              16.66
+Berkeley        35              13.74
+
+
+LOHAS & Wellness - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         43              61.70
+Stanford        65              29.96
+Berkeley        29              27.89
+MIT             40              23.34
+
+
+Legal Tech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              1              48.49
+Harvard         10              36.46
+Stanford         7              30.04
+Berkeley         5              25.93
+
+
+Life Sciences - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       112              42.79
+MIT            134              36.44
+Harvard        129              26.89
+Berkeley       102              25.54
+
+
+Manufacturing - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        80              83.15
+Berkeley        24              34.03
+MIT             43              25.25
+Harvard         52              24.90
+
+
+Marketing Tech - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             27             110.79
+Berkeley        26              27.36
+Stanford        39              25.10
+Harvard         33              22.40
+
+
+Micro-Mobility - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         4             203.78
+MIT              2               4.72
+Harvard          4               2.44
+
+
+Mobile - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard        176              99.43
+Stanford       189              76.36
+Berkeley        80              75.28
+MIT             99              39.00
+
+
+Mobile Commerce - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              8             182.90
+Harvard         11             144.18
+Stanford        24              59.15
+Berkeley         6              19.74
+
+
+Mobility Tech - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         48             286.18
+Berkeley        43             130.82
+Stanford        66             125.81
+MIT             41              64.08
+
+
+Mortgage Tech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          6             515.34
+Stanford        18             214.82
+Berkeley         3              28.77
+
+
+Nanotechnology - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         9              22.41
+Harvard         12              14.15
+Berkeley         7               7.79
+MIT              8               2.97
+
+
+Oil & Gas - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         6              30.19
+Berkeley         5               6.70
+MIT              3               1.72
+
+
+Oncology - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         56              35.38
+Stanford        44              31.65
+MIT             48              29.80
+Berkeley        36              21.54
+
+
+Pet Technology - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          2               5.75
+MIT              1               0.22
+Berkeley         2               0.00
+
+
+Real Estate Technology - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         28             139.91
+Stanford        26              94.29
+Berkeley        10              39.93
+MIT             11              20.80
+
+
+Restaurant Technology - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         9             281.61
+Stanford        10             245.87
+Harvard         10             233.15
+MIT             15              83.89
+
+
+Ridesharing - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         10             949.72
+Berkeley         7             167.03
+Stanford        10             132.81
+MIT              3               3.70
+
+
+Robotics and Drones - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          7              48.18
+Berkeley        12              45.28
+Stanford        19              33.69
+MIT             11              25.48
+
+
+SaaS - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT            153              42.24
+Berkeley       192              36.98
+Stanford       232              31.23
+Harvard        221              28.68
+
+
+Space Technology - Rank = NA
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          6              30.89
+MIT              3              25.50
+Stanford         1               9.00
+
+
+Supply Chain Tech - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        19             195.06
+Harvard         26             127.30
+Stanford        40             105.22
+MIT             11              73.52
+
+
+TMT - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       639              41.05
+Berkeley       396              34.84
+Harvard        565              34.79
+MIT            425              32.98
+
+
+Virtual Reality - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         8              33.30
+MIT              4               5.80
+Berkeley         2               4.05
 
 
 Wearables & Quantified Self - Rank = 1
 
 college      count    averageDealSize
 ---------  -------  -----------------
-Berkeley         1              81.58
-Stanford         1              81.58
-Harvard          1              40.00
-MIT              1              40.00
+Berkeley         9              33.33
+Stanford        16              28.74
+Harvard         20              25.23
+MIT             15              14.02
+
+
+eSports - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          6              13.62
+Berkeley         1               5.90
 
 
 nan - Rank = 2
 
 college      count    averageDealSize
 ---------  -------  -----------------
-MIT              1             117.97
-Berkeley         1              60.00
-Stanford         1              60.00
-Harvard          4              50.64
+Harvard         81              21.92
+Berkeley        35              19.39
+MIT             44              16.57
+Stanford        48              15.27
+
+
+----------------------------------------------------------------------------------------------------
+Seed Round
+----------------------------------------------------------------------------------------------------
+
+3D Printing - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         2               3.90
+Harvard          2               3.44
+MIT              6               2.91
+Berkeley         3               1.88
+
+
+AdTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         8               4.90
+Harvard         14               3.50
+MIT              2               1.42
+Berkeley         6               1.22
+
+
+Advanced Manufacturing - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          2               3.44
+Stanford        16               2.83
+Berkeley         4               2.12
+MIT             11               1.67
+
+
+AgTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        18               2.42
+Harvard          7               2.30
+MIT             10               2.05
+Berkeley         8               1.62
+
+
+Artificial Intelligence & Machine Learning - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       196               3.21
+Harvard        116               3.02
+MIT            138               2.81
+Berkeley       102               2.43
+
+
+AudioTech - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         2               2.80
+Stanford         3               1.38
+
+
+Augmented Reality - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        10               4.25
+Berkeley         3               3.21
+MIT              9               2.54
+Harvard          9               2.37
+
+
+Autonomous cars - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         3               6.09
+Stanford        12               6.00
+MIT             13               4.38
+Harvard          2               3.00
+
+
+B2B Payments - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          3               1.23
+Berkeley        10               0.88
+Stanford         4               0.57
+
+
+Beauty - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         6               3.72
+MIT              1               2.78
+Harvard          6               2.31
+Berkeley         5               1.10
+
+
+Big Data - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             72               3.04
+Stanford       125               2.96
+Harvard         67               2.94
+Berkeley        70               2.27
+
+
+Cannabis - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          7              15.85
+Stanford         6               4.15
+Berkeley         3               2.25
+MIT              2               1.50
+
+
+Car-Sharing - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         1              16.00
+Harvard          1               1.50
+
+
+CleanTech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        25               2.61
+Harvard         19               2.58
+Berkeley        15               1.73
+MIT             25               1.55
+
+
+CloudTech & DevOps - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        15               3.83
+Harvard         14               2.62
+Stanford        17               2.33
+MIT             15               2.02
+
+
+Construction Technology - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          4               3.66
+MIT             12               2.40
+Berkeley         3               1.78
+Stanford         7               1.51
+
+
+Cryptocurrency/Blockchain - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             15               4.84
+Stanford        30               3.85
+Harvard         25               2.60
+Berkeley        16               2.55
+
+
+Cybersecurity - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        23               5.04
+Harvard         13               2.95
+Berkeley        13               2.19
+MIT             10               1.20
+
+
+Digital Health - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        21               3.01
+Harvard         30               2.34
+MIT             16               2.33
+Stanford        29               2.24
+
+
+E-Commerce - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         44               3.38
+Stanford        60               2.66
+MIT             19               2.55
+Berkeley        31               2.14
+
+
+EdTech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         43               2.80
+Stanford        36               1.95
+Berkeley        18               1.80
+MIT             16               1.74
+
+
+Ephemeral Content - Rank = NA
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          1               2.00
+Stanford         2               1.25
+
+
+FemTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         4               3.97
+Harvard          3               2.41
+MIT              5               2.21
+Berkeley         5               2.02
+
+
+FinTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       112               3.96
+MIT             61               3.25
+Harvard        106               2.80
+Berkeley        69               2.35
+
+
+FoodTech - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          7               3.13
+Berkeley         8               2.64
+MIT             10               2.49
+Stanford        19               2.47
+
+
+Gaming - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              4               3.38
+Berkeley         6               2.34
+Stanford        10               1.85
+Harvard         10               1.82
+
+
+HR Tech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        28               2.52
+Harvard         27               2.09
+Berkeley        13               2.05
+MIT             14               1.90
+
+
+HealthTech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             45               2.56
+Harvard         64               2.56
+Stanford        50               2.49
+Berkeley        40               2.11
+
+
+Impact Investing - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              2              12.16
+Stanford         2               3.80
+Berkeley         5               2.24
+Harvard          2               2.00
+
+
+Industrials - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         30               3.55
+MIT             30               2.71
+Stanford        57               2.43
+Berkeley        21               2.07
+
+
+Infrastructure - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         1               3.95
+Harvard          1               3.95
+
+
+InsurTech - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        14               4.30
+Berkeley         9               3.63
+MIT             16               3.39
+Harvard         20               2.85
+
+
+Internet of Things - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        35               2.78
+Harvard         15               2.62
+MIT             11               2.41
+Berkeley        23               2.29
+
+
+LOHAS & Wellness - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         41               6.18
+MIT             33               2.22
+Stanford        41               2.15
+Berkeley        27               1.56
+
+
+Legal Tech - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              2               3.00
+Harvard          6               2.72
+Berkeley         6               1.97
+Stanford         2               1.16
+
+
+Life Sciences - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             56               3.90
+Stanford        59               3.65
+Harvard         64               3.60
+Berkeley        57               2.22
+
+
+Manufacturing - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        12               5.53
+MIT             24               3.01
+Harvard         12               2.30
+Berkeley        13               1.85
+
+
+Marketing Tech - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        23               2.39
+Berkeley        10               1.98
+MIT             27               1.89
+Harvard         35               1.66
+
+
+Micro-Mobility - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         2              15.50
+Berkeley         3              11.62
+MIT              1               3.85
+Harvard          3               1.37
+
+
+Mobile - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard        106               3.19
+Berkeley        76               2.57
+MIT             70               2.52
+Stanford       164               2.50
+
+
+Mobile Commerce - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              6               2.97
+Stanford         7               2.65
+Berkeley         2               2.45
+Harvard          4               1.18
+
+
+Mobility Tech - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        18               5.58
+Stanford        35               4.87
+MIT             29               3.43
+Harvard         14               1.94
+
+
+Mortgage Tech - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         2               3.00
+Stanford         4               2.20
+Harvard          2               0.78
+
+
+Nanotechnology - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              9               2.12
+Stanford         3               1.61
+Berkeley         4               1.27
+Harvard          4               0.90
+
+
+Oil & Gas - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              2               2.55
+Stanford         3               2.37
+Berkeley         4               2.22
+Harvard          3               1.37
+
+
+Oncology - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         20               5.38
+Stanford        22               4.23
+MIT             19               3.94
+Berkeley        10               1.80
+
+
+Pet Technology - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          2               4.83
+Berkeley         2               2.50
+Stanford         5               1.20
+
+
+Real Estate Technology - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         26               4.53
+Stanford        27               2.76
+MIT             14               2.41
+Berkeley        14               2.33
+
+
+Restaurant Technology - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         5               3.40
+Harvard          4               2.90
+Stanford        10               2.37
+
+
+Ridesharing - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         3               8.75
+Berkeley         2               2.15
+Harvard          8               1.38
+MIT              2               0.79
+
+
+Robotics and Drones - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        31               4.23
+Berkeley        11               3.14
+Harvard         15               2.69
+MIT             40               2.48
+
+
+SaaS - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       198               2.68
+MIT            110               2.41
+Berkeley       119               2.06
+Harvard        124               2.04
+
+
+Space Technology - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         2               2.48
+Berkeley         3               2.35
+Harvard          3               2.12
+MIT              4               2.03
+
+
+Supply Chain Tech - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          4               5.15
+Stanford        12               4.38
+MIT             17               3.19
+Berkeley         8               2.91
+
+
+TMT - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       467               2.46
+Harvard        367               2.37
+MIT            262               2.33
+Berkeley       239               2.13
+
+
+Virtual Reality - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          5               4.76
+Berkeley         4               3.77
+Stanford        13               1.54
+MIT              6               1.10
+
+
+Wearables & Quantified Self - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         5               3.88
+Stanford        10               2.80
+MIT             16               2.50
+Harvard          8               1.47
+
+
+eSports - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              1               2.90
+Harvard          3               1.70
+Berkeley         2               1.43
+
+
+nan - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         52               2.32
+Stanford        48               2.24
+Berkeley        39               2.06
+MIT             23               1.95
