@@ -1,0 +1,349 @@
+----------------------------------------------------------------------------------------------------
+Series A
+----------------------------------------------------------------------------------------------------
+
+Business Products and Services (B2B) - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        57              10.70
+Berkeley        33              10.38
+MIT             40              10.13
+Harvard         38               9.84
+
+
+Consumer Products and Services (B2C) - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        36              17.47
+Harvard         65              12.14
+Stanford        79              12.00
+MIT             31              11.42
+
+
+Energy - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              6              25.65
+Stanford        11              15.75
+Harvard          6              13.83
+Berkeley         5               9.42
+
+
+Financial Services - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              6              21.30
+Stanford        21              11.97
+Harvard         20              10.58
+Berkeley        11               9.34
+
+
+Healthcare - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard        148              19.21
+MIT             96              18.96
+Berkeley        69              18.62
+Stanford       111              15.93
+
+
+Information Technology - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford       218              11.80
+Harvard        126              11.69
+MIT            126              11.44
+Berkeley       112               9.80
+
+
+Materials and Resources - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         9              23.57
+MIT              5              12.13
+Harvard          5               6.22
+Berkeley         5               6.07
+
+
+----------------------------------------------------------------------------------------------------
+Series B
+----------------------------------------------------------------------------------------------------
+
+Business Products and Services (B2B) - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        40              31.50
+MIT             27              28.82
+Berkeley        12              24.97
+Harvard         31              24.20
+
+
+Consumer Products and Services (B2C) - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley        20              49.51
+Stanford        44              49.06
+MIT             22              31.14
+Harvard         54              30.94
+
+
+Energy - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          2              20.00
+MIT              3              17.00
+Berkeley         2              16.40
+Stanford         3               8.69
+
+
+Financial Services - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              5              40.30
+Harvard         11              24.89
+Stanford        18              24.53
+Berkeley         4              17.26
+
+
+Healthcare - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard         84              56.36
+Berkeley        54              34.68
+Stanford        69              34.02
+MIT             55              27.65
+
+
+Information Technology - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             62              33.62
+Stanford       140              28.38
+Berkeley        73              26.90
+Harvard         82              23.16
+
+
+Materials and Resources - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         3              31.17
+Stanford         2              25.50
+Harvard          3              23.33
+MIT              7              19.04
+
+
+----------------------------------------------------------------------------------------------------
+Series C
+----------------------------------------------------------------------------------------------------
+
+Business Products and Services (B2B) - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        10              97.19
+Berkeley         6              77.07
+Harvard         17              60.03
+MIT              7              30.40
+
+
+Consumer Products and Services (B2C) - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        24             110.36
+Berkeley        13              59.87
+MIT              6              56.03
+Harvard         30              50.41
+
+
+Energy - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Harvard          2              55.25
+MIT              4              40.53
+Stanford         3              33.27
+Berkeley         1              30.00
+
+
+Financial Services - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              2             142.50
+Stanford         8              92.33
+Berkeley         3              68.27
+Harvard          8              41.95
+
+
+Healthcare - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             35              54.59
+Berkeley        26              53.96
+Stanford        39              51.63
+Harvard         42              49.24
+
+
+Information Technology - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             34              57.35
+Stanford        68              53.06
+Harvard         49              38.27
+Berkeley        35              37.56
+
+
+Materials and Resources - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         2              55.37
+Harvard          1              27.50
+MIT              1               0.50
+
+
+----------------------------------------------------------------------------------------------------
+Series D
+----------------------------------------------------------------------------------------------------
+
+Business Products and Services (B2B) - Rank = 1
+
+college      count    averageDealSize
+---------  -------  -----------------
+Berkeley         4             310.62
+Stanford         6             102.15
+Harvard          5              59.20
+MIT              5              41.32
+
+
+Consumer Products and Services (B2C) - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford        14             171.99
+Berkeley         8             140.64
+Harvard         17              93.98
+MIT              3              91.67
+
+
+Energy - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         4              37.50
+MIT              3              36.37
+Berkeley         1              21.83
+
+
+Financial Services - Rank = NA
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              1             100.00
+Stanford         4              58.64
+Harvard          3              44.86
+
+
+Healthcare - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             21              86.92
+Berkeley         8              71.60
+Stanford        22              65.34
+Harvard         15              63.33
+
+
+Information Technology - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             22             101.10
+Stanford        33              85.83
+Berkeley        22              59.21
+Harvard         22              43.12
+
+
+Materials and Resources - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              1             124.29
+Berkeley         2              71.78
+
+
+----------------------------------------------------------------------------------------------------
+Series E
+----------------------------------------------------------------------------------------------------
+
+Business Products and Services (B2B) - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         1              69.70
+Harvard          2              55.00
+MIT              1              35.00
+Berkeley         1              22.00
+
+
+Consumer Products and Services (B2C) - Rank = 2
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         8             171.54
+Berkeley         6             114.58
+Harvard          3              41.02
+
+
+Energy - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              2             125.39
+Stanford         3              83.55
+Berkeley         2              11.44
+
+
+Financial Services - Rank = NA
+
+college      count    averageDealSize
+---------  -------  -----------------
+Stanford         1             150.00
+Harvard          2              36.20
+
+
+Healthcare - Rank = 3
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT              5             118.39
+Stanford        10             100.17
+Berkeley         1              81.58
+Harvard          6              43.68
+
+
+Information Technology - Rank = 4
+
+college      count    averageDealSize
+---------  -------  -----------------
+MIT             14             113.43
+Stanford        27             107.00
+Harvard         11              90.63
+Berkeley        13              69.28
