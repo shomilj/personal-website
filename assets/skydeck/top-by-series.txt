@@ -1,0 +1,605 @@
+----------------------------------------------------------------------------------------------------
+Series A
+----------------------------------------------------------------------------------------------------
+
+Beauty - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Beauty            90.46              30.15        3       1
+Stanford   Beauty            88.75              29.58        3       2
+Harvard    Beauty           107.28              15.33        7       3
+MIT        Beauty            19.97               9.98        2       4
+
+
+Cannabis - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Cannabis          45.00              15.00        3       1
+MIT        Cannabis          22.88              11.44        2       2
+Harvard    Cannabis          19.83               6.61        3       3
+Stanford   Cannabis          24.30               6.08        4       4
+
+
+Digital Health - Rank = 1
+
+college    verticals         dealSize    averageDealSize    count    rank
+---------  --------------  ----------  -----------------  -------  ------
+Berkeley   Digital Health      194.31               9.25       21       1
+Stanford   Digital Health      422.24               9.18       46       2
+Harvard    Digital Health      383.32               7.67       50       3
+MIT        Digital Health      182.10               6.28       29       4
+
+
+E-Commerce - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   E-Commerce       290.53              10.76       27       1
+Harvard    E-Commerce       733.44              10.33       71       2
+MIT        E-Commerce       137.93               8.62       16       3
+Stanford   E-Commerce       565.35               8.57       66       4
+
+
+EdTech - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   EdTech           121.42               7.14       17       1
+Stanford   EdTech           238.42               6.44       37       2
+MIT        EdTech            88.80               6.34       14       3
+Harvard    EdTech           167.17               4.78       35       4
+
+
+FinTech - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   FinTech          694.72              15.44       45       1
+Stanford   FinTech         1188.96              11.77      101       2
+Harvard    FinTech         1001.50               9.72      103       3
+MIT        FinTech          480.42               8.90       54       4
+
+
+Gaming - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Gaming           116.67              12.96        9       1
+MIT        Gaming            24.00              12.00        2       2
+Harvard    Gaming           153.83              10.99       14       3
+Stanford   Gaming            69.44               6.94       10       4
+
+
+Industrials - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Industrials      314.58               8.74       36       1
+Stanford   Industrials      512.06               8.39       61       2
+MIT        Industrials      368.25               7.84       47       3
+Harvard    Industrials      259.48               7.63       34       4
+
+
+Legal Tech - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Legal Tech        59.97               9.99        6       1
+Harvard    Legal Tech        51.55               6.44        8       2
+Stanford   Legal Tech        33.43               5.57        6       3
+MIT        Legal Tech        14.19               4.73        3       4
+
+
+Mortgage Tech - Rank = 1
+
+college    verticals        dealSize    averageDealSize    count    rank
+---------  -------------  ----------  -----------------  -------  ------
+Berkeley   Mortgage Tech      260.00              86.67        3       1
+Stanford   Mortgage Tech      111.88              18.65        6       2
+Harvard    Mortgage Tech        6.30               3.15        2       3
+MIT        Mortgage Tech        2.35               2.35        1       4
+
+
+Real Estate Technology - Rank = 1
+
+college    verticals                 dealSize    averageDealSize    count    rank
+---------  ----------------------  ----------  -----------------  -------  ------
+Berkeley   Real Estate Technology      351.08              27.01       13       1
+Stanford   Real Estate Technology      280.90              11.70       24       2
+Harvard    Real Estate Technology      291.90               9.42       31       3
+MIT        Real Estate Technology       56.68               7.08        8       4
+
+
+Restaurant Technology - Rank = 1
+
+college    verticals                dealSize    averageDealSize    count    rank
+---------  ---------------------  ----------  -----------------  -------  ------
+Berkeley   Restaurant Technology      104.16              20.83        5       1
+Stanford   Restaurant Technology       80.70               8.97        9       2
+MIT        Restaurant Technology       20.39               4.08        5       3
+Harvard    Restaurant Technology       10.80               3.60        3       4
+
+
+Supply Chain Tech - Rank = 1
+
+college    verticals            dealSize    averageDealSize    count    rank
+---------  -----------------  ----------  -----------------  -------  ------
+Berkeley   Supply Chain Tech      159.50              17.72        9       1
+MIT        Supply Chain Tech      200.43              13.36       15       2
+Stanford   Supply Chain Tech      267.88              12.18       22       3
+Harvard    Supply Chain Tech      149.76               9.36       16       4
+
+
+eSports - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   eSports           35.90              17.95        2       1
+MIT        eSports           17.00              17.00        1       2
+Stanford   eSports           17.00              17.00        1       3
+Harvard    eSports           16.70               5.57        3       4
+
+
+----------------------------------------------------------------------------------------------------
+Series B
+----------------------------------------------------------------------------------------------------
+
+Cannabis - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Cannabis         138.00              69.00        2       1
+Stanford   Cannabis          19.80              19.80        1       2
+MIT        Cannabis          47.75              15.92        3       3
+Harvard    Cannabis          13.50               6.75        2       4
+
+
+Car-Sharing - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Car-Sharing      447.30             223.65        2       1
+Harvard    Car-Sharing      251.00             125.50        2       2
+MIT        Car-Sharing      251.00             125.50        2       3
+
+
+Construction Technology - Rank = 1
+
+college    verticals                  dealSize    averageDealSize    count    rank
+---------  -----------------------  ----------  -----------------  -------  ------
+Berkeley   Construction Technology       42.00              21.00        2       1
+MIT        Construction Technology       15.90              15.90        1       2
+Stanford   Construction Technology       54.58              13.64        4       3
+
+
+Gaming - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Gaming           254.00              84.67        3       1
+Harvard    Gaming           192.60              38.52        5       2
+Stanford   Gaming           117.70              19.62        6       3
+
+
+Impact Investing - Rank = 1
+
+college    verticals           dealSize    averageDealSize    count    rank
+---------  ----------------  ----------  -----------------  -------  ------
+Berkeley   Impact Investing       81.07              20.27        4       1
+MIT        Impact Investing      118.87              13.21        9       2
+Stanford   Impact Investing       49.50              12.38        4       3
+Harvard    Impact Investing       75.50              10.79        7       4
+
+
+Infrastructure - Rank = 1
+
+college    verticals         dealSize    averageDealSize    count    rank
+---------  --------------  ----------  -----------------  -------  ------
+Berkeley   Infrastructure       69.00              69.00        1       1
+
+
+Micro-Mobility - Rank = 1
+
+college    verticals         dealSize    averageDealSize    count    rank
+---------  --------------  ----------  -----------------  -------  ------
+Berkeley   Micro-Mobility      120.00             120.00        1       1
+
+
+Mobile - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Mobile          1187.63              24.24       49       1
+Harvard    Mobile          2010.48              22.59       89       2
+Stanford   Mobile          2455.20              22.52      109       3
+MIT        Mobile           893.53              21.27       42       4
+
+
+Pet Technology - Rank = 1
+
+college    verticals         dealSize    averageDealSize    count    rank
+---------  --------------  ----------  -----------------  -------  ------
+Berkeley   Pet Technology       39.00              39.00        1       1
+Stanford   Pet Technology       65.00              32.50        2       2
+Harvard    Pet Technology       15.00              15.00        1       3
+
+
+Restaurant Technology - Rank = 1
+
+college    verticals                dealSize    averageDealSize    count    rank
+---------  ---------------------  ----------  -----------------  -------  ------
+Berkeley   Restaurant Technology       96.00              32.00        3       1
+Stanford   Restaurant Technology      103.50              20.70        5       2
+Harvard    Restaurant Technology       27.50              13.75        2       3
+MIT        Restaurant Technology       62.25              12.45        5       4
+
+
+Space Technology - Rank = 1
+
+college    verticals           dealSize    averageDealSize    count    rank
+---------  ----------------  ----------  -----------------  -------  ------
+Berkeley   Space Technology       47.84              23.92        2       1
+Harvard    Space Technology       91.50              18.30        5       2
+Stanford   Space Technology       40.44              13.48        3       3
+MIT        Space Technology       32.50              10.83        3       4
+
+
+Supply Chain Tech - Rank = 1
+
+college    verticals            dealSize    averageDealSize    count    rank
+---------  -----------------  ----------  -----------------  -------  ------
+Berkeley   Supply Chain Tech      397.56              44.17        9       1
+Harvard    Supply Chain Tech      652.71              43.51       15       2
+Stanford   Supply Chain Tech     1154.78              42.77       27       3
+MIT        Supply Chain Tech      349.28              38.81        9       4
+
+
+Wearables & Quantified Self - Rank = 1
+
+college    verticals                      dealSize    averageDealSize    count    rank
+---------  ---------------------------  ----------  -----------------  -------  ------
+Berkeley   Wearables & Quantified Self      113.00              37.67        3       1
+Stanford   Wearables & Quantified Self      228.69              28.59        8       2
+Harvard    Wearables & Quantified Self      130.42              14.49        9       3
+MIT        Wearables & Quantified Self       53.84               8.97        6       4
+
+
+eSports - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   eSports           46.00              46.00        1       1
+Harvard    eSports           15.10              15.10        1       2
+
+
+----------------------------------------------------------------------------------------------------
+Series C
+----------------------------------------------------------------------------------------------------
+
+Augmented Reality - Rank = 1
+
+college    verticals            dealSize    averageDealSize    count    rank
+---------  -----------------  ----------  -----------------  -------  ------
+Berkeley   Augmented Reality      345.00             172.50        2       1
+MIT        Augmented Reality       80.00              40.00        2       2
+Harvard    Augmented Reality        7.50               7.50        1       3
+
+
+Construction Technology - Rank = 1
+
+college    verticals                  dealSize    averageDealSize    count    rank
+---------  -----------------------  ----------  -----------------  -------  ------
+Berkeley   Construction Technology       64.08              64.08        1       1
+Stanford   Construction Technology       63.50              31.75        2       2
+
+
+Gaming - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Gaming           622.00             311.00        2       1
+Harvard    Gaming            44.40              22.20        2       2
+Stanford   Gaming            20.00              20.00        1       3
+
+
+LOHAS & Wellness - Rank = 1
+
+college    verticals           dealSize    averageDealSize    count    rank
+---------  ----------------  ----------  -----------------  -------  ------
+Berkeley   LOHAS & Wellness      297.12              49.52        6       1
+Stanford   LOHAS & Wellness      467.20              35.94       13       2
+Harvard    LOHAS & Wellness      413.97              34.50       12       3
+MIT        LOHAS & Wellness      275.00              30.56        9       4
+
+
+Legal Tech - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Legal Tech        78.00              78.00        1       1
+MIT        Legal Tech        48.49              48.49        1       2
+Harvard    Legal Tech        96.57              48.28        2       3
+Stanford   Legal Tech        18.57              18.57        1       4
+
+
+Micro-Mobility - Rank = 1
+
+college    verticals         dealSize    averageDealSize    count    rank
+---------  --------------  ----------  -----------------  -------  ------
+Berkeley   Micro-Mobility      335.10             335.10        1       1
+
+
+Mobile - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Mobile          1664.76              83.24       20       1
+Stanford   Mobile          2771.02              55.42       50       2
+MIT        Mobile           882.91              42.04       21       3
+Harvard    Mobile          1582.43              39.56       40       4
+
+
+Oil & Gas - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Oil & Gas         25.00              25.00        1       1
+
+
+Restaurant Technology - Rank = 1
+
+college    verticals                dealSize    averageDealSize    count    rank
+---------  ---------------------  ----------  -----------------  -------  ------
+Berkeley   Restaurant Technology      177.00              88.50        2       1
+Stanford   Restaurant Technology      135.00              67.50        2       2
+MIT        Restaurant Technology      178.93              44.73        4       3
+Harvard    Restaurant Technology       35.00              35.00        1       4
+
+
+Ridesharing - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Ridesharing      435.10             217.55        2       1
+Stanford   Ridesharing      364.00              91.00        4       2
+Harvard    Ridesharing       65.00              65.00        1       3
+
+
+Robotics and Drones - Rank = 1
+
+college    verticals              dealSize    averageDealSize    count    rank
+---------  -------------------  ----------  -----------------  -------  ------
+Berkeley   Robotics and Drones      457.90              76.32        6       1
+MIT        Robotics and Drones      113.25              56.62        2       2
+Stanford   Robotics and Drones      156.78              39.20        4       3
+Harvard    Robotics and Drones      128.90              32.23        4       4
+
+
+TMT - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   TMT             4119.05              46.28       89       1
+Stanford   TMT             7863.76              45.19      174       2
+MIT        TMT             3833.50              39.52       97       3
+Harvard    TMT             4994.82              33.52      149       4
+
+
+Wearables & Quantified Self - Rank = 1
+
+college    verticals                      dealSize    averageDealSize    count    rank
+---------  ---------------------------  ----------  -----------------  -------  ------
+Berkeley   Wearables & Quantified Self      105.53              52.77        2       1
+Stanford   Wearables & Quantified Self      140.53              46.84        3       2
+Harvard    Wearables & Quantified Self      231.55              46.31        5       3
+MIT        Wearables & Quantified Self       18.15              18.15        1       4
+
+
+nan - Rank = 1
+
+college      verticals    dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley           nan      208.81              26.10        8       1
+Harvard            nan      277.85              25.26       11       2
+MIT                nan      159.96              20.00        8       3
+Stanford           nan      193.04              19.30       10       4
+
+
+----------------------------------------------------------------------------------------------------
+Series D
+----------------------------------------------------------------------------------------------------
+
+Beauty - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Beauty             5.00               5.00        1       1
+
+
+Construction Technology - Rank = 1
+
+college    verticals                  dealSize    averageDealSize    count    rank
+---------  -----------------------  ----------  -----------------  -------  ------
+Berkeley   Construction Technology       53.00              53.00        1       1
+Stanford   Construction Technology       48.00              48.00        1       2
+
+
+FoodTech - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   FoodTech         535.00             535.00        1       1
+Stanford   FoodTech         675.00             337.50        2       2
+MIT        FoodTech         100.00             100.00        1       3
+Harvard    FoodTech          15.00              15.00        1       4
+
+
+Gaming - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Gaming           330.02             330.02        1       1
+Harvard    Gaming            88.88              17.78        5       2
+
+
+Impact Investing - Rank = 1
+
+college    verticals           dealSize    averageDealSize    count    rank
+---------  ----------------  ----------  -----------------  -------  ------
+Berkeley   Impact Investing      160.00              80.00        2       1
+MIT        Impact Investing      198.00              66.00        3       2
+Stanford   Impact Investing       86.98              43.49        2       3
+Harvard    Impact Investing       26.98              26.98        1       4
+
+
+Life Sciences - Rank = 1
+
+college    verticals        dealSize    averageDealSize    count    rank
+---------  -------------  ----------  -----------------  -------  ------
+Berkeley   Life Sciences      419.33             104.83        4       1
+Harvard    Life Sciences      569.27              81.32        7       2
+Stanford   Life Sciences     1211.18              80.75       15       3
+MIT        Life Sciences     1451.85              72.59       20       4
+
+
+Micro-Mobility - Rank = 1
+
+college    verticals         dealSize    averageDealSize    count    rank
+---------  --------------  ----------  -----------------  -------  ------
+Berkeley   Micro-Mobility      310.00             310.00        1       1
+
+
+Mobile - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Mobile          1617.12             161.71       10       1
+Stanford   Mobile          3374.06             124.97       27       2
+MIT        Mobile           778.60              86.51        9       3
+Harvard    Mobile          1138.56              63.25       18       4
+
+
+Mobility Tech - Rank = 1
+
+college    verticals        dealSize    averageDealSize    count    rank
+---------  -------------  ----------  -----------------  -------  ------
+Berkeley   Mobility Tech     2153.50             307.64        7       1
+Stanford   Mobility Tech     1796.35             179.63       10       2
+Harvard    Mobility Tech      828.41             118.34        7       3
+MIT        Mobility Tech      618.50              88.36        7       4
+
+
+Oil & Gas - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Oil & Gas         20.00              20.00        1       1
+
+
+Restaurant Technology - Rank = 1
+
+college    verticals                dealSize    averageDealSize    count    rank
+---------  ---------------------  ----------  -----------------  -------  ------
+Berkeley   Restaurant Technology      587.50             293.75        2       1
+Stanford   Restaurant Technology      548.00             274.00        2       2
+MIT        Restaurant Technology      215.00             107.50        2       3
+Harvard    Restaurant Technology       15.00              15.00        1       4
+
+
+Ridesharing - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Ridesharing      510.00             255.00        2       1
+Harvard    Ridesharing      250.00             250.00        1       2
+Stanford   Ridesharing      550.00             183.33        3       3
+
+
+Supply Chain Tech - Rank = 1
+
+college    verticals            dealSize    averageDealSize    count    rank
+---------  -----------------  ----------  -----------------  -------  ------
+Berkeley   Supply Chain Tech     1548.64             387.16        4       1
+MIT        Supply Chain Tech      250.00             250.00        1       2
+Stanford   Supply Chain Tech     1095.04             219.01        5       3
+Harvard    Supply Chain Tech      260.00              86.67        3       4
+
+
+Wearables & Quantified Self - Rank = 1
+
+college    verticals                      dealSize    averageDealSize    count    rank
+---------  ---------------------------  ----------  -----------------  -------  ------
+Berkeley   Wearables & Quantified Self       51.25              51.25        1       1
+Stanford   Wearables & Quantified Self       51.25              51.25        1       2
+Harvard    Wearables & Quantified Self      104.89              34.96        3       3
+MIT        Wearables & Quantified Self       19.81              19.81        1       4
+
+
+----------------------------------------------------------------------------------------------------
+Series E
+----------------------------------------------------------------------------------------------------
+
+Big Data - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Big Data         588.55              98.09        6       1
+Harvard    Big Data         223.05              74.35        3       2
+Stanford   Big Data         385.80              64.30        6       3
+MIT        Big Data         326.49              54.41        6       4
+
+
+Gaming - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Gaming            25.00              25.00        1       1
+Stanford   Gaming            25.00              25.00        1       2
+
+
+Nanotechnology - Rank = 1
+
+college    verticals         dealSize    averageDealSize    count    rank
+---------  --------------  ----------  -----------------  -------  ------
+Berkeley   Nanotechnology       38.37              38.37        1       1
+Harvard    Nanotechnology       69.90              34.95        2       2
+Stanford   Nanotechnology        5.61               5.61        1       3
+
+
+Oil & Gas - Rank = 1
+
+college    verticals      dealSize    averageDealSize    count    rank
+---------  -----------  ----------  -----------------  -------  ------
+Berkeley   Oil & Gas          0.00               0.00        1       1
+
+
+Restaurant Technology - Rank = 1
+
+college    verticals                dealSize    averageDealSize    count    rank
+---------  ---------------------  ----------  -----------------  -------  ------
+Berkeley   Restaurant Technology      250.00             250.00        1       1
+MIT        Restaurant Technology      250.00             250.00        1       2
+Stanford   Restaurant Technology      250.00             250.00        1       3
+Harvard    Restaurant Technology       80.00              80.00        1       4
+
+
+Supply Chain Tech - Rank = 1
+
+college    verticals            dealSize    averageDealSize    count    rank
+---------  -----------------  ----------  -----------------  -------  ------
+Berkeley   Supply Chain Tech      255.05             127.53        2       1
+Stanford   Supply Chain Tech      365.70             121.90        3       2
+Harvard    Supply Chain Tech      155.00              77.50        2       3
+
+
+Wearables & Quantified Self - Rank = 1
+
+college    verticals                      dealSize    averageDealSize    count    rank
+---------  ---------------------------  ----------  -----------------  -------  ------
+Berkeley   Wearables & Quantified Self       81.58              81.58        1       1
+Stanford   Wearables & Quantified Self       81.58              81.58        1       2
+Harvard    Wearables & Quantified Self       40.00              40.00        1       3
+MIT        Wearables & Quantified Self       40.00              40.00        1       4
+
