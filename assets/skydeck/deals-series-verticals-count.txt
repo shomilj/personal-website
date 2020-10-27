@@ -1,0 +1,2073 @@
+----------------------------------------------------------------------------------------------------
+Series A
+----------------------------------------------------------------------------------------------------
+
+3D Printing - Rank = 4
+
+college      count
+---------  -------
+MIT              8
+Stanford         5
+Harvard          3
+Berkeley         2
+
+
+AdTech - Rank = 3
+
+college      count
+---------  -------
+Stanford        10
+Harvard          7
+Berkeley         3
+MIT              3
+
+
+Advanced Manufacturing - Rank = 3
+
+college      count
+---------  -------
+Stanford        18
+MIT             11
+Berkeley         6
+Harvard          2
+
+
+AgTech - Rank = 3
+
+college      count
+---------  -------
+Stanford        19
+Harvard          6
+Berkeley         5
+MIT              5
+
+
+Artificial Intelligence & Machine Learning - Rank = 4
+
+college      count
+---------  -------
+Stanford       154
+MIT             92
+Harvard         84
+Berkeley        75
+
+
+AudioTech - Rank = 1
+
+college      count
+---------  -------
+Berkeley         5
+Stanford         5
+MIT              3
+
+
+Augmented Reality - Rank = 4
+
+college      count
+---------  -------
+MIT             10
+Harvard          7
+Stanford         7
+Berkeley         5
+
+
+Autonomous cars - Rank = 2
+
+college      count
+---------  -------
+Stanford        11
+Berkeley         4
+MIT              4
+Harvard          2
+
+
+B2B Payments - Rank = 1
+
+college      count
+---------  -------
+Berkeley         2
+Harvard          2
+Stanford         2
+
+
+Beauty - Rank = 2
+
+college      count
+---------  -------
+Harvard          6
+Berkeley         2
+MIT              2
+Stanford         2
+
+
+Big Data - Rank = 3
+
+college      count
+---------  -------
+Stanford       104
+Harvard         66
+Berkeley        55
+MIT             53
+
+
+Cannabis - Rank = 2
+
+college      count
+---------  -------
+Stanford         4
+Berkeley         3
+Harvard          3
+MIT              1
+
+
+Car-Sharing - Rank = 1
+
+college      count
+---------  -------
+Berkeley         1
+Harvard          1
+MIT              1
+
+
+CleanTech - Rank = 2
+
+college      count
+---------  -------
+Stanford        29
+Berkeley        23
+MIT             17
+Harvard         16
+
+
+CloudTech & DevOps - Rank = 3
+
+college      count
+---------  -------
+Stanford        13
+MIT             12
+Berkeley        10
+Harvard          7
+
+
+Construction Technology - Rank = 2
+
+college      count
+---------  -------
+Stanford         5
+Berkeley         3
+MIT              2
+Harvard          1
+
+
+Cryptocurrency/Blockchain - Rank = 4
+
+college      count
+---------  -------
+Stanford        18
+MIT              9
+Harvard          8
+Berkeley         4
+
+
+Cybersecurity - Rank = 4
+
+college      count
+---------  -------
+Stanford        21
+Harvard         13
+MIT              9
+Berkeley         8
+
+
+Digital Health - Rank = 4
+
+college      count
+---------  -------
+Stanford        33
+Harvard         32
+MIT             16
+Berkeley        15
+
+
+E-Commerce - Rank = 3
+
+college      count
+---------  -------
+Stanford        48
+Harvard         46
+Berkeley        16
+MIT             15
+
+
+EdTech - Rank = 4
+
+college      count
+---------  -------
+Stanford        25
+Harvard         24
+MIT             12
+Berkeley        11
+
+
+FemTech - Rank = NA
+
+college      count
+---------  -------
+Stanford         6
+Harvard          3
+MIT              2
+
+
+FinTech - Rank = 4
+
+college      count
+---------  -------
+Harvard         79
+Stanford        73
+MIT             44
+Berkeley        36
+
+
+FoodTech - Rank = 4
+
+college      count
+---------  -------
+Stanford        19
+Harvard          8
+MIT              8
+Berkeley         6
+
+
+Gaming - Rank = 2
+
+college      count
+---------  -------
+Harvard          9
+Berkeley         7
+Stanford         5
+MIT              2
+
+
+HR Tech - Rank = 1
+
+college      count
+---------  -------
+Berkeley        15
+Stanford        13
+Harvard         11
+MIT              7
+
+
+HealthTech - Rank = 3
+
+college      count
+---------  -------
+Harvard         71
+Stanford        58
+Berkeley        38
+MIT             38
+
+
+Impact Investing - Rank = 4
+
+college      count
+---------  -------
+Harvard          9
+MIT              4
+Stanford         4
+Berkeley         2
+
+
+Industrials - Rank = 2
+
+college      count
+---------  -------
+Stanford        41
+Berkeley        29
+MIT             28
+Harvard         24
+
+
+Infrastructure - Rank = 1
+
+college      count
+---------  -------
+Berkeley         3
+Harvard          2
+MIT              1
+Stanford         1
+
+
+InsurTech - Rank = 4
+
+college      count
+---------  -------
+Harvard         18
+MIT             15
+Stanford        14
+Berkeley         8
+
+
+Internet of Things - Rank = 1
+
+college      count
+---------  -------
+Berkeley        24
+Stanford        23
+MIT             16
+Harvard         13
+
+
+LOHAS & Wellness - Rank = 4
+
+college      count
+---------  -------
+Harvard         36
+Stanford        30
+MIT             19
+Berkeley        14
+
+
+Legal Tech - Rank = 2
+
+college      count
+---------  -------
+Harvard          7
+Berkeley         6
+Stanford         4
+MIT              2
+
+
+Life Sciences - Rank = 4
+
+college      count
+---------  -------
+Harvard        120
+MIT             95
+Stanford        79
+Berkeley        64
+
+
+Manufacturing - Rank = 4
+
+college      count
+---------  -------
+Stanford        18
+MIT             17
+Harvard         14
+Berkeley        11
+
+
+Marketing Tech - Rank = 4
+
+college      count
+---------  -------
+Stanford        29
+Harvard         25
+MIT             11
+Berkeley        10
+
+
+Micro-Mobility - Rank = 1
+
+college      count
+---------  -------
+Berkeley         4
+Harvard          2
+Stanford         1
+
+
+Mobile - Rank = 3
+
+college      count
+---------  -------
+Stanford       109
+Harvard         77
+Berkeley        60
+MIT             50
+
+
+Mobile Commerce - Rank = NA
+
+college      count
+---------  -------
+Stanford         9
+Harvard          4
+MIT              3
+
+
+Mobility Tech - Rank = 3
+
+college      count
+---------  -------
+Stanford        41
+MIT             24
+Berkeley        19
+Harvard         19
+
+
+Mortgage Tech - Rank = 1
+
+college      count
+---------  -------
+Berkeley         3
+Stanford         3
+Harvard          1
+MIT              1
+
+
+Nanotechnology - Rank = 2
+
+college      count
+---------  -------
+MIT              6
+Berkeley         3
+Stanford         3
+Harvard          2
+
+
+Oil & Gas - Rank = 2
+
+college      count
+---------  -------
+Stanford         8
+Berkeley         4
+Harvard          2
+MIT              2
+
+
+Oncology - Rank = 4
+
+college      count
+---------  -------
+Harvard         53
+MIT             34
+Stanford        31
+Berkeley        17
+
+
+Pet Technology - Rank = 1
+
+college      count
+---------  -------
+Berkeley         3
+Harvard          2
+Stanford         2
+
+
+Real Estate Technology - Rank = 3
+
+college      count
+---------  -------
+Harvard         29
+Stanford        22
+Berkeley        10
+MIT              7
+
+
+Restaurant Technology - Rank = 3
+
+college      count
+---------  -------
+Stanford         5
+MIT              4
+Berkeley         3
+Harvard          3
+
+
+Ridesharing - Rank = 3
+
+college      count
+---------  -------
+Stanford         3
+MIT              2
+Berkeley         1
+Harvard          1
+
+
+Robotics and Drones - Rank = 4
+
+college      count
+---------  -------
+Stanford        21
+MIT             19
+Harvard         14
+Berkeley        11
+
+
+SaaS - Rank = 4
+
+college      count
+---------  -------
+Stanford       162
+Harvard         97
+MIT             94
+Berkeley        91
+
+
+Space Technology - Rank = 1
+
+college      count
+---------  -------
+Berkeley         5
+Stanford         4
+Harvard          2
+MIT              2
+
+
+Supply Chain Tech - Rank = 4
+
+college      count
+---------  -------
+Stanford        15
+MIT             14
+Harvard         12
+Berkeley         6
+
+
+TMT - Rank = 4
+
+college      count
+---------  -------
+Stanford       412
+Harvard        310
+MIT            222
+Berkeley       216
+
+
+Virtual Reality - Rank = 2
+
+college      count
+---------  -------
+Stanford         8
+Berkeley         7
+MIT              5
+Harvard          4
+
+
+Wearables & Quantified Self - Rank = 3
+
+college      count
+---------  -------
+Stanford        11
+MIT              8
+Berkeley         6
+Harvard          4
+
+
+eSports - Rank = 1
+
+college      count
+---------  -------
+Berkeley         2
+Harvard          2
+MIT              1
+Stanford         1
+
+
+nan - Rank = 4
+
+college      count
+---------  -------
+Stanford        40
+Harvard         28
+MIT             24
+Berkeley        20
+
+
+----------------------------------------------------------------------------------------------------
+Series B
+----------------------------------------------------------------------------------------------------
+
+3D Printing - Rank = NA
+
+college      count
+---------  -------
+MIT              7
+Harvard          4
+Stanford         3
+
+
+AdTech - Rank = 3
+
+college      count
+---------  -------
+Stanford         8
+MIT              6
+Berkeley         3
+Harvard          3
+
+
+Advanced Manufacturing - Rank = 4
+
+college      count
+---------  -------
+Stanford        12
+MIT              8
+Harvard          5
+Berkeley         4
+
+
+AgTech - Rank = 1
+
+college      count
+---------  -------
+Berkeley         6
+MIT              5
+Stanford         4
+Harvard          3
+
+
+Artificial Intelligence & Machine Learning - Rank = 2
+
+college      count
+---------  -------
+Stanford        88
+Berkeley        42
+MIT             42
+Harvard         38
+
+
+AudioTech - Rank = NA
+
+college      count
+---------  -------
+MIT              2
+Stanford         2
+Harvard          1
+
+
+Augmented Reality - Rank = 1
+
+college      count
+---------  -------
+Berkeley         3
+Stanford         3
+Harvard          2
+MIT              1
+
+
+Autonomous cars - Rank = 2
+
+college      count
+---------  -------
+Stanford         8
+Berkeley         3
+MIT              3
+Harvard          1
+
+
+B2B Payments - Rank = NA
+
+college      count
+---------  -------
+Stanford         2
+Harvard          1
+
+
+Beauty - Rank = 2
+
+college      count
+---------  -------
+Harvard          2
+Berkeley         1
+Stanford         1
+
+
+Big Data - Rank = 3
+
+college      count
+---------  -------
+Stanford        61
+Harvard         40
+Berkeley        35
+MIT             26
+
+
+Cannabis - Rank = 1
+
+college      count
+---------  -------
+Berkeley         2
+Harvard          2
+MIT              2
+Stanford         1
+
+
+Car-Sharing - Rank = 1
+
+college      count
+---------  -------
+Berkeley         2
+Harvard          2
+MIT              2
+
+
+CleanTech - Rank = 3
+
+college      count
+---------  -------
+MIT             20
+Stanford        13
+Berkeley        10
+Harvard          7
+
+
+CloudTech & DevOps - Rank = 1
+
+college      count
+---------  -------
+Berkeley         8
+Stanford         8
+Harvard          5
+MIT              5
+
+
+Construction Technology - Rank = 2
+
+college      count
+---------  -------
+Stanford         3
+Berkeley         1
+MIT              1
+
+
+Cryptocurrency/Blockchain - Rank = 3
+
+college      count
+---------  -------
+Stanford         3
+MIT              2
+Berkeley         1
+
+
+Cybersecurity - Rank = 4
+
+college      count
+---------  -------
+Stanford        15
+Harvard         12
+MIT              7
+Berkeley         5
+
+
+Digital Health - Rank = 4
+
+college      count
+---------  -------
+Harvard         24
+Stanford        20
+MIT             11
+Berkeley         7
+
+
+E-Commerce - Rank = 3
+
+college      count
+---------  -------
+Harvard         34
+Stanford        31
+Berkeley        15
+MIT              5
+
+
+EdTech - Rank = 4
+
+college      count
+---------  -------
+Harvard         14
+Stanford        11
+MIT              5
+Berkeley         4
+
+
+FemTech - Rank = 2
+
+college      count
+---------  -------
+Stanford         2
+Berkeley         1
+Harvard          1
+
+
+FinTech - Rank = 4
+
+college      count
+---------  -------
+Stanford        55
+Harvard         45
+MIT             20
+Berkeley        16
+
+
+FoodTech - Rank = 3
+
+college      count
+---------  -------
+Stanford        12
+Harvard          7
+Berkeley         4
+MIT              2
+
+
+Gaming - Rank = 3
+
+college      count
+---------  -------
+Harvard          4
+Stanford         3
+Berkeley         2
+
+
+HR Tech - Rank = 1
+
+college      count
+---------  -------
+Berkeley         7
+Harvard          7
+Stanford         7
+MIT              4
+
+
+HealthTech - Rank = 4
+
+college      count
+---------  -------
+Stanford        46
+Harvard         41
+MIT             27
+Berkeley        24
+
+
+Impact Investing - Rank = 3
+
+college      count
+---------  -------
+Harvard          6
+MIT              5
+Berkeley         3
+Stanford         2
+
+
+Industrials - Rank = 4
+
+college      count
+---------  -------
+Stanford        25
+MIT             22
+Harvard         19
+Berkeley        12
+
+
+Infrastructure - Rank = 1
+
+college      count
+---------  -------
+Berkeley         1
+
+
+InsurTech - Rank = 4
+
+college      count
+---------  -------
+Stanford        14
+Harvard         13
+MIT              6
+Berkeley         4
+
+
+Internet of Things - Rank = 4
+
+college      count
+---------  -------
+Stanford        20
+Harvard         11
+MIT             10
+Berkeley         9
+
+
+LOHAS & Wellness - Rank = 4
+
+college      count
+---------  -------
+Stanford        19
+Harvard         16
+MIT             14
+Berkeley        11
+
+
+Legal Tech - Rank = 1
+
+college      count
+---------  -------
+Berkeley         3
+Harvard          2
+Stanford         2
+MIT              1
+
+
+Life Sciences - Rank = 4
+
+college      count
+---------  -------
+Harvard         66
+MIT             51
+Stanford        48
+Berkeley        45
+
+
+Manufacturing - Rank = 4
+
+college      count
+---------  -------
+Stanford        23
+MIT             18
+Harvard         13
+Berkeley         5
+
+
+Marketing Tech - Rank = 3
+
+college      count
+---------  -------
+Harvard         13
+Stanford         9
+Berkeley         8
+MIT              8
+
+
+Micro-Mobility - Rank = 1
+
+college      count
+---------  -------
+Berkeley         1
+
+
+Mobile - Rank = 3
+
+college      count
+---------  -------
+Stanford        89
+Harvard         71
+Berkeley        37
+MIT             33
+
+
+Mobile Commerce - Rank = 3
+
+college      count
+---------  -------
+Stanford        10
+Harvard          3
+Berkeley         1
+
+
+Mobility Tech - Rank = 4
+
+college      count
+---------  -------
+Stanford        31
+Harvard         19
+MIT             19
+Berkeley        18
+
+
+Mortgage Tech - Rank = 2
+
+college      count
+---------  -------
+Stanford         3
+Berkeley         2
+
+
+Nanotechnology - Rank = 4
+
+college      count
+---------  -------
+MIT              4
+Stanford         3
+Harvard          2
+Berkeley         1
+
+
+Oil & Gas - Rank = 1
+
+college      count
+---------  -------
+Berkeley         1
+MIT              1
+Stanford         1
+
+
+Oncology - Rank = 4
+
+college      count
+---------  -------
+Harvard         30
+MIT             23
+Stanford        20
+Berkeley        16
+
+
+Pet Technology - Rank = 2
+
+college      count
+---------  -------
+Stanford         2
+Berkeley         1
+Harvard          1
+
+
+Real Estate Technology - Rank = 3
+
+college      count
+---------  -------
+Harvard         15
+Stanford        13
+Berkeley         8
+MIT              3
+
+
+Restaurant Technology - Rank = 3
+
+college      count
+---------  -------
+Stanford         4
+MIT              3
+Berkeley         2
+Harvard          2
+
+
+Ridesharing - Rank = 4
+
+college      count
+---------  -------
+Stanford         3
+Harvard          2
+MIT              2
+Berkeley         1
+
+
+Robotics and Drones - Rank = 4
+
+college      count
+---------  -------
+Stanford        11
+Harvard          8
+MIT              7
+Berkeley         4
+
+
+SaaS - Rank = 3
+
+college      count
+---------  -------
+Stanford       102
+Harvard         75
+Berkeley        52
+MIT             51
+
+
+Space Technology - Rank = 4
+
+college      count
+---------  -------
+Harvard          5
+MIT              3
+Stanford         3
+Berkeley         2
+
+
+Supply Chain Tech - Rank = 4
+
+college      count
+---------  -------
+Stanford        21
+Harvard         14
+MIT              9
+Berkeley         7
+
+
+TMT - Rank = 4
+
+college      count
+---------  -------
+Stanford       271
+Harvard        215
+MIT            139
+Berkeley       132
+
+
+Virtual Reality - Rank = NA
+
+college      count
+---------  -------
+Stanford         6
+Harvard          2
+MIT              1
+
+
+Wearables & Quantified Self - Rank = 4
+
+college      count
+---------  -------
+Harvard          7
+Stanford         7
+MIT              4
+Berkeley         3
+
+
+eSports - Rank = 1
+
+college      count
+---------  -------
+Berkeley         1
+Harvard          1
+
+
+nan - Rank = 3
+
+college      count
+---------  -------
+Harvard         16
+Stanford        15
+Berkeley         7
+MIT              7
+
+
+----------------------------------------------------------------------------------------------------
+Series C
+----------------------------------------------------------------------------------------------------
+
+3D Printing - Rank = NA
+
+college      count
+---------  -------
+MIT              3
+Stanford         1
+
+
+AdTech - Rank = NA
+
+college      count
+---------  -------
+MIT              5
+Stanford         4
+Harvard          2
+
+
+Advanced Manufacturing - Rank = NA
+
+college      count
+---------  -------
+Stanford         5
+MIT              4
+Harvard          3
+
+
+AgTech - Rank = 1
+
+college      count
+---------  -------
+Berkeley         4
+Stanford         1
+
+
+Artificial Intelligence & Machine Learning - Rank = 2
+
+college      count
+---------  -------
+Stanford        36
+Berkeley        21
+MIT             21
+Harvard         19
+
+
+AudioTech - Rank = NA
+
+college      count
+---------  -------
+Harvard          1
+
+
+Augmented Reality - Rank = 1
+
+college      count
+---------  -------
+Berkeley         2
+MIT              2
+Harvard          1
+
+
+Autonomous cars - Rank = 1
+
+college      count
+---------  -------
+Berkeley         2
+Stanford         1
+
+
+B2B Payments - Rank = NA
+
+college      count
+---------  -------
+Stanford         3
+Harvard          1
+
+
+Beauty - Rank = 2
+
+college      count
+---------  -------
+Harvard          2
+Berkeley         1
+
+
+Big Data - Rank = 4
+
+college      count
+---------  -------
+Stanford        22
+Harvard         21
+MIT             17
+Berkeley        12
+
+
+Cannabis - Rank = NA
+
+college      count
+---------  -------
+Harvard          3
+
+
+CleanTech - Rank = 3
+
+college      count
+---------  -------
+MIT             13
+Stanford        11
+Berkeley         3
+Harvard          3
+
+
+CloudTech & DevOps - Rank = 1
+
+college      count
+---------  -------
+Berkeley         5
+Stanford         4
+MIT              2
+Harvard          1
+
+
+Construction Technology - Rank = 2
+
+college      count
+---------  -------
+Stanford         2
+Berkeley         1
+
+
+Cryptocurrency/Blockchain - Rank = NA
+
+college      count
+---------  -------
+Stanford         2
+Harvard          1
+MIT              1
+
+
+Cybersecurity - Rank = 3
+
+college      count
+---------  -------
+Stanford         8
+Harvard          7
+Berkeley         6
+MIT              5
+
+
+Digital Health - Rank = 4
+
+college      count
+---------  -------
+Stanford        13
+Harvard         12
+MIT              5
+Berkeley         3
+
+
+E-Commerce - Rank = 3
+
+college      count
+---------  -------
+Harvard         20
+Stanford        13
+Berkeley         8
+MIT              2
+
+
+EdTech - Rank = 4
+
+college      count
+---------  -------
+Stanford         9
+Harvard          6
+MIT              3
+Berkeley         2
+
+
+FinTech - Rank = 4
+
+college      count
+---------  -------
+Stanford        29
+Harvard         25
+MIT              8
+Berkeley         7
+
+
+FoodTech - Rank = 1
+
+college      count
+---------  -------
+Berkeley         3
+Stanford         3
+Harvard          2
+MIT              2
+
+
+Gaming - Rank = 2
+
+college      count
+---------  -------
+Harvard          2
+Berkeley         1
+
+
+HR Tech - Rank = 2
+
+college      count
+---------  -------
+Harvard          3
+Berkeley         2
+Stanford         2
+MIT              1
+
+
+HealthTech - Rank = 4
+
+college      count
+---------  -------
+Stanford        24
+Harvard         21
+MIT              9
+Berkeley         8
+
+
+Impact Investing - Rank = 1
+
+college      count
+---------  -------
+Berkeley         2
+Stanford         2
+Harvard          1
+MIT              1
+
+
+Industrials - Rank = 4
+
+college      count
+---------  -------
+Harvard         14
+Stanford        14
+MIT             13
+Berkeley         5
+
+
+InsurTech - Rank = NA
+
+college      count
+---------  -------
+Harvard          7
+Stanford         5
+MIT              2
+
+
+Internet of Things - Rank = 3
+
+college      count
+---------  -------
+MIT              8
+Stanford         7
+Berkeley         5
+Harvard          4
+
+
+LOHAS & Wellness - Rank = 4
+
+college      count
+---------  -------
+Stanford        10
+Harvard          9
+MIT              7
+Berkeley         4
+
+
+Legal Tech - Rank = 2
+
+college      count
+---------  -------
+Harvard          2
+Berkeley         1
+MIT              1
+Stanford         1
+
+
+Life Sciences - Rank = 4
+
+college      count
+---------  -------
+Harvard         27
+MIT             27
+Stanford        23
+Berkeley        19
+
+
+Manufacturing - Rank = 4
+
+college      count
+---------  -------
+Stanford        16
+MIT              8
+Harvard          6
+Berkeley         1
+
+
+Marketing Tech - Rank = 4
+
+college      count
+---------  -------
+Stanford        10
+Harvard          9
+MIT              7
+Berkeley         5
+
+
+Micro-Mobility - Rank = 1
+
+college      count
+---------  -------
+Berkeley         1
+
+
+Mobile - Rank = 4
+
+college      count
+---------  -------
+Stanford        40
+Harvard         32
+MIT             19
+Berkeley        17
+
+
+Mobile Commerce - Rank = NA
+
+college      count
+---------  -------
+Stanford         3
+Harvard          1
+MIT              1
+
+
+Mobility Tech - Rank = 3
+
+college      count
+---------  -------
+Stanford        18
+MIT             11
+Berkeley        10
+Harvard          8
+
+
+Mortgage Tech - Rank = NA
+
+college      count
+---------  -------
+Stanford         3
+
+
+Nanotechnology - Rank = NA
+
+college      count
+---------  -------
+Stanford         3
+MIT              2
+
+
+Oncology - Rank = 4
+
+college      count
+---------  -------
+Harvard         14
+MIT              9
+Stanford         7
+Berkeley         5
+
+
+Real Estate Technology - Rank = 3
+
+college      count
+---------  -------
+Harvard         11
+Stanford         7
+Berkeley         3
+MIT              1
+
+
+Restaurant Technology - Rank = 2
+
+college      count
+---------  -------
+MIT              3
+Berkeley         2
+Stanford         2
+Harvard          1
+
+
+Ridesharing - Rank = 2
+
+college      count
+---------  -------
+Stanford         3
+Berkeley         1
+
+
+Robotics and Drones - Rank = 1
+
+college      count
+---------  -------
+Berkeley         5
+Harvard          4
+MIT              2
+Stanford         2
+
+
+SaaS - Rank = 4
+
+college      count
+---------  -------
+Harvard         49
+Stanford        43
+MIT             34
+Berkeley        32
+
+
+Space Technology - Rank = NA
+
+college      count
+---------  -------
+Harvard          2
+MIT              1
+Stanford         1
+
+
+Supply Chain Tech - Rank = 3
+
+college      count
+---------  -------
+Stanford        12
+Harvard          8
+Berkeley         3
+MIT              3
+
+
+TMT - Rank = 4
+
+college      count
+---------  -------
+Stanford       139
+Harvard        114
+MIT             74
+Berkeley        72
+
+
+Virtual Reality - Rank = NA
+
+college      count
+---------  -------
+Stanford         2
+MIT              1
+
+
+Wearables & Quantified Self - Rank = 3
+
+college      count
+---------  -------
+Harvard          4
+Stanford         3
+Berkeley         2
+
+
+eSports - Rank = NA
+
+college      count
+---------  -------
+Harvard          1
+
+
+nan - Rank = 1
+
+college      count
+---------  -------
+Berkeley         7
+Harvard          7
+Stanford         6
+MIT              3
+
+
+----------------------------------------------------------------------------------------------------
+Series D
+----------------------------------------------------------------------------------------------------
+
+3D Printing - Rank = NA
+
+college      count
+---------  -------
+MIT              3
+
+
+AdTech - Rank = 3
+
+college      count
+---------  -------
+Harvard          6
+MIT              2
+Berkeley         1
+Stanford         1
+
+
+Advanced Manufacturing - Rank = NA
+
+college      count
+---------  -------
+MIT              3
+Stanford         2
+Harvard          1
+
+
+AgTech - Rank = 1
+
+college      count
+---------  -------
+Berkeley         1
+MIT              1
+Stanford         1
+
+
+Artificial Intelligence & Machine Learning - Rank = 3
+
+college      count
+---------  -------
+Stanford        15
+MIT             10
+Berkeley         9
+Harvard          6
+
+
+B2B Payments - Rank = NA
+
+college      count
+---------  -------
+Harvard          2
+MIT              1
+
+
+Beauty - Rank = 1
+
+college      count
+---------  -------
+Berkeley         1
+
+
+Big Data - Rank = 1
+
+college      count
+---------  -------
+Berkeley         9
+MIT              8
+Stanford         8
+Harvard          6
+
+
+CleanTech - Rank = 3
+
+college      count
+---------  -------
+MIT             11
+Stanford         6
+Berkeley         5
+
+
+CloudTech & DevOps - Rank = 1
+
+college      count
+---------  -------
+Berkeley         6
+Stanford         3
+Harvard          1
+MIT              1
+
+
+Construction Technology - Rank = 1
+
+college      count
+---------  -------
+Berkeley         1
+Stanford         1
+
+
+Cybersecurity - Rank = 2
+
+college      count
+---------  -------
+Stanford         7
+Berkeley         4
+MIT              3
+Harvard          2
+
+
+Digital Health - Rank = 4
+
+college      count
+---------  -------
+Harvard          4
+Stanford         3
+MIT              2
+Berkeley         1
+
+
+E-Commerce - Rank = 2
+
+college      count
+---------  -------
+Harvard          9
+Berkeley         5
+Stanford         4
+
+
+EdTech - Rank = NA
+
+college      count
+---------  -------
+Harvard          3
+MIT              3
+Stanford         3
+
+
+FinTech - Rank = 4
+
+college      count
+---------  -------
+Harvard         14
+Stanford        13
+MIT              3
+Berkeley         2
+
+
+FoodTech - Rank = 2
+
+college      count
+---------  -------
+Stanford         2
+Berkeley         1
+Harvard          1
+MIT              1
+
+
+Gaming - Rank = 2
+
+college      count
+---------  -------
+Harvard          5
+Berkeley         1
+
+
+HR Tech - Rank = 2
+
+college      count
+---------  -------
+Stanford         2
+Berkeley         1
+Harvard          1
+MIT              1
+
+
+HealthTech - Rank = 4
+
+college      count
+---------  -------
+Stanford        11
+Harvard          7
+MIT              3
+Berkeley         1
+
+
+Impact Investing - Rank = 1
+
+college      count
+---------  -------
+Berkeley         2
+MIT              2
+Stanford         2
+Harvard          1
+
+
+Industrials - Rank = 3
+
+college      count
+---------  -------
+Stanford         9
+MIT              8
+Berkeley         3
+Harvard          2
+
+
+InsurTech - Rank = NA
+
+college      count
+---------  -------
+Stanford         4
+Harvard          3
+MIT              1
+
+
+Internet of Things - Rank = 3
+
+college      count
+---------  -------
+MIT              4
+Stanford         3
+Berkeley         2
+
+
+LOHAS & Wellness - Rank = 4
+
+college      count
+---------  -------
+Stanford         6
+Harvard          3
+MIT              3
+Berkeley         2
+
+
+Legal Tech - Rank = NA
+
+college      count
+---------  -------
+Harvard          1
+Stanford         1
+
+
+Life Sciences - Rank = 4
+
+college      count
+---------  -------
+MIT             17
+Stanford        14
+Harvard          6
+Berkeley         4
+
+
+Manufacturing - Rank = 3
+
+college      count
+---------  -------
+Stanford         8
+MIT              6
+Berkeley         2
+
+
+Marketing Tech - Rank = 3
+
+college      count
+---------  -------
+Harvard          6
+Stanford         4
+Berkeley         3
+MIT              3
+
+
+Micro-Mobility - Rank = 1
+
+college      count
+---------  -------
+Berkeley         1
+
+
+Mobile - Rank = 3
+
+college      count
+---------  -------
+Stanford        21
+Harvard         15
+Berkeley         9
+MIT              8
+
+
+Mobile Commerce - Rank = NA
+
+college      count
+---------  -------
+Harvard          2
+MIT              1
+Stanford         1
+
+
+Mobility Tech - Rank = 2
+
+college      count
+---------  -------
+Stanford        10
+Berkeley         6
+MIT              6
+Harvard          4
+
+
+Mortgage Tech - Rank = NA
+
+college      count
+---------  -------
+Stanford         2
+
+
+Nanotechnology - Rank = NA
+
+college      count
+---------  -------
+Stanford         1
+
+
+Oil & Gas - Rank = 1
+
+college      count
+---------  -------
+Berkeley         1
+
+
+Oncology - Rank = 4
+
+college      count
+---------  -------
+MIT              8
+Harvard          5
+Stanford         5
+Berkeley         2
+
+
+Real Estate Technology - Rank = 3
+
+college      count
+---------  -------
+Stanford         5
+Harvard          3
+Berkeley         2
+MIT              1
+
+
+Restaurant Technology - Rank = 1
+
+college      count
+---------  -------
+Berkeley         2
+MIT              2
+Stanford         2
+Harvard          1
+
+
+Ridesharing - Rank = 2
+
+college      count
+---------  -------
+Stanford         3
+Berkeley         2
+
+
+Robotics and Drones - Rank = 2
+
+college      count
+---------  -------
+Stanford         2
+Berkeley         1
+Harvard          1
+MIT              1
+
+
+SaaS - Rank = 3
+
+college      count
+---------  -------
+Harvard         29
+Stanford        26
+Berkeley        22
+MIT             15
+
+
+Space Technology - Rank = NA
+
+college      count
+---------  -------
+Harvard          1
+
+
+Supply Chain Tech - Rank = 3
+
+college      count
+---------  -------
+Stanford         5
+Harvard          3
+Berkeley         2
+MIT              1
+
+
+TMT - Rank = 4
+
+college      count
+---------  -------
+Stanford        69
+Harvard         56
+MIT             39
+Berkeley        36
+
+
+Virtual Reality - Rank = NA
+
+college      count
+---------  -------
+Stanford         1
+
+
+Wearables & Quantified Self - Rank = 2
+
+college      count
+---------  -------
+Harvard          2
+Berkeley         1
+Stanford         1
+
+
+eSports - Rank = NA
+
+college      count
+---------  -------
+Harvard          1
+
+
+nan - Rank = 4
+
+college      count
+---------  -------
+MIT              5
+Harvard          3
+Stanford         3
+Berkeley         1

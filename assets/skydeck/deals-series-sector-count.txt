@@ -1,0 +1,73 @@
+----------------------------------------------------------------------------------------------------
+Series A
+----------------------------------------------------------------------------------------------------
+
+Business Products and Services (B2B) - Rank = 4
+
+college      count
+---------  -------
+Stanford        77
+Harvard         62
+MIT             54
+Berkeley        49
+
+
+Consumer Products and Services (B2C) - Rank = 3
+
+college      count
+---------  -------
+Stanford       113
+Harvard        109
+Berkeley        48
+MIT             47
+
+
+Energy - Rank = 3
+
+college      count
+---------  -------
+Stanford        15
+MIT              9
+Berkeley         8
+Harvard          7
+
+
+Financial Services - Rank = 3
+
+college      count
+---------  -------
+Stanford        31
+Harvard         30
+Berkeley        12
+MIT             11
+
+
+Healthcare - Rank = 4
+
+college      count
+---------  -------
+Harvard        201
+Stanford       149
+MIT            137
+Berkeley        98
+
+
+Information Technology - Rank = 4
+
+college      count
+---------  -------
+Stanford       310
+Harvard        184
+MIT            171
+Berkeley       170
+
+
+Materials and Resources - Rank = 2
+
+college      count
+---------  -------
+Stanford        10
+Berkeley         7
+Harvard          6
+MIT              5
+
