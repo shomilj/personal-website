@@ -4,7 +4,6 @@ date: 2019-02-01 00:00:00 +00:00
 modified: 2019-02-01 00:00:00 +00:00
 tags: [projects]
 description: See title.
-
 ---
 
 This week, a team of my peers and I launched Bear Central for [iOS](https://apps.apple.com/us/app/bear-central/id1441903611) and [Android](https://play.google.com/store/apps/details?id=org.mobiledevsberkeley.theberkeleyappandroid&hl=en_US). 
