@@ -6,7 +6,7 @@ tags: [articles]
 description: Suggestions on how to reform the Electrical Engineering & Computer Science program at UC Berkeley.
 ---
 
-In early December, the EECS Department held a [Town Hall](https://piazza.com/class/hyq0br1u3kx7dg?cid=13790) to discuss reforming the L&S CS program at UC Berkeley. They also released a [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf2W89aDABkzWcvQbZW3O4FXtkiUdo8vvXAz-fVZ14cLYpNSA/viewform) soliciting student opinions, in which they stated:
+In late November, the EECS Department held a [Town Hall](https://piazza.com/class/hyq0br1u3kx7dg?cid=13790) to discuss reforming the L&S CS program at UC Berkeley. They also released a [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf2W89aDABkzWcvQbZW3O4FXtkiUdo8vvXAz-fVZ14cLYpNSA/viewform) soliciting student opinions, in which they stated:
 
 > While our undergraduate CS program is very successful according to a number of metrics, our current status quo is not tenable for several reasons, affecting students, faculty and staff. The size of the program has become unsustainable. Student stress, and faculty/staff workloads are major concerns. The diversity of the program falls short in several dimensions.
 
