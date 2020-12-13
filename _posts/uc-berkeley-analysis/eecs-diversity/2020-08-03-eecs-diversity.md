@@ -23,6 +23,8 @@ In this article, I present a variety of different insights into both historical 
 
 All data for this analysis comes from [Cal Answers](https://calanswers.berkeley.edu/home). To view any visualizations in full screen, right click the graph and select "Open Frame in New Tab/Window." The source code for this project is available at [GitHub](https://github.com/shomilj/cal-answers). A supplementary analysis tool is available at [admissions.shomil.me](https://admissions.shomil.me).
 
+**Update 12/13/2020: To view Fall 2020 UC Berkeley EECS & L/S CS Census Demographics, [click here](https://github.com/shomilj/cal-answers/blob/master/fall-2020-eecs-cs-census.ipynb).**
+
 ***
 
 # A Historical Perspective
