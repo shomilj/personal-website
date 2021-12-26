@@ -12,7 +12,7 @@ description: This post contains a few tips from my experience TAing for CS 161.
 
 ## Feedback
 
-**Ask for feedback, and ask for feedback often.** I'm starting with, arguably, the most important tip - even if you ignore **literally everything** else in this post, please, please do this. Many of the tips I've noted here are based off of thousands of data points collected through feedback that we've sourced directly from students.
+**Ask for feedback, and ask for feedback often.** I'm starting with, arguably, the most important tip - even if you ignore **everything** else in this post, please, please do this. Many of the tips I've noted here are based on thousands of data points collected through feedback that we've sourced directly from students.
 
 In CS 161, we ask for feedback in two critical places: at the end of each homework assignment in a free-form text box, and immediately after an exam takes place. Asking for this free-form feedback allows us to interface directly with students & resolve concerns as they arise. 
 
@@ -42,9 +42,9 @@ Not everyone learns the same way -- so if you're able to provide several differe
 
 ![](attachments/textbook.png)
 
-[CS 170](https://cs170.org) does this really, really, really well (they offer lecture, reading, section/section walkthrough, mini-lecture/conceptual walkthroughs, and assignments/assignment walkthroughs).
+[CS 170](https://cs170.org) does this really, really well (they offer lecture, reading, section/section walkthrough, mini-lecture/conceptual walkthroughs, and assignments/assignment walkthroughs).
 
-Also, collect data on what works for students - and put TA hours toward building out the things that work. We polled students on how helpful they found the textbook in SU21 and FA21 (while we were actively developing it over that period of time), and we saw an increase of nearly 20% of students who rated the helpfulness of the textbook a 4/4.
+Also, collect data on what works for students - and put TA hours toward building out the things that work. We polled students on how helpful they found the textbook in SU21 and FA21 (while we were actively developing it), and we saw an increase of nearly 20% of students who rated the helpfulness of the textbook a 4/4.
 
 > <img title="" src="attachments/notes-useful.png" alt="" width="517">
 
@@ -56,16 +56,16 @@ Also, collect data on what works for students - and put TA hours toward building
 
 One strategy: when planning your course schedule at the beginning of the semester, throw in a scattering of buffer days -- and as the semester progresses, sprinkle a few random (intentional) extensions in as your "surprise" stress-relievers. [And on that note, here's an example of what not to do.](https://www.reddit.com/r/berkeley/comments/rdqh4j/drama_in_ee_120_who_do_you_side_with/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
-**Be wary of what and when you're email-blasting.** Be cognizant of what times you're email-blasting information -- especially sensitive/important information. Blasting exam grades at 9:30 PM on a Friday might not be a move...perhaps wait until Saturday morning for an email blast. Here are a few other tips related to email-blasts:
+**Be wary of what and when you're email-blasting.** Be cognizant of what times you're email-blasting information -- especially sensitive/important information. Blasting exam grades at 9:30 PM on a Friday might not be a move...perhaps wait until Saturday morning for an email blast. Here are a few other tips related to email blasts:
 
-1. Ask for ACK's from at least one other TA before email-blasting something.
+1. Ask for ACKs from at least one other TA before email-blasting something.
 2. Send out a consistent weekly announcement that contains assignments & due dates for the week.
 3. Try to keep email blasts to 1-2 a week.
-4. On that note, use targeted emails instead of email-blasting when possible (e.g. if a discussion attended by 30/1000 is cancelled, it's probably not worth pinging all 1000 students).
+4. On that note, use targeted emails instead of email-blasting when possible (e.g. if a discussion attended by 30/1000 is canceled, it's probably not worth pinging all 1000 students).
 
 **Kind words are important.** In 161, we ask our proctors to run down a list of announcements at the start of an exam -- and the very last announcement is always a set of kind words (e.g. "You'll all do great!"). Similarly, we try to begin and end our email blasts with a few kind words as well, rather than going straight to business.
 
-**Try to build in support for one-on-one meetings with students.** We have a few TA's who dedicate a few of their hours towards these meetings each week - and they say every one of these meetings end with the student saying something like "this has been so helpful, I was really stressed out before the meeting and now I am in such a good place and ready for...". The difference between a private Piazza post or email and directly speaking to a struggling student is astounding. Discussion with larger courses suggests that these meetings are difficult to scale to larger classes - but that doesn't invalidate the merit of them (Related: [see these tips.](https://docs.google.com/document/d/1tJa-e48socf9LDCtQn0fzGqnTOn69qRhs7HUZG3IQsk/edit#heading=h.bnp8gflkqbmu))
+**Try to build in support for one-on-one meetings with students.** We have a few TA's who dedicate a few of their hours towards these meetings each week - and they say every one of these meetings ends with the student saying something like "this has been so helpful, I was really stressed out before the meeting and now I am in such a good place and ready for...". The difference between a private Piazza post or email and directly speaking to a struggling student is astounding. Discussion with larger courses suggests that these meetings are difficult to scale to larger classes - but that doesn't invalidate the merit of them (Related: [see these tips.](https://docs.google.com/document/d/1tJa-e48socf9LDCtQn0fzGqnTOn69qRhs7HUZG3IQsk/edit#heading=h.bnp8gflkqbmu))
 
 ## Piazza
 
@@ -93,7 +93,7 @@ At the time, it blew my mind that an introductory-level CS class at a top-tier u
 
 I thought CS 184's "Learning Cooperatively" section from the Spring 2021 syllabus was worded quite nicely: *With the obvious exception of exams, we encourage you to discuss course activities with your friends and classmates as you are working on them. You will definitely learn more in this class if you work with others than if you do not. Ask questions, answer questions, and share ideas liberally.*
 
-And...again, the context here is a little different (e.g. upper-division vs. lower-division coiurse), but my point here stands: **emphasize collaboration in your syllabus, rather than denouncing it under the guise of "academic integrity".**
+And...again, the context here is a little different (e.g. upper-division vs. lower-division course), but my point here stands: **emphasize collaboration in your syllabus, rather than denouncing it under the guise of "academic integrity".**
 
 ## Exams
 
