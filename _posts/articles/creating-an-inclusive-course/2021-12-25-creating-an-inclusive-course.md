@@ -48,7 +48,7 @@ Not everyone learns the same way -- so if you're able to provide several differe
 
 Also, collect data on what works for students - and put TA hours toward building out the things that work! We polled students on how helpful they found the textbook in SU21 and FA21 (while we were actively developing it over that period of time), and we saw an increase of nearly 20% of students who rated the helpfulness of the textbook a 4/4.
 
-> ![](attachments/notes-useful.png)
+> <img title="" src="attachments/notes-useful.png" alt="" width="517">
 
 Aside: [CS 170](https://cs170.org) does this really, really, really well (lecture, reading, section/section walkthrough, mini-lecture/conceptual walkthroughs, assignments/assignment walkthroughs). 
 
