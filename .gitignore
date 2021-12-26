@@ -1,3 +1,5 @@
+*.cache
+.firebase
 */.DS_Store
 .DS_Store
 _site/
