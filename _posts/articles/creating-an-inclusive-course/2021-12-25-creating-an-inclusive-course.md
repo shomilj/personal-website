@@ -102,5 +102,4 @@ During the early days of Zoom proctoring, proctoring policies sometimes exceeded
 ### Additional Resources
 
 - [Proposed set of unified DSP policies](https://docs.google.com/document/d/18NBHwRaClsXc17mdzVd2x-kZkFldyuLlnd01lfUQxrg/edit)
-
 - [Sruthi's recommendations for one-on-one meetings](https://docs.google.com/document/d/1tJa-e48socf9LDCtQn0fzGqnTOn69qRhs7HUZG3IQsk/edit#heading=h.bnp8gflkqbmu) [from CS 61C]
