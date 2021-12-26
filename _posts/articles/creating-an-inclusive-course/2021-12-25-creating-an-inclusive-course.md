@@ -95,4 +95,4 @@ During the early days of Zoom proctoring, proctoring policies sometimes exceeded
 
 > ![](attachments/bot-1.png)
 
-> Much of this teaching philosophy has been adopted from conversations with some of CS 161's veteran TAs - Peyrin Kao, Nicholas Ngai, Vron Vance, Fuzail Shakir, and others - as well as from the professors who've taught CS 161 over the past few semesters: Nicholas Weaver, David Wagner, and Raluca Ada Popa.
+> Much of this perspective on pedagogy has been sourced from conversations with some of CS 161's veteran TAs - Peyrin Kao, Nicholas Ngai, Vron Vance, Fuzail Shakir, and others - as well as from the professors who've taught CS 161 over the past few semesters: Nicholas Weaver, David Wagner, and Raluca Ada Popa.
