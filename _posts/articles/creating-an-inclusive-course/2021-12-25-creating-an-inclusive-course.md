@@ -32,7 +32,7 @@ Aside: for the particular issue above, we course-corrected for the final by dedi
 
 ---
 
-**Be lenient with extensions.** Life as a student (especially at UC Berkeley) is often fatiguing, chaotic, and incredibly stressful. As instructors, many of the things we do directly contribute to a student's mental health. If we're given opportunities to reduce some of this stress (e.g. through a one or two-day extension, a few added slip days due to power outages, etc.) -- we should do evertything in our power to make it happen. 
+**Be lenient with extensions.** Life as a student (especially at UC Berkeley) is often fatiguing, chaotic, and incredibly stressful. As instructors, many of the things we do directly contribute to a student's mental health. If we're given opportunities to reduce some of this stress (e.g. through a one or two-day extension, a few added slip days due to power outages, etc.) -- we should do everything in our power to make it happen. 
 
 One strategy: when planning your course schedule at the beginning of the semester, throw in a scattering of buffer days -- and as the semester progresses, sprinkle a few random (intentional) extensions in as your "surprise" stress-relievers. [And on that note, here's an example of what not to do.](https://www.reddit.com/r/berkeley/comments/rdqh4j/drama_in_ee_120_who_do_you_side_with/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
@@ -40,7 +40,7 @@ One strategy: when planning your course schedule at the beginning of the semeste
 
 **Send out a weekly announcements post on Sunday or Monday, with deadlines & due dates for the week.** We've received feedback that these announcement posts help students stay on track!
 
-**Deliver content through multiple forms, if possible.** Over the past few semesters, we released a course textbook to supplement and enhance lecture. We did this to support students who better understand content through text (as opposed to verbal/graphical content delivered through lecture & lecture slides). This semester, I also put together a [Networking 101](https://docs.google.com/presentation/d/1TFIg7BBLqknzRl59IPGbDlvv53JRsoOZOlw17wilFLY/edit#slide=id.p) slide deck that covers the foundations of networking in more depth than our traditional lecture slides - this was also well recieved by students!
+**Deliver content through multiple forms, if possible.** Over the past few semesters, we released a course textbook to supplement and enhance lecture. We did this to support students who better understand content through text (as opposed to verbal/graphical content delivered through lecture & lecture slides). This semester, I also put together a [Networking 101](https://docs.google.com/presentation/d/1TFIg7BBLqknzRl59IPGbDlvv53JRsoOZOlw17wilFLY/edit#slide=id.p) slide deck that covers the foundations of networking in more depth than our traditional lecture slides - this was also well received by students!
 
 Not everyone learns the same way -- so if you're able to provide several different methods of digesting course content, then do so.
 
@@ -54,7 +54,7 @@ Aside: [CS 170](https://cs170.org) does this really, really, really well (lectur
 
 **People generally like video walkthroughs of things.** Our video walkthrough for [Project 1](https://www.youtube.com/watch?v=psxuAU9PycE) (1300 views) and [Project 2](https://www.youtube.com/watch?v=HVw4z_RVH20) (900 views) were among our most-viewed videos for the entire semester. We have a hunch that these were particularly helpful to students who were conceptually behind and/or felt lost -- considering we had only 600 enrolled students, it seems many students referenced these videos several times.
 
-**Give people updates on what's happening on Piazza, instead of leaving posts unresolved.** Our average response time on Piazza is 8-12 minutes. Admittedly, this is probably due to some degree of (voluntary) TA overwork, but it's one of the things that our course staff recieves the most amount of positive feedback for. OIne tip that I'd personally love to see in other classes: if you're blocked on immediately resolving a post or don't know what the answer is, then respond with a quick "Investigating" or "I've pinged XYZ to look into this" so students don't think you're flat-out ignoring posts! 
+**Give people updates on what's happening on Piazza, instead of leaving posts unresolved.** Our average response time on Piazza is 8-12 minutes. Admittedly, this is probably due to some degree of (voluntary) TA overwork, but it's one of the things that our course staff receives the most amount of positive feedback for. One tip that I'd personally love to see in other classes: if you're blocked on immediately resolving a post or don't know what the answer is, then respond with a quick "Investigating" or "I've pinged XYZ to look into this" so students don't think you're flat-out ignoring posts! 
 
 > ![](attachments/piazza-updates.png)
 
@@ -64,7 +64,7 @@ Aside: [CS 170](https://cs170.org) does this really, really, really well (lectur
 
 **Kind words are important.** In 161, we ask our proctors to run down a list of announcements at the start of an exam -- and the very last announcement is always a set of kind words (e.g. "You'll all do great!"). Similarly, we try to begin and end our email blasts with a few kind words as well, rather than going straight to business. These all contribute to building a welcoming course environment!
 
-**Be transparent.** Earlier this semester, we released a buggy autograder, with some students recieving lower-than-intended scores. When we re-released grades a few days later, we posted this note along with our update, which was well-received by students!
+**Be transparent.** Earlier this semester, we released a buggy autograder, with some students receiving lower-than-intended scores. When we re-released grades a few days later, we posted this note along with our update, which was well-received by students!
 
 <p align="center"><img src="attachments/transparent.png" alt="drawing" width="100%"/></p>
 
@@ -95,4 +95,12 @@ During the early days of Zoom proctoring, proctoring policies sometimes exceeded
 
 > ![](attachments/bot-1.png)
 
+
+
 > Much of this perspective on pedagogy has been sourced from conversations with some of CS 161's veteran TAs - Peyrin Kao, Nicholas Ngai, Vron Vance, Fuzail Shakir, and others - as well as from the professors who've taught CS 161 over the past few semesters: Nicholas Weaver, David Wagner, and Raluca Ada Popa.
+
+### Additional Resources
+
+- [Proposed set of unified DSP policies](https://docs.google.com/document/d/18NBHwRaClsXc17mdzVd2x-kZkFldyuLlnd01lfUQxrg/edit)
+
+- [Sruthi's recommendations for one-on-one meetings](https://docs.google.com/document/d/1tJa-e48socf9LDCtQn0fzGqnTOn69qRhs7HUZG3IQsk/edit#heading=h.bnp8gflkqbmu) [from CS 61C]
