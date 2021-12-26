@@ -8,7 +8,7 @@ description: This post contains a few tips from my experience TAing for CS 161.
 
 > This post contains tips on how to create an inclusive course environment. Much of this perspective on pedagogy has been sourced from conversations with some of CS 161's veteran TAs - Peyrin Kao, Vron Vance, Nicholas Ngai, Fuzail Shakir, and others - as well as from the professors who've taught CS 161 over the past few semesters: Nicholas Weaver, David Wagner, and Raluca Ada Popa. 
 > 
-> ⚠️This is a work-in-progress. If you have comments, shoot me an email at [shomil@berkeley.edu](mailto:shomil@berkeley.edu) or ping me via Slack. ⚠️
+> This is a work-in-progress. If you have comments, shoot me an email at [shomil@berkeley.edu](mailto:shomil@berkeley.edu) or ping me via Slack.
 
 ## Feedback
 
@@ -42,17 +42,17 @@ Not everyone learns the same way -- so if you're able to provide several differe
 
 ![](attachments/textbook.png)
 
+[CS 170](https://cs170.org) does this really, really, really well (they offer lecture, reading, section/section walkthrough, mini-lecture/conceptual walkthroughs, and assignments/assignment walkthroughs).
+
 Also, collect data on what works for students - and put TA hours toward building out the things that work. We polled students on how helpful they found the textbook in SU21 and FA21 (while we were actively developing it over that period of time), and we saw an increase of nearly 20% of students who rated the helpfulness of the textbook a 4/4.
 
 > <img title="" src="attachments/notes-useful.png" alt="" width="517">
-
-Aside: [CS 170](https://cs170.org) does this really, really, really well (lecture, reading, section/section walkthrough, mini-lecture/conceptual walkthroughs, assignments/assignment walkthroughs). 
 
 **People generally like video walkthroughs of things.** Our video walkthrough for [Project 1](https://www.youtube.com/watch?v=psxuAU9PycE) (1300 views) and [Project 2](https://www.youtube.com/watch?v=HVw4z_RVH20) (900 views) were among our most-viewed videos for the entire semester. We have a hunch that these were particularly helpful to students who were conceptually behind and/or felt lost -- considering we had only 600 enrolled students, it seems many students referenced these videos several times.
 
 ## Logistics
 
-**Be lenient with extensions.** Life as a student (especially at UC Berkeley) is often fatiguing, chaotic, and incredibly stressful. As instructors, many of the things we do directly contribute to a student's mental health. If we're given opportunities to reduce some of this stress (e.g. through a one or two-day extension, a few added slip days due to power outages, etc.) -- we should do everything in our power to make it happen. 
+**Be lenient with extensions.** Life as a student (especially at UC Berkeley) is often fatiguing, chaotic, and incredibly stressful. As instructors, many of the things we do directly and indirectly affect our students' mental health. If we're given opportunities to reduce student stress (e.g. through a one or two-day extension, a few added slip days due to power outages, etc.) -- we should do everything in our power to make it happen. 
 
 One strategy: when planning your course schedule at the beginning of the semester, throw in a scattering of buffer days -- and as the semester progresses, sprinkle a few random (intentional) extensions in as your "surprise" stress-relievers. [And on that note, here's an example of what not to do.](https://www.reddit.com/r/berkeley/comments/rdqh4j/drama_in_ee_120_who_do_you_side_with/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
@@ -99,13 +99,13 @@ And...again, the context here is a little different (e.g. upper-division vs. low
 
 **Always, always, always simplify student-facing logistics.** When designing policies, procedures, and other student-facing documents, keep things simple - as simple as possible. The most critical example of this: exam logistics **should never exceed one page.** Here's an example of [what to do](https://cs161.org/exam), and [what not to do](https://docs.google.com/document/d/1TQojO7tDzQtGzuMAFiXIBwvEEmX_Z454b1yzvcrqzzc/edit). Both of these examples are from Fall 2021.
 
-During the early days of Zoom proctoring, proctoring policies sometimes exceeded ~12-17 pages (yes, this [really happened](https://www.reddit.com/r/berkeley/comments/j1rznd/excessive_zoom_proctoring_shouldnt_be_allowed/)). Creating excessive hoops for students to jump through distract from learning actual course content -- not to mention that we can achieve the same degree of effectiveness through a one-page policy.
+During the early days of Zoom proctoring, proctoring policies sometimes exceeded ~12-17 pages (yes, this [really happened](https://www.reddit.com/r/berkeley/comments/j1rznd/excessive_zoom_proctoring_shouldnt_be_allowed/)). Creating excessive hoops for students to jump through distracts from actual course content -- not to mention that we can achieve the same degree of effectiveness through a one-page policy.
 
 **Make the exam-taking experience as smooth as possible.** Here are a few easy-to-catch things that we look for in our exams to make the experience better for our students:
 
 - If you're offering hybrid exams, pay close attention to equity across formats (e.g. limit short-answer questions to one sentence, so you're not giving fast typers a significant advantage).
 - When pre-testing, *print out the exam*. Sometimes, how pages line up influence the exam taking process (e.g. question on the front of a page, with the answer box on the back).
-- Make sure your exam's accessible to students who don't speak English as their first language. Try to stay away from using large words & big blocks of text. Keep sentences short & concise.
+- Try to stay away from using big, convoluted blocks of text. Keep sentences short & concise to ensure the focus remains on course material.
 
 **Exams shouldn't leave students feeling depressed.** Follow Dan Garcia's [tips on writing good exam questions](https://eecs.berkeley.edu/resources/gsis/current/prep). A few major recommendations –
 
