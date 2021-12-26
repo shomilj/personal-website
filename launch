@@ -1,6 +1,7 @@
-git add .
-git commit -m "updated"
-git push origin master
 gcloud config configurations activate shomil
 JEKYLL_ENV=production bundle exec jekyll build
 firebase deploy
+
+git add .
+git commit -m "updated"
+git push origin master
