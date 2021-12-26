@@ -65,6 +65,8 @@ One strategy: when planning your course schedule at the beginning of the semeste
 
 **Kind words are important.** In 161, we ask our proctors to run down a list of announcements at the start of an exam -- and the very last announcement is always a set of kind words (e.g. "You'll all do great!"). Similarly, we try to begin and end our email blasts with a few kind words as well, rather than going straight to business. These all contribute to building a welcoming course environment!
 
+**Try to build in support for one-on-one meetings with students.** We have a few TA's who dedicate a few of their hours towards these meetings each week - and they say every one of these meetings end with the student saying something like "this has been so helpful, I was really stressed out before the meeting and now I am in such a good place and ready for...". The difference between a private Piazza post or email and directly speaking to a struggling student is astounding. Discussion with larger courses suggests that these meetings are difficult to scale to larger classes - but that doesn't invalidate the merit of them (Related: [see these tips.](https://docs.google.com/document/d/1tJa-e48socf9LDCtQn0fzGqnTOn69qRhs7HUZG3IQsk/edit#heading=h.bnp8gflkqbmu))
+
 ## Piazza
 
 **Give people updates on what's happening on Piazza, instead of leaving posts unresolved.** Our average response time on Piazza is 8-12 minutes. Admittedly, this is probably due to some degree of (voluntary) TA overwork, but it's one of the things that our course staff receives the most amount of positive feedback for. One tip that I'd personally love to see in other classes: if you're blocked on immediately resolving a post or don't know what the answer is, then respond with a quick "Investigating" or "I've pinged XYZ to look into this" so students don't think you're flat-out ignoring posts! 
@@ -85,15 +87,11 @@ One strategy: when planning your course schedule at the beginning of the semeste
 
 **Put all important course links on your site's homepage.** This includes things like a standardized form to request extensions (here's an [example](https://docs.google.com/forms/d/e/1FAIpQLSfgtF7Wti0l0mi08Qze0HQsHbqhrqT2jw_G7hptw1J9ANCfsg/viewform)) and the office hours queue.
 
-**Please don't conflate cheating with collaboration in your course syllabus.** An earlier iteration of the [CS 61C syllabus](https://inst.eecs.berkeley.edu/~cs61c/fa20/policies) contained this note: 
-
-*We don’t want you sharing approaches, ideas, code or whiteboarding with other students.*
+**Please don't conflate cheating with collaboration in your course syllabus.** An earlier iteration of the [CS 61C syllabus](https://inst.eecs.berkeley.edu/~cs61c/fa20/policies) contained this note:  *We don’t want you sharing approaches, ideas, code or whiteboarding with other students.*
 
 At the time, it blew my mind that an introductory-level CS class at a top-tier university had an outright ban on whiteboarding with other students! Of course, this was in the context of academic integrity around course projects - but the specific wording that this particular policy used seemed (from my perspective as a student) cut-throat, competitive, and anti-collaborative. 
 
-I thought CS 184's "Learning Cooperatively" section from the Spring 2021 syllabus was worded quite nicely:
-
-*With the obvious exception of exams, we encourage you to discuss course activities with your friends and classmates as you are working on them. You will definitely learn more in this class if you work with others than if you do not. Ask questions, answer questions, and share ideas liberally.*
+I thought CS 184's "Learning Cooperatively" section from the Spring 2021 syllabus was worded quite nicely: *With the obvious exception of exams, we encourage you to discuss course activities with your friends and classmates as you are working on them. You will definitely learn more in this class if you work with others than if you do not. Ask questions, answer questions, and share ideas liberally.*
 
 And...again, the context here is a little different (e.g. upper-division vs. lower-division coiurse), but my point here stands: **emphasize collaboration in your syllabus, rather than denouncing it under the guise of "academic integrity".**
 
@@ -122,7 +120,7 @@ During the early days of Zoom proctoring, proctoring policies sometimes exceeded
 
 > ![](attachments/regrades.png)
 
-**Add a course bot!**** A few of our TA's have been developing EvanBot (along with a pretty integrated course storyline) over the course of the past few semesters. Here are a few of Bot's capabilities: [making sensitive remarks about grading](attachments/bot-1.png), [responding to logistics requests in humorous ways](attachments/bot-2.png), and [sliding in a sly comment or two.](attachments/bot-3.png)
+**Add a course bot!** A few of our TA's have been developing EvanBot (along with a pretty integrated course storyline) over the course of the past few semesters. Here are a few of Bot's capabilities: [making sensitive remarks about grading](attachments/bot-1.png), [responding to logistics requests in humorous ways](attachments/bot-2.png), and [sliding in a sly comment or two.](attachments/bot-3.png)
 
 > ![](attachments/bot-1.png)
 
@@ -136,7 +134,7 @@ If you're a head TA, these are a few things that have worked well on 161 staff.
 
 **Keep hours flexible for office-hours "on-call" requests.** This is super important during project weeks - if the queue is long, whoever's assigned to a particular slot should ping Slack with a @here requesting assistance! Set an expectation for TA's to dedicate a few staff hours towards being "on-call" during crunch weeks, and doubling up or stacking busy office hour times.
 
-## Additional Resources
+## A Few Additional Resources
 
 - [Proposed set of unified DSP policies](https://docs.google.com/document/d/18NBHwRaClsXc17mdzVd2x-kZkFldyuLlnd01lfUQxrg/edit)
 - [Sruthi's recommendations for one-on-one meetings](https://docs.google.com/document/d/1tJa-e48socf9LDCtQn0fzGqnTOn69qRhs7HUZG3IQsk/edit#heading=h.bnp8gflkqbmu) [from CS 61C]
