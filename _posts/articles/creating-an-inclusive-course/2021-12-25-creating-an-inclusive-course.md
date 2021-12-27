@@ -69,11 +69,11 @@ One strategy: when planning your course schedule at the beginning of the semeste
 
 ## Piazza
 
-**Give people updates on what's happening on Piazza, instead of leaving posts unresolved.** Last semester, our average response time on Piazza was 8-12 minutes. Admittedly, this was due to some degree of (voluntary...but unhealthy...) TA overwork on our staff, but it's one of the things that students did repeatedly praise in feedback. *I don't think it's healthy or feasible to expect staff response times to be within the ~10 minute range* -- but I do think that it's worth discussing how to reduce response times & unresolved posts while distributing workload across staff.
-
-One tip that I'd personally love to see in other classes: if you're blocked on immediately resolving a post or don't know what the answer is, then respond with a quick "Investigating" or "I've pinged XYZ to look into this" so students don't think you're ignoring posts!
+**Give people updates on what's happening on Piazza, instead of leaving posts unresolved.** One tip that I'd personally love to see in other classes: if you're blocked on immediately resolving a post or don't know what the answer is, then respond with a quick "Investigating" or "I've pinged XYZ to look into this" so students don't think you're ignoring posts!
 
 > ![](attachments/piazza-updates.png)
+
+An additional note: last semester, our average response time on Piazza was 8-12 minutes. Admittedly, this was due to some degree of (voluntary...but unhealthy...) TA overwork on our staff, but it's one of the things that students did repeatedly praise in feedback. *I don't think it's healthy or feasible to expect staff response times to be within the ~10 minute range* -- but I do think that it's worth discussing how to reduce response times & unresolved posts while distributing workload across staff.
 
 **Instead of flat-out rejecting student demands, compromise wherever possible.** Here's an example: we release grade reports three times throughout the semester - after the midterm, before the final, and after the final. In our first round of grade reports, we received feedback (through our HW feedback channel) that percentiles were causing a stressful, competitive environment, where people were forced to compare themselves to their peers when looking at their grade reports. As such, we took these percentiles out in the second round. This immediately received pushback on Piazza -- to which, we re-discussed and released this:
 
