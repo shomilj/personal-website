@@ -1,5 +1,5 @@
 ---
-title: Creating an Inclusive Course
+title: Creating an Inclusive Course Environment
 created: 2021-12-25T20:13:18.54
 modified: 2021-12-26T01:37:28.20
 tags: [articles]
