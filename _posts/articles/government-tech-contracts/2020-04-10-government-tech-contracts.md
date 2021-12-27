@@ -10,8 +10,6 @@ description: See title.
 
 To view the paper as a PDF, click [here](/assets/pdf/paper.pdf).
 
-
-
 ### Introduction
 
 As the development of artificial intelligence and cloud computing has accelerated over the past decade, the United States Government has taken an interest in using these cutting-edge technologies for purposes involving national security and defense. Recently, employees of major technology firms – Google, Amazon, and Microsoft – have been pushing their companies to put ethics before profit when it comes to working on contracts with military or defense motivations. There exists a strong business case to take these government contracts: they often bring in hundreds of millions of dollars of stable revenue for corporations. Different corporations, however, have taken unique stances on the issue. While Amazon engages frequently with defense contractors, providing everything from cloud computing services to facial recognition technology, Google has taken an opposing stance in a set of guiding AI principles published by the company. Technology corporations are ethically justified in accepting government contracts relating to national defense, border security, and government surveillance; these contracts spur unparalleled technological innovation, are politically advantageous for corporations, and provide a platform for private companies to contribute to public efforts to prepare for national and international crises.
