@@ -69,7 +69,9 @@ One strategy: when planning your course schedule at the beginning of the semeste
 
 ## Piazza
 
-**Give people updates on what's happening on Piazza, instead of leaving posts unresolved.** Our average response time on Piazza is 8-12 minutes. Admittedly, this is probably due to some degree of (voluntary) TA overwork, but it's one of the things that our course staff receives the most amount of positive feedback for. One tip that I'd personally love to see in other classes: if you're blocked on immediately resolving a post or don't know what the answer is, then respond with a quick "Investigating" or "I've pinged XYZ to look into this" so students don't think you're flat-out ignoring posts.
+**Give people updates on what's happening on Piazza, instead of leaving posts unresolved.** Last semester, our average response time on Piazza was 8-12 minutes. Admittedly, this was due to some degree of (voluntary...but unhealthy...) TA overwork on our staff, but it's one of the things that students did repeatedly praise in feedback. *I don't think it's healthy or feasible to expect staff response times to be within the ~10 minute range* -- but I do think that it's worth discussing how to reduce response times & unresolved posts while distributing workload across staff.
+
+One tip that I'd personally love to see in other classes: if you're blocked on immediately resolving a post or don't know what the answer is, then respond with a quick "Investigating" or "I've pinged XYZ to look into this" so students don't think you're ignoring posts!
 
 > ![](attachments/piazza-updates.png)
 
