@@ -4,6 +4,7 @@ created: 2021-12-25T20:13:18.54
 modified: 2021-12-26T01:37:28.20
 tags: [articles]
 description: This post contains a few tips from my experience TAing for CS 161.
+image: /assets/img/creating-an-inclusive-course.png
 ---
 
 > This post contains tips on how to create an inclusive course environment. Much of this perspective on pedagogy has been sourced from conversations with some of CS 161's veteran TAs - Peyrin Kao, Vron Vance, Nicholas Ngai, Fuzail Shakir, and others - as well as from the professors who've taught CS 161 over the past few semesters: Nicholas Weaver, David Wagner, and Raluca Ada Popa. 
