@@ -8,8 +8,6 @@ description: A quick overview of inspect element & reverse engineering.
 
 Here's a pretty neat presentation I gave on reverse engineering!
 
-> Disclaimer: I did not ACTUALLY hack Snackpass - but I do show how you *could* have been able to do so if certain assumptions about their technical architecture were true!
-
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
