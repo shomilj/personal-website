@@ -42,7 +42,6 @@ The traditional flow results in several challenges, including:
 
 - **High potential for human error.** In every manual step, there's a chance for data entry errors that are capable of propagating downstream; in CS 161/CS 61C, we saw a large number of these that arose at the end of the semester when generating final grade reports.
 - **Communication difficulties.** For classes that outsource work to course managers, there are three parties with different views on extension data: what course managers see, what course staff see, and what students see. All communication, by default, needs to be inclusive of all three parties; if even one email is two-way instead of three-way, then information is "lost".
-
 - **Delayed processing times.** Because of the number of manual steps required here, it can take several days for students to hear back on whether or not their requests were granted, leaving them in a state of stress and uncertainty. 
 - **High barriers to requesting extensions.** Because there are so many steps in approving each extension, there's a tendency to write strongly-worded policies discouraging most student extension requests. 
 
@@ -84,7 +83,7 @@ When an extension is automatically approved, staff don't need to do anything!
 
 ---
 
-<u>**If an extension request requires manual approval**,</u> the message contains a reason why the request couldn't be auto-approved.
+**<u>If an extension request requires manual approval</u>**, the message contains a reason why the request couldn't be auto-approved.
 
 ![image-20220127103436782](README.assets/image-20220127103436782.png)
 
@@ -136,7 +135,6 @@ Assignments may be dynamically configured as well, through the **"Assignments"**
 # Edge Cases & FAQ's
 
 **<u>In what cases are extensions flagged for human approval?</u>**
-
 These cases are flagged for human approval:
 
 - The student requests a large number of extension days for any single assignment. This threshold is `AUTO_APPROVE_THRESHOLD` and `AUTO_APPROVE_THRESHOLD_DSP` for students with DSP accommodations for assignment extensions.
@@ -146,27 +144,21 @@ These cases are flagged for human approval:
 All other cases are auto-approved! [See here for the logic that handles these cases.](https://github.com/cs161-staff/extensions/blob/master/src/handle_form_submit.py#L63)
 
 **<u>How do I make it so that all extensions (regardless of status) require manual approval?</u>**
-
 If you want tighter control over what's approved, set `AUTO_APPROVE_THRESHOLD` to `0` and `AUTO_APPROVE_THRESHOLD_DSP` to `0`. It doesn't matter what you set `AUTO_APPROVE_ASSIGNMENT_THRESHOLD` to.
 
 **<u>What if a student submits an extension request with a partner?</u>**
-
 Any requested extensions for assignments that are "partner" assignments will apply to the designated partner as well as the student. Both student records will be updated on the **Roster**, and the logic for approval will apply to both partners (e.g. if Partner A submits the form and Partner B has a "work-in-progress" record, then the extension as a whole will be flagged for manual approval).
 
 **<u>What happens if this thing internally combusts in the middle of the semester?</u>**
-
 While unlikely, this is a very simple failover case: just process form submissions into the **Roster** spreadsheet manually, and send templated emails through something like YAMM.
 
 **<u>Wait, I still have to update the student's due date in OKPY/Gradescope/PL so that they'll be able to turn in their assignments late, right?</u>**
-
 You could do this (manually) after each extension request, if you'd like. Alternatively, you could set the "late" due date on these assignments to the end of the semester, and use the extension data on the **Roster** during grade compilation (this is what CS 161 & CS 61C do). Students will see their assignments marked as "late", but they'll be able to use the email they received as proof of their granted extension, just in case they notice inconsistencies in their grade reports.
 
 **<u>What about long-term maintenance?</u>**
-
 Due to the simplicity of this project's architecture (no frontend, configuration is entirely dynamic, etc.), we don't anticipate this project needing a lot of long-term maintenance! And feature requests are simple to add, since the code is well-documented with Python class abstractions.
 
 **<u>What if I want to change an assignment deadline after extension requests have already come in?</u>**
-
 You can handle this in any way that you'd like! Two common approaches –
 
 1. Clear out previously-assigned extension requests, and email all students who had requested an extension to re-submit an extension if they need more days past the extended deadline. To clear out existing requests, just clear the assignment column on the **Roster.**
