@@ -71,6 +71,10 @@ exclude:
   - README.md
   - node_modules
   - CODE_OF_CONDUCT.md
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Plugins
 plugins:
