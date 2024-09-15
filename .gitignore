@@ -1,3 +1,4 @@
+vendor/
 *.cache
 .firebase
 */.DS_Store
