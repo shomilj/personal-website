@@ -1,4 +1,4 @@
-gcloud config configurations activate shomil
+gcloud config set project shomil
 JEKYLL_ENV=production bundle exec jekyll build
 firebase deploy
 
