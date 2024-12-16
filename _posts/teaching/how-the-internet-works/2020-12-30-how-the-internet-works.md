@@ -7,4 +7,6 @@ tags: [teaching]
 description: See title.
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9m6qcK5bQe2pnLGlW6pWFhATldOHCPAecTQZ7cZQCMDree1HtAwlMsILIAjFUXXd7oPm-zgx7DpMc/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9m6qcK5bQe2pnLGlW6pWFhATldOHCPAecTQZ7cZQCMDree1HtAwlMsILIAjFUXXd7oPm-zgx7DpMc/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+View [externally](https://docs.google.com/presentation/d/e/2PACX-1vS9m6qcK5bQe2pnLGlW6pWFhATldOHCPAecTQZ7cZQCMDree1HtAwlMsILIAjFUXXd7oPm-zgx7DpMc/embed?start=false&loop=false&delayms=60000&slide=id.p).
